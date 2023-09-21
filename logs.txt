@@ -258,3 +258,12 @@ hannuxUsed /drop to drop Phoenix Sickles (1) in world SET.
 hannuxUsed /drop to drop DigiVend Machine (100) in world START.
 hannuxUsed /drop to drop Phoenix Wings (1) in world CARNIVAL.
 hannuxUsed /drop to drop Crystal Block (1) in world CARNIVAL.
+hannuxUsed /drop to drop Builder's Lock (1) in world TRADE.
+hannuxUsed /drop to drop Small Lock (1) in world TRADE.
+hannuxUsed /drop to drop Change of Address (1) in world SHOP.
+hannuxUsed /drop to drop Black Gem Lock (1) in world SWA.
+hannuxUsed /drop to drop Builder's Lock (1) in world SHOP.
+hannuxUsed /drop to drop Aurora and Igniculus (1) in world SHOP.
+hannuxUsed /drop to drop Street Dog (1) in world SHOP.
+hannux duct-taped (skem) - Car
+hannuxUsed /drop to drop Soulbinder (1) in world SET.

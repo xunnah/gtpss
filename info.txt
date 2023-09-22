@@ -132823,3 +132823,8 @@ tiley|49|
 buttonClicked|getplantationdevice
 
 
+BFG) action|input
+|text|/auto
+BFG) action|wrench
+|netid|1
+

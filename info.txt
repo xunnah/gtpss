@@ -132487,3 +132487,20 @@ tilex|1|
 tiley|49|
 sign_text|1 year 40wl
 
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|67|
+tiley|19|
+expectprice|-50|
+expectitem|728|
+buycount|200
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|67|
+tiley|19|
+verify|1|
+buycount|200|
+expectprice|-50|
+expectitem|728|
+

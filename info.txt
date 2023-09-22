@@ -131356,3 +131356,13 @@ dialog_name|socialportal
 buttonClicked|systemcoin
 
 
+SETH) action|dialog_return
+dialog_name|
+buttonClicked|chc0
+
+
+SETH) action|dialog_return
+dialog_name|levelup
+buttonClicked|claimreward19
+
+

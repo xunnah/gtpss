@@ -133456,3 +133456,20 @@ item|world_lock_10_pack
 BFG) action|killstore
 item|
 
+SET) action|dialog_return
+dialog_name|vending
+tilex|34|
+tiley|35|
+expectprice|200|
+expectitem|7834|
+buycount|01
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|34|
+tiley|35|
+verify|1|
+buycount|1|
+expectprice|200|
+expectitem|7834|
+

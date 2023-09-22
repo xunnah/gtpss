@@ -132686,3 +132686,37 @@ BFG) action|input
 BFG) action|wrench
 |netid|1
 
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|49|
+tiley|43|
+expectprice|5|
+expectitem|1404|
+buycount|01
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|49|
+tiley|43|
+verify|1|
+buycount|1|
+expectprice|5|
+expectitem|1404|
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|30|
+tiley|31|
+expectprice|-40|
+expectitem|998|
+buycount|080
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|30|
+tiley|31|
+verify|1|
+buycount|80|
+expectprice|-40|
+expectitem|998|
+

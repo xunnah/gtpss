@@ -129324,3 +129324,9 @@ zf|1642511664
 
 SWA) action|input
 |text|/1hit
+CASINO) action|input
+|text|/clear
+CASINO) action|input
+|text|/clear
+CASINO) action|input
+|text|/1hit

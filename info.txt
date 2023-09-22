@@ -131043,3 +131043,9 @@ BFG) action|trash
 BFG) action|store
 location|gem
 
+BFG) action|buy
+item|locks
+
+BFG) action|killstore
+item|
+

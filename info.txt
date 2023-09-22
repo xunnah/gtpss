@@ -132622,3 +132622,28 @@ buycount|80|
 expectprice|-40|
 expectitem|998|
 
+) tankIDName|Car
+tankIDPass|Allawi.77@
+requestedName|355
+f|0
+protocol|199
+game_version|4.36
+fz|67419688
+lmode|0
+cbits|1024
+player_age|59
+GDPR|1
+category|_-5100
+totalPlaytime|0
+klv|897877eafda84e820fe6e33a52653ec447007445bbbb42aaacd9d069977ac6a4
+hash2|-722977633
+meta|1695351448
+fhash|-716928004
+rid|01C03E0505B2C49C0062E0D323E6AE78
+platformID|0,1,1
+deviceVersion|0
+country|ae
+hash|-1558365322
+mac|02:00:8b:49:a7:e0
+wk|B8140593B40027D5A93B32D673EC6007
+zf|1642511664

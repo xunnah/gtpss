@@ -132126,3 +132126,121 @@ LINKS) action|input
 |text|free
 LINKS) action|input
 |text|ty
+LINKS) action|store
+location|gem
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|30|
+tiley|31|
+expectprice|-40|
+expectitem|998|
+buycount|200
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|30|
+tiley|31|
+expectprice|-40|
+expectitem|998|
+buycount|80
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|30|
+tiley|31|
+verify|1|
+buycount|80|
+expectprice|-40|
+expectitem|998|
+
+LINKS) action|friends
+delay|0
+
+LINKS) action|dialog_return
+dialog_name|socialportal
+buttonClicked|kitsystem
+
+
+LINKS) action|dialog_return
+dialog_name|
+buttonClicked|kits_price_4992
+
+
+LINKS) action|dialog_return
+dialog_name|
+buttonClicked|kits_item_4992
+
+
+LINKS) action|dialog_return
+dialog_name|lock_edit
+tilex|12|
+tiley|46|
+buttonClicked|recalcLock
+
+checkbox_public|0
+checkbox_ignore|1
+
+) tankIDName|hannux
+tankIDPass|han.2301
+requestedName|EinstBill
+f|0
+protocol|199
+game_version|4.36
+fz|67419688
+lmode|0
+cbits|0
+player_age|18
+GDPR|1
+category|w1_
+totalPlaytime|0
+klv|8a462a45ad6d62d3f8cdedc9925ff82df134d7e34236f842b8d07e6bc579c9f1
+hash2|-2104251616
+meta|1695351448
+fhash|-716928004
+rid|01B7824317B3CFF90152832407B62D89
+platformID|0,1,1
+deviceVersion|0
+country|us
+hash|-1639982689
+mac|00:ff:3e:41:67:ff
+wk|4C1F60A339DF90915C0950F27471FD8E
+zf|1642511664
+) action|enter_game
+
+LINKS) action|dialog_return
+dialog_name|lock_edit
+tilex|14|
+tiley|46|
+buttonClicked|recalcLock
+
+checkbox_public|0
+checkbox_ignore|1
+
+LINKS) action|dialog_return
+dialog_name|lock_edit
+tilex|16|
+tiley|46|
+buttonClicked|recalcLock
+
+checkbox_public|0
+checkbox_ignore|1
+
+LINKS) action|dialog_return
+dialog_name|lock_edit
+tilex|18|
+tiley|46|
+buttonClicked|recalcLock
+
+checkbox_public|0
+checkbox_ignore|1
+
+LINKS) action|dialog_return
+dialog_name|lock_edit
+tilex|20|
+tiley|46|
+buttonClicked|recalcLock
+
+checkbox_public|0
+checkbox_ignore|1
+

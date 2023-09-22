@@ -133118,3 +133118,6 @@ BFG) action|respawn_spike
 tileX|17
 tileY|50
 
+BFG) action|wrench
+|netid|2
+

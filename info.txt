@@ -132051,3 +132051,78 @@ LINKS) action|input
 |text|/wl 1
 LINKS) action|input
 |text|/wl 1
+LINKS) action|store
+location|gem
+
+LINKS) action|buy
+item|itempack
+
+LINKS) action|buy
+item|small_lock
+
+LINKS) action|buy
+item|small_lock
+
+LINKS) action|buy
+item|small_lock
+
+LINKS) action|killstore
+item|
+
+LINKS) action|input
+|text|/dl 1
+LINKS) action|input
+|text|/dl 1
+LINKS) action|input
+|text|can u give me 200 smaol locks ill give 20 wls for that
+LINKS) action|input
+|text|/find small lock
+LINKS) action|dialog_return
+dialog_name|search_option
+search|small lock|
+buttonClicked|search_202
+
+
+LINKS) action|drop
+|itemID|242
+
+LINKS) action|dialog_return
+dialog_name|
+itemID|202|
+lastFind|small lock|
+buttonClicked|get_item
+
+item_amount|200
+
+LINKS) action|wrench
+|netid|2
+
+LINKS) action|dialog_return
+dialog_name|popup
+netID|1|
+netID|2|
+buttonClicked|trade
+
+
+LINKS) action|trade_started
+netid|2
+
+LINKS) action|dialog_return
+dialog_name|drop_item
+itemID|242|
+count|20
+
+LINKS) action|trade_cancel
+
+LINKS) action|drop
+|itemID|202
+
+LINKS) action|dialog_return
+dialog_name|drop_item
+itemID|202|
+count|200
+
+LINKS) action|input
+|text|free
+LINKS) action|input
+|text|ty

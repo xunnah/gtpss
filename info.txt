@@ -131366,3 +131366,71 @@ dialog_name|levelup
 buttonClicked|claimreward19
 
 
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|49|
+tiley|7|
+expectprice|-200|
+expectitem|1098|
+buycount|200
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|49|
+tiley|7|
+verify|1|
+buycount|200|
+expectprice|-200|
+expectitem|1098|
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|50|
+tiley|7|
+expectprice|-200|
+expectitem|1094|
+buycount|200
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|50|
+tiley|7|
+verify|1|
+buycount|200|
+expectprice|-200|
+expectitem|1094|
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|51|
+tiley|7|
+expectprice|-200|
+expectitem|1096|
+buycount|200
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|51|
+tiley|7|
+verify|1|
+buycount|200|
+expectprice|-200|
+expectitem|1096|
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|52|
+tiley|7|
+expectprice|-200|
+expectitem|1058|
+buycount|200
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|52|
+tiley|7|
+verify|1|
+buycount|200|
+expectprice|-200|
+expectitem|1058|
+

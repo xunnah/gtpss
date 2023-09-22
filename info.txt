@@ -130260,3 +130260,21 @@ dialog_name|drop_item
 itemID|1940|
 count|1
 
+7) action|input
+|text|wear this
+7) action|input
+|text|3
+7) action|input
+|text|2
+7) action|input
+|text|1
+7) action|input
+|text|go
+7) action|input
+|text|i win
+7) action|input
+|text|drop my shoes
+7) action|input
+|text|again
+7) action|input
+|text|321go

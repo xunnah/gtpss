@@ -129583,3 +129583,104 @@ location|gem
 7) action|killstore
 item|
 
+7) action|store
+location|gem
+
+7) action|killstore
+item|
+
+7) action|input
+|text|well 160k is something like 2dl or something
+7) action|store
+location|gem
+
+7) action|buy
+item|itempack
+
+7) action|buy
+item|world_lock_10_pack
+
+7) action|buy
+item|world_lock_10_pack
+
+7) action|buy
+item|world_lock_10_pack
+
+7) action|buy
+item|world_lock_10_pack
+
+7) action|buy
+item|world_lock_10_pack
+
+7) action|buy
+item|world_lock_10_pack
+
+7) action|killstore
+item|
+
+7) action|drop
+|itemID|242
+
+7) action|dialog_return
+dialog_name|drop_item
+itemID|242|
+count|2
+
+7) action|store
+location|gem
+
+7) action|buy
+item|itempack
+
+7) action|buy
+item|world_lock_10_pack
+
+7) action|buy
+item|world_lock_10_pack
+
+7) action|buy
+item|world_lock_10_pack
+
+7) action|buy
+item|world_lock_10_pack
+
+7) action|buy
+item|world_lock_10_pack
+
+7) action|buy
+item|world_lock_10_pack
+
+7) action|buy
+item|world_lock_10_pack
+
+7) action|buy
+item|world_lock_10_pack
+
+7) action|friends
+delay|0
+
+7) action|buy
+item|world_lock_10_pack
+
+7) action|dialog_return
+dialog_name|socialportal
+buttonClicked|systemcoin
+
+
+7) action|buy
+item|world_lock_10_pack
+
+7) action|buy
+item|world_lock_10_pack
+
+7) action|buy
+item|world_lock_10_pack
+
+7) action|dialog_return
+dialog_name|
+buttonClicked|chc0
+
+
+7) action|buy
+item|world_lock_10_pack
+

@@ -133210,3 +133210,62 @@ dialog_name|ringmaster1
 buttonClicked|ring1
 
 
+CARNIVAL) action|dialog_return
+dialog_name|ringmaster1
+buttonClicked|requir
+
+
+CARNIVAL) action|dialog_return
+dialog_name|levelup
+buttonClicked|claimreward20
+
+
+BFG) action|dialog_return
+dialog_name|itemsucker_block
+tilex|3|
+tiley|49|
+buttonClicked|getplantationdevice
+
+
+BFG) action|wrench
+|netid|2
+
+BFG) action|dialog_return
+dialog_name|popup
+buttonClicked|cheat_menunew
+
+
+BFG) action|dialog_return
+dialog_name|dialog_cheat_menu
+checkbox_cheat_autofarm|1
+checkbox_cheat_autocollect|1
+checkbox_cheat_antibounce|0
+checkbox_cheat_speed|0
+checkbox_cheat_jump|0
+checkbox_cheat_kick|0
+checkbox_cheat_ban|0
+checkbox_cheat_hideother|0
+checkbox_cheat_hidechat|0
+checkbox_cheat_fastpull|0
+checkbox_cheat_fastdrop|0
+checkbox_cheat_fasttrash|0
+checkbox_cheat_fastspin|0
+text_input_spam_delay|2
+text_input_spam_chat|Eating 
+checkbox_cheat_spam|0
+
+BFG) action|friends
+delay|0
+
+BFG) action|dialog_return
+dialog_name|socialportal
+buttonClicked|kitsystem
+
+
+BFG) action|dialog_return
+dialog_name|
+buttonClicked|chc0
+
+
+BFG) action|input
+|text|car trd

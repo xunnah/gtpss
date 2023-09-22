@@ -132605,3 +132605,20 @@ expectitem|3488|
 
 BFG) action|input
 |text|/auto
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|30|
+tiley|31|
+expectprice|-40|
+expectitem|998|
+buycount|080
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|30|
+tiley|31|
+verify|1|
+buycount|80|
+expectprice|-40|
+expectitem|998|
+

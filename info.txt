@@ -132855,3 +132855,5 @@ wk|4C1F60A339DF90915C0950F27471FD8E
 zf|1642511664
 ) action|enter_game
 
+VEND) action|input
+|text|/1hit

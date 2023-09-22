@@ -129779,3 +129779,101 @@ count|160
 
 7) action|input
 |text|we see now
+7) action|input
+|text|yeah
+7) action|input
+|text|906k
+7) action|store
+location|gem
+
+7) action|buy
+item|itempack
+
+7) action|buy
+item|world_lock_10_pack
+
+7) action|buy
+item|world_lock_10_pack
+
+7) action|buy
+item|world_lock_10_pack
+
+7) action|buy
+item|world_lock_10_pack
+
+7) action|buy
+item|world_lock_10_pack
+
+7) action|buy
+item|world_lock_10_pack
+
+7) action|buy
+item|world_lock_10_pack
+
+7) action|buy
+item|world_lock_10_pack
+
+7) action|buy
+item|world_lock_10_pack
+
+7) action|buy
+item|world_lock_10_pack
+
+7) action|buy
+item|world_lock_10_pack
+
+7) action|buy
+item|world_lock_10_pack
+
+7) action|buy
+item|world_lock_10_pack
+
+7) action|buy
+item|world_lock_10_pack
+
+7) action|buy
+item|world_lock_10_pack
+
+7) action|buy
+item|world_lock_10_pack
+
+7) action|buy
+item|world_lock_10_pack
+
+7) action|buy
+item|world_lock_10_pack
+
+7) action|buy
+item|world_lock_10_pack
+
+7) action|buy
+item|world_lock_10_pack
+
+7) action|buy
+item|world_lock_10_pack
+
+7) action|killstore
+item|
+
+7) action|input
+|text|400k
+7) action|input
+|text|for 2 dls
+7) action|drop
+|itemID|242
+
+7) action|input
+|text|ol i got 2dl for 160k
+7) action|dialog_return
+dialog_name|drop_item
+itemID|242|
+count|2
+
+7) action|input
+|text|how
+7) action|store
+location|gem
+
+7) action|buy
+item|bigitems
+

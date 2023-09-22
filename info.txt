@@ -129565,3 +129565,21 @@ REALMS) action|input
 |text|yeah
 7) action|input
 |text|thanks
+7) action|input
+|text|how do we get bgls here
+7) action|input
+|text|just buy lots of the 10wls thingi for 20k gems
+7) action|input
+|text|i dont have much
+7) action|input
+|text|i got 1.6m
+7) action|input
+|text|how many dls
+7) action|input
+|text|is that
+7) action|store
+location|gem
+
+7) action|killstore
+item|
+

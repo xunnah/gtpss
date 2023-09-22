@@ -130453,3 +130453,11 @@ buttonClicked|getplantationdevice
 
 BFG) action|input
 |text|/auto
+BFG) action|wrench
+|netid|1
+
+BFG) action|dialog_return
+dialog_name|popup
+buttonClicked|cheat_menunew
+
+

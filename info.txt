@@ -131727,3 +131727,52 @@ LINKS) action|respawn
 
 LINKS) action|input
 |text|no lagg
+LINKS) action|input
+|text|i was telling u that im home like 6 then ill upgrade how to play a lot
+) tankIDName|hannux
+tankIDPass|han.2301
+requestedName|EinstBill
+f|0
+protocol|199
+game_version|4.36
+fz|67419688
+lmode|0
+cbits|0
+player_age|18
+GDPR|1
+category|w1_
+totalPlaytime|0
+klv|8a462a45ad6d62d3f8cdedc9925ff82df134d7e34236f842b8d07e6bc579c9f1
+hash2|-2104251616
+meta|1695351448
+fhash|-716928004
+rid|01B7824317B3CFF90152832407B62D89
+platformID|0,1,1
+deviceVersion|0
+country|us
+hash|-1639982689
+mac|00:ff:3e:41:67:ff
+wk|4C1F60A339DF90915C0950F27471FD8E
+zf|1642511664
+) action|enter_game
+
+LINKS) action|input
+|text|go to love
+LINKS) action|input
+|text|/warp love
+LOVE) action|input
+|text|did u hear song?
+LOVE) action|input
+|text|/ghost
+LOVE) action|input
+|text|wait lemme turn music on
+LOVE) action|input
+|text|kk
+LOVE) action|input
+|text|/dance
+LOVE) action|input
+|text|no
+LOVE) action|input
+|text|ow
+LOVE) action|input
+|text|afk

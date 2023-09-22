@@ -132469,3 +132469,21 @@ buttonClicked|recalcLock
 checkbox_public|0
 checkbox_ignore|1
 
+LINKS) action|dialog_return
+dialog_name|sign_edit
+tilex|3|
+tiley|49|
+sign_text|1 Day 5wl
+
+LINKS) action|dialog_return
+dialog_name|sign_edit
+tilex|2|
+tiley|49|
+sign_text|1 Month 20wl
+
+LINKS) action|dialog_return
+dialog_name|sign_edit
+tilex|1|
+tiley|49|
+sign_text|1 year 40wl
+

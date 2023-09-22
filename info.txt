@@ -130202,3 +130202,61 @@ buttonClicked|cheat_menunew
 
 7) action|input
 |text|thats good 6 super fir3e work
+7) action|dialog_return
+dialog_name|dialog_cheat_menu
+checkbox_cheat_autofarm|0
+checkbox_cheat_autocollect|1
+checkbox_cheat_antibounce|0
+checkbox_cheat_speed|1
+checkbox_cheat_jump|1
+checkbox_cheat_kick|0
+checkbox_cheat_ban|0
+checkbox_cheat_hideother|0
+checkbox_cheat_hidechat|0
+checkbox_cheat_fastpull|0
+checkbox_cheat_fastdrop|0
+checkbox_cheat_fasttrash|0
+checkbox_cheat_fastspin|0
+text_input_spam_delay|3
+text_input_spam_chat|`cim at school 
+checkbox_cheat_spam|0
+
+7) action|input
+|text|race me
+7) action|input
+|text|come we race
+7) action|wrench
+|netid|3
+
+7) action|dialog_return
+dialog_name|popup
+buttonClicked|cheat_menunew
+
+
+7) action|dialog_return
+dialog_name|dialog_cheat_menu
+checkbox_cheat_autofarm|0
+checkbox_cheat_autocollect|1
+checkbox_cheat_antibounce|0
+checkbox_cheat_speed|1
+checkbox_cheat_jump|0
+checkbox_cheat_kick|0
+checkbox_cheat_ban|0
+checkbox_cheat_hideother|0
+checkbox_cheat_hidechat|0
+checkbox_cheat_fastpull|0
+checkbox_cheat_fastdrop|0
+checkbox_cheat_fasttrash|0
+checkbox_cheat_fastspin|0
+text_input_spam_delay|1
+text_input_spam_chat|`cBest Server
+checkbox_cheat_spam|0
+
+7) action|drop
+|itemID|1940
+
+7) action|dialog_return
+dialog_name|drop_item
+itemID|1940|
+count|1
+

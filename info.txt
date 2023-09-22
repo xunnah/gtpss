@@ -131776,3 +131776,17 @@ LOVE) action|input
 |text|ow
 LOVE) action|input
 |text|afk
+LOVE) action|input
+|text|if i make how to play very good can i like make the hannux server too like better?
+LOVE) action|input
+|text|/nick hannux
+LOVE) action|input
+|text|wht u mean ?
+LOVE) action|input
+|text|like beter
+LOVE) action|input
+|text|?
+LOVE) action|input
+|text|just make the how to play is better first
+LOVE) action|input
+|text|much better bc im on pc then and its easier to make soo much better stuff 

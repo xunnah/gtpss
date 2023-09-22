@@ -130278,3 +130278,42 @@ count|1
 |text|again
 7) action|input
 |text|321go
+7) action|input
+|text|i won
+7) action|input
+|text|its not the shoes its the super speed on cheats xD
+7) action|drop
+|itemID|1940
+
+7) action|dialog_return
+dialog_name|drop_item
+itemID|1940|
+count|1
+
+7) action|input
+|text|
+7) action|input
+|text|i have on the super speed
+7) action|input
+|text|yes but when u wear this shoe speed dont work
+7) action|input
+|text|yeah
+7) action|wrench
+|netid|2
+
+7) action|wrench
+|netid|2
+
+7) action|wrench
+|netid|3
+
+7) action|dialog_return
+dialog_name|popup
+buttonClicked|cheat_menunew
+
+
+7) action|dialog_return
+dialog_name|popup
+buttonClicked|cheat_menunew
+
+

@@ -131874,3 +131874,74 @@ buycount|200|
 expectprice|-100|
 expectitem|858|
 
+LINKS) action|dialog_return
+dialog_name|lock_edit
+tilex|11|
+tiley|49|
+buttonClicked|recalcLock
+
+checkbox_public|0
+checkbox_ignore|1
+
+LINKS) action|input
+|text|wait
+LINKS) action|input
+|text|how u clear
+LINKS) action|input
+|text|the world
+LINKS) action|input
+|text|?
+LINKS) action|input
+|text|the plasma
+LINKS) action|input
+|text|/find plasma
+LINKS) action|dialog_return
+dialog_name|lock_edit
+tilex|13|
+tiley|49|
+buttonClicked|recalcLock
+
+checkbox_public|0
+checkbox_ignore|1
+
+LINKS) action|input
+|text|plasma
+LINKS) action|input
+|text|?
+LINKS) action|input
+|text|
+LINKS) action|store
+location|gem
+
+LINKS) action|buy
+item|itempack
+
+LINKS) action|killstore
+item|
+
+LINKS) action|input
+|text|nuclear
+LINKS) action|input
+|text|plasma
+LINKS) action|input
+|text|oooh
+LINKS) action|input
+|text|kk
+LINKS) action|dialog_return
+dialog_name|lock_edit
+tilex|25|
+tiley|49|
+buttonClicked|recalcLock
+
+checkbox_public|0
+checkbox_ignore|1
+
+LINKS) action|dialog_return
+dialog_name|lock_edit
+tilex|27|
+tiley|49|
+buttonClicked|recalcLock
+
+checkbox_public|0
+checkbox_ignore|1
+

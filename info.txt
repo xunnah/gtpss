@@ -132857,3 +132857,21 @@ zf|1642511664
 
 VEND) action|input
 |text|/1hit
+START) action|dialog_return
+dialog_name|artcanvas
+tilex|23|
+tiley|50|
+artname|VIP
+
+START) action|dialog_return
+dialog_name|artcanvas
+tilex|21|
+tiley|50|
+artname|MODS
+
+START) action|dialog_return
+dialog_name|artcanvas
+tilex|19|
+tiley|50|
+artname|SDEV
+

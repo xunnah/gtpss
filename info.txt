@@ -132720,3 +132720,47 @@ buycount|80|
 expectprice|-40|
 expectitem|998|
 
+) tankIDName|MrFrost
+tankIDPass|Marten1234
+requestedName|MrFrost
+f|1
+protocol|199
+game_version|4.37
+lmode|0
+cbits|1024
+player_age|15
+GDPR|1
+category|w4_
+totalPlaytime|0
+klv|1B93D293B974D9205C60D3920049DFB0
+gid|a23de302-4de9-436a-878a-0c6e55bf44fd
+tr|4322
+meta|1695351448
+fhash|-716928004
+rid|01F30DD7675BDF1B08141ABFC1A9038D
+platformID|4
+deviceVersion|0
+country|ee
+hash|150265195
+mac|02:00:00:00:00:00
+wk|NONE0
+
+) action|enter_game
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|51|
+tiley|35|
+expectprice|-10|
+expectitem|3490|
+buycount|060
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|51|
+tiley|35|
+verify|1|
+buycount|60|
+expectprice|-10|
+expectitem|3490|
+

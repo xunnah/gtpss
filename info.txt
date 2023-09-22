@@ -133378,3 +133378,78 @@ item|world_lock_10_pack
 BFG) action|buy
 item|world_lock_10_pack
 
+BFG) action|buy
+item|world_lock_10_pack
+
+BFG) action|buy
+item|world_lock_10_pack
+
+BFG) action|buy
+item|world_lock_10_pack
+
+BFG) action|buy
+item|world_lock_10_pack
+
+BFG) action|buy
+item|world_lock_10_pack
+
+BFG) action|buy
+item|world_lock_10_pack
+
+BFG) action|buy
+item|world_lock_10_pack
+
+BFG) action|buy
+item|world_lock_10_pack
+
+BFG) action|buy
+item|world_lock_10_pack
+
+BFG) action|buy
+item|world_lock_10_pack
+
+BFG) action|buy
+item|world_lock_10_pack
+
+BFG) action|buy
+item|world_lock_10_pack
+
+BFG) action|buy
+item|world_lock_10_pack
+
+BFG) action|buy
+item|world_lock_10_pack
+
+BFG) action|buy
+item|world_lock_10_pack
+
+BFG) action|killstore
+item|
+
+BFG) action|store
+location|gem
+
+BFG) action|buy
+item|itempack
+
+BFG) action|buy
+item|world_lock_10_pack
+
+BFG) action|buy
+item|world_lock_10_pack
+
+BFG) action|buy
+item|world_lock_10_pack
+
+BFG) action|buy
+item|world_lock_10_pack
+
+BFG) action|buy
+item|world_lock_10_pack
+
+BFG) action|buy
+item|world_lock_10_pack
+
+BFG) action|buy
+item|world_lock_10_pack
+

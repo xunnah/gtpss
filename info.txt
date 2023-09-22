@@ -133063,3 +133063,54 @@ wk|D5F7DEBA08E5275A9C24AFEAA04265EA
 zf|1642511664
 ) action|enter_game
 
+TRADE) action|wrench
+|netid|1
+
+BFG) action|dialog_return
+dialog_name|itemsucker_block
+tilex|4|
+tiley|49|
+buttonClicked|getplantationdevice
+
+
+BFG) action|wrench
+|netid|2
+
+BFG) action|dialog_return
+dialog_name|popup
+buttonClicked|cheat_menunew
+
+
+BFG) action|dialog_return
+dialog_name|dialog_cheat_menu
+checkbox_cheat_autofarm|1
+checkbox_cheat_autocollect|1
+checkbox_cheat_antibounce|0
+checkbox_cheat_speed|0
+checkbox_cheat_jump|0
+checkbox_cheat_kick|0
+checkbox_cheat_ban|0
+checkbox_cheat_hideother|0
+checkbox_cheat_hidechat|0
+checkbox_cheat_fastpull|0
+checkbox_cheat_fastdrop|0
+checkbox_cheat_fasttrash|0
+checkbox_cheat_fastspin|0
+text_input_spam_delay|2
+text_input_spam_chat|Eating 
+checkbox_cheat_spam|0
+
+BFG) action|input
+|text|/auto
+BFG) action|dialog_return
+dialog_name|itemsucker_block
+tilex|8|
+tiley|49|
+buttonClicked|getplantationdevice
+
+
+BFG) action|wrench
+|netid|1
+
+BFG) action|input
+|text|/auto

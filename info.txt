@@ -122491,3 +122491,6806 @@ SET) action|input
 |text|.
 SET) action|input
 |text|/online
+) tankIDName|MrFrost
+tankIDPass|Marten1234
+requestedName|MrFrost
+f|1
+protocol|199
+game_version|4.36
+lmode|0
+cbits|1024
+player_age|15
+GDPR|1
+category|w4_
+totalPlaytime|0
+klv|0D53A9C3B9E2F47AE01C2DD3E1D70C4F
+gid|a23de302-4de9-436a-878a-0c6e55bf44fd
+tr|4322
+meta|1695304402
+fhash|-716928004
+rid|01F30DD7675BDF1B08141ABFC1A9038D
+platformID|4
+deviceVersion|0
+country|ee
+hash|150265195
+mac|02:00:00:00:00:00
+wk|NONE0
+
+) action|enter_game
+
+) tankIDName|MrFrost
+tankIDPass|Marten1234
+requestedName|MrFrost
+f|1
+protocol|199
+game_version|4.36
+lmode|0
+cbits|1024
+player_age|15
+GDPR|1
+category|w4_
+totalPlaytime|0
+klv|0D53A9C3B9E2F47AE01C2DD3E1D70C4F
+gid|a23de302-4de9-436a-878a-0c6e55bf44fd
+tr|4322
+meta|1695304402
+fhash|-716928004
+rid|01F30DD7675BDF1B08141ABFC1A9038D
+platformID|4
+deviceVersion|0
+country|ee
+hash|150265195
+mac|02:00:00:00:00:00
+wk|NONE0
+
+) action|enter_game
+
+) tankIDName|MrFrost
+tankIDPass|Marten1234
+requestedName|MrFrost
+f|1
+protocol|199
+game_version|4.36
+lmode|0
+cbits|1024
+player_age|15
+GDPR|1
+category|w4_
+totalPlaytime|0
+klv|0D53A9C3B9E2F47AE01C2DD3E1D70C4F
+gid|a23de302-4de9-436a-878a-0c6e55bf44fd
+tr|4322
+meta|1695304402
+fhash|-716928004
+rid|01F30DD7675BDF1B08141ABFC1A9038D
+platformID|4
+deviceVersion|0
+country|ee
+hash|150265195
+mac|02:00:00:00:00:00
+wk|NONE0
+
+) action|enter_game
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|52|
+tiley|31|
+expectprice|8|
+expectitem|3818|
+buycount|01
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|52|
+tiley|31|
+verify|1|
+buycount|1|
+expectprice|8|
+expectitem|3818|
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|50|
+tiley|31|
+expectprice|-8|
+expectitem|3526|
+buycount|01
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|53|
+tiley|35|
+expectprice|-10|
+expectitem|3484|
+buycount|200
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|53|
+tiley|35|
+expectprice|-10|
+expectitem|3484|
+buycount|20
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|53|
+tiley|35|
+verify|1|
+buycount|20|
+expectprice|-10|
+expectitem|3484|
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|52|
+tiley|35|
+expectprice|-10|
+expectitem|3486|
+buycount|20
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|52|
+tiley|35|
+verify|1|
+buycount|20|
+expectprice|-10|
+expectitem|3486|
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|51|
+tiley|35|
+expectprice|-10|
+expectitem|3490|
+buycount|020
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|51|
+tiley|35|
+verify|1|
+buycount|20|
+expectprice|-10|
+expectitem|3490|
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|50|
+tiley|35|
+expectprice|-10|
+expectitem|3482|
+buycount|020
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|50|
+tiley|35|
+verify|1|
+buycount|20|
+expectprice|-10|
+expectitem|3482|
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|49|
+tiley|35|
+expectprice|-10|
+expectitem|3488|
+buycount|20
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|49|
+tiley|35|
+verify|1|
+buycount|20|
+expectprice|-10|
+expectitem|3488|
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|48|
+tiley|35|
+expectprice|-10|
+expectitem|3478|
+buycount|020
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|48|
+tiley|35|
+verify|1|
+buycount|20|
+expectprice|-10|
+expectitem|3478|
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|47|
+tiley|35|
+expectprice|-10|
+expectitem|3492|
+buycount|020
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|47|
+tiley|35|
+verify|1|
+buycount|20|
+expectprice|-10|
+expectitem|3492|
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|46|
+tiley|35|
+expectprice|-10|
+expectitem|3480|
+buycount|020
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|46|
+tiley|35|
+verify|1|
+buycount|20|
+expectprice|-10|
+expectitem|3480|
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|30|
+tiley|31|
+expectprice|-40|
+expectitem|998|
+buycount|080
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|30|
+tiley|31|
+verify|1|
+buycount|80|
+expectprice|-40|
+expectitem|998|
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|35|
+tiley|27|
+expectprice|-50|
+expectitem|6400|
+buycount|200
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|35|
+tiley|27|
+verify|1|
+buycount|200|
+expectprice|-50|
+expectitem|6400|
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|10|
+tiley|23|
+expectprice|-50|
+expectitem|2586|
+buycount|200
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|10|
+tiley|23|
+verify|1|
+buycount|200|
+expectprice|-50|
+expectitem|2586|
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|17|
+tiley|51|
+expectprice|-1|
+expectitem|10190|
+buycount|05
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|17|
+tiley|51|
+verify|1|
+buycount|5|
+expectprice|-1|
+expectitem|10190|
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|13|
+tiley|43|
+expectprice|-20|
+expectitem|382|
+buycount|040
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|13|
+tiley|43|
+verify|1|
+buycount|40|
+expectprice|-20|
+expectitem|382|
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|8|
+tiley|43|
+expectprice|-50|
+expectitem|1684|
+buycount|050
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|8|
+tiley|43|
+verify|1|
+buycount|50|
+expectprice|-50|
+expectitem|1684|
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|8|
+tiley|39|
+expectprice|5|
+expectitem|6214|
+buycount|02
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|8|
+tiley|39|
+verify|1|
+buycount|2|
+expectprice|5|
+expectitem|6214|
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|26|
+tiley|43|
+expectprice|5|
+expectitem|2274|
+buycount|04
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|26|
+tiley|43|
+verify|1|
+buycount|4|
+expectprice|5|
+expectitem|2274|
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|17|
+tiley|35|
+expectprice|-30|
+expectitem|8994|
+buycount|060
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|17|
+tiley|35|
+verify|1|
+buycount|60|
+expectprice|-30|
+expectitem|8994|
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|63|
+tiley|47|
+expectprice|30|
+expectitem|262|
+buycount|010
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|63|
+tiley|47|
+expectprice|30|
+expectitem|262|
+buycount|04
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|63|
+tiley|47|
+verify|1|
+buycount|4|
+expectprice|30|
+expectitem|262|
+
+SEEDS) action|store
+location|gem
+
+SEEDS) action|killstore
+item|
+
+SEEDS) action|respawn
+
+AQUATIC) action|store
+location|gem
+
+AQUATIC) action|buy
+item|itempack
+
+AQUATIC) action|killstore
+item|
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|51|
+tiley|43|
+expectprice|15|
+expectitem|1402|
+buycount|02
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|51|
+tiley|43|
+verify|1|
+buycount|2|
+expectprice|15|
+expectitem|1402|
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|50|
+tiley|43|
+expectprice|10|
+expectitem|2580|
+buycount|02
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|50|
+tiley|43|
+verify|1|
+buycount|2|
+expectprice|10|
+expectitem|2580|
+
+AQUATIC) action|dialog_return
+dialog_name|world_swap
+name_box|Wowwwww
+
+AQUATIC) action|dialog_return
+dialog_name|world_swap
+name_box|aguadicks
+
+AQUATIC) action|dialog_return
+dialog_name|world_swap
+name_box|Aquatics
+
+AQUATICS) action|dialog_return
+dialog_name|world_swap
+name_box|Aquatic
+
+AQUATICS) action|dialog_return
+dialog_name|world_swap
+name_box|Aquatic
+
+CULTIST) action|dialog_return
+dialog_name|blast
+itemID|1402|
+name|realm
+
+CULTIST) action|dialog_return
+dialog_name|blast
+itemID|1402|
+name|realms
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|66|
+tiley|39|
+expectprice|-100|
+expectitem|13202|
+buycount|020
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|66|
+tiley|39|
+expectprice|-100|
+expectitem|13202|
+buycount|100
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|66|
+tiley|39|
+verify|1|
+buycount|100|
+expectprice|-100|
+expectitem|13202|
+
+REALMS) action|respawn_spike
+tileX|11
+tileY|53
+
+) tankIDName|MrFrost
+tankIDPass|Marten1234
+requestedName|MrFrost
+f|1
+protocol|199
+game_version|4.36
+lmode|0
+cbits|1024
+player_age|15
+GDPR|1
+category|w4_
+totalPlaytime|0
+klv|0D53A9C3B9E2F47AE01C2DD3E1D70C4F
+gid|a23de302-4de9-436a-878a-0c6e55bf44fd
+tr|4322
+meta|1695304402
+fhash|-716928004
+rid|01F30DD7675BDF1B08141ABFC1A9038D
+platformID|4
+deviceVersion|0
+country|ee
+hash|150265195
+mac|02:00:00:00:00:00
+reconnect|1
+wk|NONE0
+
+) action|enter_game
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|66|
+tiley|39|
+expectprice|-100|
+expectitem|13202|
+buycount|200
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|66|
+tiley|39|
+verify|1|
+buycount|200|
+expectprice|-100|
+expectitem|13202|
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|62|
+tiley|31|
+expectprice|-30|
+expectitem|8204|
+buycount|200
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|62|
+tiley|31|
+verify|1|
+buycount|200|
+expectprice|-30|
+expectitem|8204|
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|86|
+tiley|39|
+expectprice|-20|
+expectitem|8262|
+buycount|200
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|86|
+tiley|39|
+verify|1|
+buycount|200|
+expectprice|-20|
+expectitem|8262|
+
+REALMS) action|friends
+delay|0
+
+REALMS) action|dialog_return
+dialog_name|socialportal
+buttonClicked|systemcoin
+
+
+REALMS) action|dialog_return
+dialog_name|
+buttonClicked|opop_price_4992
+
+
+REALMS) action|dialog_return
+dialog_name|
+buttonClicked|opop_item_4992
+
+
+) tankIDName|MrFrost
+tankIDPass|Marten1234
+requestedName|MrFrost
+f|1
+protocol|199
+game_version|4.36
+lmode|0
+cbits|1024
+player_age|15
+GDPR|1
+category|w4_
+totalPlaytime|0
+klv|0D53A9C3B9E2F47AE01C2DD3E1D70C4F
+gid|a23de302-4de9-436a-878a-0c6e55bf44fd
+tr|4322
+meta|1695304402
+fhash|-716928004
+rid|01F30DD7675BDF1B08141ABFC1A9038D
+platformID|4
+deviceVersion|0
+country|ee
+hash|150265195
+mac|02:00:00:00:00:00
+wk|NONE0
+
+) action|enter_game
+
+) tankIDName|MrFrost
+tankIDPass|Marten1234
+requestedName|MrFrost
+f|1
+protocol|199
+game_version|4.36
+lmode|0
+cbits|1024
+player_age|15
+GDPR|1
+category|w4_
+totalPlaytime|0
+klv|0D53A9C3B9E2F47AE01C2DD3E1D70C4F
+gid|a23de302-4de9-436a-878a-0c6e55bf44fd
+tr|4322
+meta|1695304402
+fhash|-716928004
+rid|01F30DD7675BDF1B08141ABFC1A9038D
+platformID|4
+deviceVersion|0
+country|ee
+hash|150265195
+mac|02:00:00:00:00:00
+wk|NONE0
+
+) action|enter_game
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|86|
+tiley|39|
+expectprice|-20|
+expectitem|8262|
+buycount|180
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|86|
+tiley|39|
+verify|1|
+buycount|180|
+expectprice|-20|
+expectitem|8262|
+
+) tankIDName|MrFrost
+tankIDPass|Marten1234
+requestedName|MrFrost
+f|1
+protocol|199
+game_version|4.36
+lmode|0
+cbits|1024
+player_age|15
+GDPR|1
+category|w4_
+totalPlaytime|0
+klv|0D53A9C3B9E2F47AE01C2DD3E1D70C4F
+gid|a23de302-4de9-436a-878a-0c6e55bf44fd
+tr|4322
+meta|1695304402
+fhash|-716928004
+rid|01F30DD7675BDF1B08141ABFC1A9038D
+platformID|4
+deviceVersion|0
+country|ee
+hash|150265195
+mac|02:00:00:00:00:00
+reconnect|1
+wk|NONE0
+
+) action|enter_game
+
+) tankIDName|MrFrost
+tankIDPass|Marten1234
+requestedName|MrFrost
+f|1
+protocol|199
+game_version|4.36
+lmode|0
+cbits|1024
+player_age|15
+GDPR|1
+category|w4_
+totalPlaytime|0
+klv|0D53A9C3B9E2F47AE01C2DD3E1D70C4F
+gid|a23de302-4de9-436a-878a-0c6e55bf44fd
+tr|4322
+meta|1695304402
+fhash|-716928004
+rid|01F30DD7675BDF1B08141ABFC1A9038D
+platformID|4
+deviceVersion|0
+country|ee
+hash|150265195
+mac|02:00:00:00:00:00
+wk|NONE0
+
+) action|enter_game
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|62|
+tiley|31|
+expectprice|-30|
+expectitem|8204|
+buycount|60
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|62|
+tiley|31|
+verify|1|
+buycount|60|
+expectprice|-30|
+expectitem|8204|
+
+) tankIDName|MrFrost
+tankIDPass|Marten1234
+requestedName|MrFrost
+f|1
+protocol|199
+game_version|4.36
+lmode|0
+cbits|1024
+player_age|15
+GDPR|1
+category|w4_
+totalPlaytime|0
+klv|0D53A9C3B9E2F47AE01C2DD3E1D70C4F
+gid|a23de302-4de9-436a-878a-0c6e55bf44fd
+tr|4322
+meta|1695304402
+fhash|-716928004
+rid|01F30DD7675BDF1B08141ABFC1A9038D
+platformID|4
+deviceVersion|0
+country|ee
+hash|150265195
+mac|02:00:00:00:00:00
+wk|NONE0
+
+) action|enter_game
+
+) tankIDName|MrFrost
+tankIDPass|Marten1234
+requestedName|MrFrost
+f|1
+protocol|199
+game_version|4.36
+lmode|0
+cbits|1024
+player_age|15
+GDPR|1
+category|w4_
+totalPlaytime|0
+klv|0D53A9C3B9E2F47AE01C2DD3E1D70C4F
+gid|a23de302-4de9-436a-878a-0c6e55bf44fd
+tr|4322
+meta|1695304402
+fhash|-716928004
+rid|01F30DD7675BDF1B08141ABFC1A9038D
+platformID|4
+deviceVersion|0
+country|ee
+hash|150265195
+mac|02:00:00:00:00:00
+wk|NONE0
+
+) action|enter_game
+
+REALMS) action|respawn
+
+) tankIDName|MrFrost
+tankIDPass|Marten1234
+requestedName|MrFrost
+f|1
+protocol|199
+game_version|4.36
+lmode|0
+cbits|1024
+player_age|15
+GDPR|1
+category|w4_
+totalPlaytime|0
+klv|0D53A9C3B9E2F47AE01C2DD3E1D70C4F
+gid|a23de302-4de9-436a-878a-0c6e55bf44fd
+tr|4322
+meta|1695304402
+fhash|-716928004
+rid|01F30DD7675BDF1B08141ABFC1A9038D
+platformID|4
+deviceVersion|0
+country|ee
+hash|150265195
+mac|02:00:00:00:00:00
+wk|NONE0
+
+) action|enter_game
+
+) tankIDName|MrFrost
+tankIDPass|Marten1234
+requestedName|MrFrost
+f|1
+protocol|199
+game_version|4.36
+lmode|0
+cbits|1024
+player_age|15
+GDPR|1
+category|w4_
+totalPlaytime|0
+klv|0D53A9C3B9E2F47AE01C2DD3E1D70C4F
+gid|a23de302-4de9-436a-878a-0c6e55bf44fd
+tr|4322
+meta|1695304402
+fhash|-716928004
+rid|01F30DD7675BDF1B08141ABFC1A9038D
+platformID|4
+deviceVersion|0
+country|ee
+hash|150265195
+mac|02:00:00:00:00:00
+wk|NONE0
+
+) action|enter_game
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|93|
+tiley|27|
+expectprice|-10|
+expectitem|11892|
+buycount|010
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|93|
+tiley|27|
+verify|1|
+buycount|10|
+expectprice|-10|
+expectitem|11892|
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|95|
+tiley|27|
+expectprice|-10|
+expectitem|6968|
+buycount|010
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|95|
+tiley|27|
+verify|1|
+buycount|10|
+expectprice|-10|
+expectitem|6968|
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|82|
+tiley|27|
+expectprice|-100|
+expectitem|192|
+buycount|100
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|82|
+tiley|27|
+verify|1|
+buycount|100|
+expectprice|-100|
+expectitem|192|
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|71|
+tiley|27|
+expectprice|-30|
+expectitem|992|
+buycount|030
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|71|
+tiley|27|
+verify|1|
+buycount|30|
+expectprice|-30|
+expectitem|992|
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|82|
+tiley|27|
+expectprice|-100|
+expectitem|192|
+buycount|100
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|82|
+tiley|27|
+verify|1|
+buycount|100|
+expectprice|-100|
+expectitem|192|
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|65|
+tiley|27|
+expectprice|-10|
+expectitem|10154|
+buycount|010
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|65|
+tiley|27|
+verify|1|
+buycount|10|
+expectprice|-10|
+expectitem|10154|
+
+REALMS) action|dialog_return
+dialog_name|sign_edit
+tilex|18|
+tiley|48|
+sign_text|Wlcome to Realm
+
+REALMS) action|dialog_return
+dialog_name|sign_edit
+tilex|18|
+tiley|48|
+sign_text|Wlcome to Realms
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|76|
+tiley|31|
+expectprice|-10|
+expectitem|1002|
+buycount|010
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|76|
+tiley|31|
+verify|1|
+buycount|10|
+expectprice|-10|
+expectitem|1002|
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|75|
+tiley|31|
+expectprice|-30|
+expectitem|1048|
+buycount|030
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|75|
+tiley|31|
+verify|1|
+buycount|30|
+expectprice|-30|
+expectitem|1048|
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|52|
+tiley|27|
+expectprice|1|
+expectitem|3072|
+buycount|01
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|52|
+tiley|27|
+verify|1|
+buycount|1|
+expectprice|1|
+expectitem|3072|
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|27|
+tiley|39|
+expectprice|-5|
+expectitem|7860|
+buycount|010
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|27|
+tiley|39|
+verify|1|
+buycount|10|
+expectprice|-5|
+expectitem|7860|
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|33|
+tiley|39|
+expectprice|-40|
+expectitem|60|
+buycount|040
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|33|
+tiley|39|
+verify|1|
+buycount|40|
+expectprice|-40|
+expectitem|60|
+
+REALMS) action|store
+location|gem
+
+REALMS) action|buy
+item|locks
+
+REALMS) action|buy
+item|itempack
+
+REALMS) action|killstore
+item|
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|28|
+tiley|35|
+expectprice|-50|
+expectitem|682|
+buycount|200
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|28|
+tiley|35|
+verify|1|
+buycount|200|
+expectprice|-50|
+expectitem|682|
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|28|
+tiley|35|
+expectprice|-50|
+expectitem|682|
+buycount|200
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|28|
+tiley|35|
+verify|1|
+buycount|200|
+expectprice|-50|
+expectitem|682|
+
+) tankIDName|MrFrost
+tankIDPass|Marten1234
+requestedName|MrFrost
+f|1
+protocol|199
+game_version|4.36
+lmode|0
+cbits|1024
+player_age|15
+GDPR|1
+category|w4_
+totalPlaytime|0
+klv|0D53A9C3B9E2F47AE01C2DD3E1D70C4F
+gid|a23de302-4de9-436a-878a-0c6e55bf44fd
+tr|4322
+meta|1695304402
+fhash|-716928004
+rid|01F30DD7675BDF1B08141ABFC1A9038D
+platformID|4
+deviceVersion|0
+country|ee
+hash|150265195
+mac|02:00:00:00:00:00
+wk|NONE0
+
+) action|enter_game
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|28|
+tiley|35|
+expectprice|-50|
+expectitem|682|
+buycount|200
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|28|
+tiley|35|
+verify|1|
+buycount|200|
+expectprice|-50|
+expectitem|682|
+
+) tankIDName|Joji
+tankIDPass|blueoceanstrategy
+requestedName|joji
+f|1
+protocol|199
+game_version|4.35
+fz|54525480
+lmode|0
+cbits|1024
+player_age|38
+GDPR|1
+category|w3_
+totalPlaytime|0
+klv|910bb79cfb47f157c545b8dc2715b62bf516dfd6219291b1d1c8e8df632a9755
+hash2|68758880
+meta|1695304402
+fhash|-716928004
+rid|01D369D90C1905AA0A542A84141E9D0D
+platformID|0,1,1
+deviceVersion|0
+country|gb
+hash|1015399598
+mac|28:e3:47:ea:c5:70
+wk|7537A27821A55FB2A77449E44E1B5100
+zf|-297173788
+) action|refresh_item_data
+
+) tankIDName|Joji
+tankIDPass|blueoceanstrategy
+requestedName|joji
+f|1
+protocol|199
+game_version|4.35
+fz|54525480
+lmode|0
+cbits|1024
+player_age|38
+GDPR|1
+category|w3_
+totalPlaytime|0
+klv|910bb79cfb47f157c545b8dc2715b62bf516dfd6219291b1d1c8e8df632a9755
+hash2|68758880
+meta|1695304402
+fhash|-716928004
+rid|01D369D90C1905AA0A542A84141E9D0D
+platformID|0,1,1
+deviceVersion|0
+country|gb
+hash|1015399598
+mac|28:e3:47:ea:c5:70
+wk|7537A27821A55FB2A77449E44E1B5100
+zf|-297173788
+) tankIDName|Joji
+tankIDPass|blueoceanstrategy
+requestedName|joji
+f|1
+protocol|199
+game_version|4.35
+fz|54525480
+lmode|0
+cbits|1024
+player_age|38
+GDPR|1
+category|w3_
+totalPlaytime|0
+klv|910bb79cfb47f157c545b8dc2715b62bf516dfd6219291b1d1c8e8df632a9755
+hash2|68758880
+meta|1695304402
+fhash|-716928004
+rid|01D369D90C1905AA0A542A84141E9D0D
+platformID|0,1,1
+deviceVersion|0
+country|gb
+hash|1015399598
+mac|28:e3:47:ea:c5:70
+wk|7537A27821A55FB2A77449E44E1B5100
+zf|-297173788
+) action|enter_game
+
+) action|dialog_return
+dialog_name|
+buttonClicked|
+
+
+SET) action|wrench
+|netid|1
+
+SET) action|dialog_return
+dialog_name|popup
+buttonClicked|cheat_menunew
+
+
+SET) action|dialog_return
+dialog_name|dialog_cheat_menu
+checkbox_cheat_autofarm|0
+checkbox_cheat_autocollect|1
+checkbox_cheat_antibounce|0
+checkbox_cheat_speed|0
+checkbox_cheat_jump|0
+checkbox_cheat_kick|0
+checkbox_cheat_ban|0
+checkbox_cheat_hideother|0
+checkbox_cheat_hidechat|0
+checkbox_cheat_fastpull|0
+checkbox_cheat_fastdrop|0
+checkbox_cheat_fasttrash|1
+checkbox_cheat_fastspin|0
+text_input_spam_delay|3
+text_input_spam_chat|`cBest Server
+checkbox_cheat_spam|0
+
+SET) action|trash
+|itemID|9268
+
+SET) action|trash
+|itemID|1946
+
+SET) action|trash
+|itemID|274
+
+SET) action|trash
+|itemID|1350
+
+SET) action|trash
+|itemID|11130
+
+SET) action|trash
+|itemID|13270
+
+SET) action|trash
+|itemID|11990
+
+SET) action|trash
+|itemID|4294
+
+SET) action|trash
+|itemID|1190
+
+SET) action|trash
+|itemID|13476
+
+SET) action|trash
+|itemID|10070
+
+SET) action|trash
+|itemID|870
+
+SET) action|trash
+|itemID|5588
+
+SET) action|trash
+|itemID|876
+
+SET) action|trash
+|itemID|9066
+
+SET) action|trash
+|itemID|10210
+
+SET) action|input
+|text|/trashall
+SET) action|input
+|text|/buy messy
+SET) action|dialog_return
+dialog_name|buy_option
+search|messy|
+buttonClicked|buy_270
+
+
+SET) action|input
+|text|/buy non
+SET) action|dialog_return
+dialog_name|buy_option
+search|non|
+buttonClicked|buy_4244
+
+
+SET) action|input
+|text|/buy black tie
+SET) action|dialog_return
+dialog_name|buy_option
+search|black tie|
+buttonClicked|buy_13476
+
+
+) tankIDName|noah
+tankIDPass|blueoceanstrategy
+requestedName|joji
+f|1
+protocol|199
+game_version|4.35
+fz|54525480
+lmode|0
+cbits|1024
+player_age|38
+GDPR|1
+category|w3_
+totalPlaytime|0
+klv|910bb79cfb47f157c545b8dc2715b62bf516dfd6219291b1d1c8e8df632a9755
+hash2|68758880
+meta|1695304402
+fhash|-716928004
+rid|01D369D90C1905AA0A542A84141E9D0D
+platformID|0,1,1
+deviceVersion|0
+country|gb
+hash|1015399598
+mac|28:e3:47:ea:c5:70
+wk|7537A27821A55FB2A77449E44E1B5100
+zf|-297173788
+) action|enter_game
+
+) action|dialog_return
+dialog_name|
+buttonClicked|
+
+
+SET) action|trash
+|itemID|13206
+
+SET) action|trash
+|itemID|2396
+
+SET) action|trash
+|itemID|13214
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|52|
+tiley|43|
+expectprice|300|
+expectitem|5638|
+buycount|04
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|52|
+tiley|43|
+verify|1|
+buycount|4|
+expectprice|300|
+expectitem|5638|
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|45|
+tiley|43|
+expectprice|50|
+expectitem|6290|
+buycount|04
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|45|
+tiley|43|
+verify|1|
+buycount|4|
+expectprice|50|
+expectitem|6290|
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|16|
+tiley|51|
+expectprice|-2|
+expectitem|2946|
+buycount|020
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|16|
+tiley|51|
+expectprice|-2|
+expectitem|2946|
+buycount|200
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|16|
+tiley|51|
+verify|1|
+buycount|200|
+expectprice|-2|
+expectitem|2946|
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|16|
+tiley|47|
+expectprice|100|
+expectitem|2284|
+buycount|01
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|16|
+tiley|47|
+verify|1|
+buycount|1|
+expectprice|100|
+expectitem|2284|
+
+NOAH) action|dialog_return
+dialog_name|itemsucker_block
+tilex|4|
+tiley|53|
+selectitem|1796
+
+NOAH) action|dialog_return
+dialog_name|itemsucker_block
+tilex|4|
+tiley|53|
+buttonClicked|additem
+
+chk_enablesucking|1
+
+NOAH) action|dialog_return
+dialog_name|itemaddedtosucker
+tilex|4|
+tiley|53|
+itemtoadd|67
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|44|
+tiley|29|
+expectprice|100|
+expectitem|11758|
+buycount|200
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|44|
+tiley|29|
+verify|1|
+buycount|200|
+expectprice|100|
+expectitem|11758|
+
+SET) action|trash
+|itemID|364
+
+SET) action|trash
+|itemID|10252
+
+SET) action|trash
+|itemID|13166
+
+SET) action|trash
+|itemID|13218
+
+SET) action|trash
+|itemID|13222
+
+SET) action|trash
+|itemID|5652
+
+SET) action|trash
+|itemID|366
+
+SET) action|trash
+|itemID|10032
+
+SET) action|trash
+|itemID|13164
+
+SET) action|trash
+|itemID|1470
+
+SET) action|trash
+|itemID|13176
+
+SET) action|trash
+|itemID|4424
+
+SET) action|trash
+|itemID|5648
+
+SET) action|trash
+|itemID|13198
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|44|
+tiley|29|
+expectprice|100|
+expectitem|11758|
+buycount|200
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|44|
+tiley|29|
+expectprice|100|
+expectitem|11758|
+buycount|200
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|44|
+tiley|29|
+verify|1|
+buycount|200|
+expectprice|100|
+expectitem|11758|
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|47|
+tiley|29|
+expectprice|100|
+expectitem|1680|
+buycount|200
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|47|
+tiley|29|
+expectprice|100|
+expectitem|1680|
+buycount|200
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|47|
+tiley|29|
+verify|1|
+buycount|200|
+expectprice|100|
+expectitem|1680|
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|46|
+tiley|29|
+expectprice|-100|
+expectitem|834|
+buycount|200
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|46|
+tiley|29|
+verify|1|
+buycount|200|
+expectprice|-100|
+expectitem|834|
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|46|
+tiley|29|
+expectprice|-100|
+expectitem|834|
+buycount|200
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|46|
+tiley|29|
+verify|1|
+buycount|200|
+expectprice|-100|
+expectitem|834|
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|46|
+tiley|29|
+expectprice|-100|
+expectitem|834|
+buycount|200
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|46|
+tiley|29|
+verify|1|
+buycount|200|
+expectprice|-100|
+expectitem|834|
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|46|
+tiley|29|
+expectprice|-100|
+expectitem|834|
+buycount|200
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|46|
+tiley|29|
+verify|1|
+buycount|200|
+expectprice|-100|
+expectitem|834|
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|46|
+tiley|29|
+expectprice|-100|
+expectitem|834|
+buycount|200
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|46|
+tiley|29|
+verify|1|
+buycount|200|
+expectprice|-100|
+expectitem|834|
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|46|
+tiley|29|
+expectprice|-100|
+expectitem|834|
+buycount|200
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|46|
+tiley|29|
+verify|1|
+buycount|200|
+expectprice|-100|
+expectitem|834|
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|46|
+tiley|29|
+expectprice|-100|
+expectitem|834|
+buycount|200
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|46|
+tiley|29|
+verify|1|
+buycount|200|
+expectprice|-100|
+expectitem|834|
+
+SET) action|trash
+|itemID|13170
+
+SET) action|trash
+|itemID|10778
+
+SET) action|trash
+|itemID|10774
+
+SET) action|trash
+|itemID|10780
+
+SET) action|trash
+|itemID|13182
+
+) tankIDName|joji
+tankIDPass|blueoceanstrategy
+requestedName|joji
+f|1
+protocol|199
+game_version|4.35
+fz|54525480
+lmode|0
+cbits|1024
+player_age|38
+GDPR|1
+category|w3_
+totalPlaytime|0
+klv|910bb79cfb47f157c545b8dc2715b62bf516dfd6219291b1d1c8e8df632a9755
+hash2|68758880
+meta|1695304402
+fhash|-716928004
+rid|01D369D90C1905AA0A542A84141E9D0D
+platformID|0,1,1
+deviceVersion|0
+country|gb
+hash|1015399598
+mac|28:e3:47:ea:c5:70
+wk|7537A27821A55FB2A77449E44E1B5100
+zf|-297173788
+) action|enter_game
+
+NOAH) action|input
+|text|/ghost
+NOAH) action|input
+|text|/ghost
+NOAH) action|input
+|text|/findid firework
+NOAH) action|wrench
+|netid|1
+
+NOAH) action|dialog_return
+dialog_name|popup
+buttonClicked|cheat_menunew
+
+
+NOAH) action|dialog_return
+dialog_name|dialog_cheat_menu
+checkbox_cheat_autofarm|0
+checkbox_cheat_autocollect|1
+checkbox_cheat_antibounce|0
+checkbox_cheat_speed|0
+checkbox_cheat_jump|0
+checkbox_cheat_kick|0
+checkbox_cheat_ban|0
+checkbox_cheat_hideother|0
+checkbox_cheat_hidechat|0
+checkbox_cheat_fastpull|0
+checkbox_cheat_fastdrop|0
+checkbox_cheat_fasttrash|1
+checkbox_cheat_fastspin|0
+text_input_spam_delay|0.5
+text_input_spam_chat|/drop 834 200
+checkbox_cheat_spam|1
+
+NOAH) action|wrench
+|netid|1
+
+NOAH) action|dialog_return
+dialog_name|popup
+buttonClicked|cheat_menunew
+
+
+NOAH) action|dialog_return
+dialog_name|dialog_cheat_menu
+checkbox_cheat_autofarm|0
+checkbox_cheat_autocollect|1
+checkbox_cheat_antibounce|0
+checkbox_cheat_speed|0
+checkbox_cheat_jump|0
+checkbox_cheat_kick|0
+checkbox_cheat_ban|0
+checkbox_cheat_hideother|0
+checkbox_cheat_hidechat|0
+checkbox_cheat_fastpull|0
+checkbox_cheat_fastdrop|0
+checkbox_cheat_fasttrash|1
+checkbox_cheat_fastspin|0
+text_input_spam_delay|0.5
+text_input_spam_chat|/drop 834 200
+checkbox_cheat_spam|1
+
+NOAH) action|wrench
+|netid|1
+
+NOAH) action|dialog_return
+dialog_name|popup
+buttonClicked|cheat_menunew
+
+
+NOAH) action|dialog_return
+dialog_name|dialog_cheat_menu
+checkbox_cheat_autofarm|0
+checkbox_cheat_autocollect|1
+checkbox_cheat_antibounce|0
+checkbox_cheat_speed|0
+checkbox_cheat_jump|0
+checkbox_cheat_kick|0
+checkbox_cheat_ban|0
+checkbox_cheat_hideother|0
+checkbox_cheat_hidechat|0
+checkbox_cheat_fastpull|0
+checkbox_cheat_fastdrop|0
+checkbox_cheat_fasttrash|1
+checkbox_cheat_fastspin|0
+text_input_spam_delay|1
+text_input_spam_chat|/drop 834 200
+checkbox_cheat_spam|1
+
+NOAH) action|drop
+|itemID|834
+
+NOAH) action|dialog_return
+dialog_name|drop_item
+itemID|834|
+count|200
+
+NOAH) action|input
+|text|/buy grow
+NOAH) action|input
+|text|/buy scan
+NOAH) action|dialog_return
+dialog_name|buy_option
+search|scan|
+buttonClicked|buy_6016
+
+
+NOAH) action|dialog_return
+dialog_name|statsblock
+buttonClicked|floatingItems
+
+isStatsWorldBlockUsableByPublic|0
+isStatsFloatingItemsUsableByPublic|0
+
+NOAH) action|dialog_return
+dialog_name|statsblock
+buttonClicked|search_1
+
+searchName|
+
+NOAH) action|dialog_return
+dialog_name|statsblock
+buttonClicked|floatingItems
+
+
+NOAH) action|drop
+|itemID|834
+
+NOAH) action|dialog_return
+dialog_name|drop_item
+itemID|834|
+count|200  
+
+NOAH) action|drop
+|itemID|834
+
+NOAH) action|dialog_return
+dialog_name|drop_item
+itemID|834|
+count|200
+
+NOAH) action|dialog_return
+dialog_name|statsblock
+buttonClicked|floatingItems
+
+isStatsWorldBlockUsableByPublic|0
+isStatsFloatingItemsUsableByPublic|0
+
+NOAH) action|dialog_return
+dialog_name|statsblock
+buttonClicked|back_to_gscan
+
+searchName|
+
+NOAH) action|dialog_return
+dialog_name|statsblock
+buttonClicked|floatingItems
+
+isStatsWorldBlockUsableByPublic|0
+isStatsFloatingItemsUsableByPublic|0
+
+NOAH) action|dialog_return
+dialog_name|statsblock
+buttonClicked|back_to_gscan
+
+searchName|
+
+NOAH) action|dialog_return
+dialog_name|statsblock
+buttonClicked|floatingItems
+
+isStatsWorldBlockUsableByPublic|0
+isStatsFloatingItemsUsableByPublic|0
+
+NOAH) action|dialog_return
+dialog_name|statsblock
+buttonClicked|back_to_gscan
+
+searchName|
+
+NOAH) action|dialog_return
+dialog_name|statsblock
+buttonClicked|floatingItems
+
+isStatsWorldBlockUsableByPublic|0
+isStatsFloatingItemsUsableByPublic|0
+
+NOAH) action|dialog_return
+dialog_name|statsblock
+buttonClicked|back_to_gscan
+
+searchName|
+
+NOAH) action|dialog_return
+dialog_name|statsblock
+buttonClicked|floatingItems
+
+isStatsWorldBlockUsableByPublic|0
+isStatsFloatingItemsUsableByPublic|0
+
+NOAH) action|dialog_return
+dialog_name|statsblock
+buttonClicked|back_to_gscan
+
+searchName|
+
+NOAH) action|wrench
+|netid|1
+
+NOAH) action|wrench
+|netid|1
+
+NOAH) action|dialog_return
+dialog_name|popup
+buttonClicked|cheat_menunew
+
+
+NOAH) action|dialog_return
+dialog_name|dialog_cheat_menu
+checkbox_cheat_autofarm|0
+checkbox_cheat_autocollect|1
+checkbox_cheat_antibounce|0
+checkbox_cheat_speed|0
+checkbox_cheat_jump|0
+checkbox_cheat_kick|0
+checkbox_cheat_ban|0
+checkbox_cheat_hideother|0
+checkbox_cheat_hidechat|0
+checkbox_cheat_fastpull|0
+checkbox_cheat_fastdrop|0
+checkbox_cheat_fasttrash|1
+checkbox_cheat_fastspin|0
+text_input_spam_delay|1
+text_input_spam_chat|/drop 834 200
+checkbox_cheat_spam|0
+
+) tankIDName|noah
+tankIDPass|blueoceanstrategy
+requestedName|joji
+f|1
+protocol|199
+game_version|4.35
+fz|54525480
+lmode|0
+cbits|1024
+player_age|38
+GDPR|1
+category|w3_
+totalPlaytime|0
+klv|910bb79cfb47f157c545b8dc2715b62bf516dfd6219291b1d1c8e8df632a9755
+hash2|68758880
+meta|1695304402
+fhash|-716928004
+rid|01D369D90C1905AA0A542A84141E9D0D
+platformID|0,1,1
+deviceVersion|0
+country|gb
+hash|1015399598
+mac|28:e3:47:ea:c5:70
+wk|7537A27821A55FB2A77449E44E1B5100
+zf|-297173788
+) action|enter_game
+
+NOAH) action|trash
+|itemID|13246
+
+NOAH) action|trash
+|itemID|11756
+
+NOAH) action|trash
+|itemID|6308
+
+NOAH) action|trash
+|itemID|13180
+
+NOAH) action|trash
+|itemID|4818
+
+NOAH) action|store
+location|gem
+
+NOAH) action|buy
+item|weather
+
+NOAH) action|buy
+item|bigitems
+
+NOAH) action|buy
+item|itempack
+
+NOAH) action|buy
+item|antigravity_generator
+
+NOAH) action|killstore
+item|
+
+NOAH) action|trash
+|itemID|5032
+
+NOAH) action|trash
+|itemID|4818
+
+) tankIDName|MrFrost
+tankIDPass|Marten1234
+requestedName|MrFrost
+f|1
+protocol|199
+game_version|4.36
+lmode|0
+cbits|1024
+player_age|15
+GDPR|1
+category|w4_
+totalPlaytime|0
+klv|0D53A9C3B9E2F47AE01C2DD3E1D70C4F
+gid|a23de302-4de9-436a-878a-0c6e55bf44fd
+tr|4322
+meta|1695304402
+fhash|-716928004
+rid|01F30DD7675BDF1B08141ABFC1A9038D
+platformID|4
+deviceVersion|0
+country|ee
+hash|150265195
+mac|02:00:00:00:00:00
+wk|NONE0
+
+) action|enter_game
+
+NOAH) action|input
+|text|joij
+NOAH) action|input
+|text|frosttttt
+NOAH) action|input
+|text|/pull mrfrost
+NOAH) action|input
+|text|wanna see my world
+NOAH) action|input
+|text|wait wait
+NOAH) action|input
+|text|me tsting
+NOAH) action|input
+|text|gacha
+NOAH) action|input
+|text|lol
+NOAH) action|input
+|text|okay
+NOAH) action|input
+|text|i think i need to lower
+NOAH) action|input
+|text|super fireworks
+NOAH) action|input
+|text|i got no phoenix wtf
+NOAH) action|input
+|text|wings
+NOAH) action|input
+|text|fking hell
+NOAH) action|input
+|text|xD phonix wings kinda rare ig
+NOAH) action|input
+|text|dont use
+NOAH) action|input
+|text|any kit items
+NOAH) action|input
+|text|why
+NOAH) action|input
+|text|still bug
+NOAH) action|input
+|text|oiay
+NOAH) action|input
+|text|and the items
+NOAH) action|input
+|text|u use just now
+NOAH) action|input
+|text|the transformation
+NOAH) action|input
+|text|items
+NOAH) action|input
+|text|okay xD
+NOAH) action|input
+|text|cuz the bug
+NOAH) action|input
+|text|wanna see my world now?
+NOAH) action|input
+|text|makes all ur punch effect
+NOAH) action|input
+|text|gone
+NOAH) action|input
+|text|sure
+NOAH) action|input
+|text|come 
+NOAH) action|input
+|text|word
+NOAH) action|input
+|text|like
+NOAH) action|wrench
+|netid|2
+
+NOAH) action|dialog_return
+dialog_name|popup
+buttonClicked|my_worlds
+
+
+NOAH) action|input
+|text|realms
+NOAH) action|input
+|text|/warp realms
+REALMS) action|dialog_return
+dialog_name|switcheroo_edit
+tilex|25|
+tiley|42|
+checkbox_public|1
+
+REALMS) action|input
+|text|wowoow
+REALMS) action|input
+|text|not done xD
+REALMS) action|input
+|text|still gooood
+REALMS) action|input
+|text|i think i need to make like wotd price
+REALMS) action|input
+|text|like maybe
+REALMS) action|input
+|text|anyone that got
+REALMS) action|input
+|text|wotd
+REALMS) action|input
+|text|can trade it with legend items?
+REALMS) action|input
+|text|maybe
+REALMS) action|input
+|text|so everyone build nice world
+REALMS) action|input
+|text|haha
+REALMS) action|input
+|text|sure
+REALMS) action|input
+|text|lol
+REALMS) action|input
+|text|how many gems
+REALMS) action|input
+|text|u have frost
+REALMS) action|input
+|text|2k only rn
+REALMS) action|input
+|text|how many wls
+REALMS) action|input
+|text|i gpt
+REALMS) action|input
+|text|u got
+REALMS) action|input
+|text|14
+REALMS) action|input
+|text|dls?
+REALMS) action|input
+|text|wls
+REALMS) action|drop
+|itemID|5480
+
+REALMS) action|dialog_return
+dialog_name|drop_item
+itemID|5480|
+count|3
+
+REALMS) action|input
+|text|oh u spend all on custom i see
+REALMS) action|input
+|text|3 rayman
+REALMS) action|input
+|text|lol
+REALMS) action|input
+|text|how
+REALMS) action|input
+|text|nice
+REALMS) action|input
+|text|yeah and on world too
+REALMS) action|input
+|text|xD
+REALMS) action|input
+|text|i need cloud blocks xD
+REALMS) action|input
+|text|no cloud on shop?
+REALMS) action|input
+|text|nop
+REALMS) action|input
+|text|whatt
+REALMS) action|input
+|text|go shop
+SHOP) action|input
+|text|wtf
+SHOP) action|input
+|text|how i miss
+SHOP) action|input
+|text|xD
+SHOP) action|input
+|text|cloud
+SHOP) action|input
+|text|1 sec
+) tankIDName|joji
+tankIDPass|blueoceanstrategy
+requestedName|joji
+f|1
+protocol|199
+game_version|4.35
+fz|54525480
+lmode|0
+cbits|1024
+player_age|38
+GDPR|1
+category|w3_
+totalPlaytime|0
+klv|910bb79cfb47f157c545b8dc2715b62bf516dfd6219291b1d1c8e8df632a9755
+hash2|68758880
+meta|1695304402
+fhash|-716928004
+rid|01D369D90C1905AA0A542A84141E9D0D
+platformID|0,1,1
+deviceVersion|0
+country|gb
+hash|1015399598
+mac|28:e3:47:ea:c5:70
+wk|7537A27821A55FB2A77449E44E1B5100
+zf|-297173788
+) action|enter_game
+
+SHOP) action|input
+|text|/buy cloud
+SHOP) action|dialog_return
+dialog_name|buy_option
+search|cloud|
+buttonClicked|buy_728
+
+
+SHOP) action|input
+|text|/buy cloud
+SHOP) action|dialog_return
+dialog_name|buy_option
+search|cloud|
+buttonClicked|buy_7202
+
+
+SHOP) action|input
+|text|/buy cloud
+SHOP) action|dialog_return
+dialog_name|buy_option
+search|cloud|
+buttonClicked|buy_7236
+
+
+SHOP) action|input
+|text|/buy cloud
+SHOP) action|dialog_return
+dialog_name|buy_option
+search|cloud|
+buttonClicked|buy_11696
+
+
+SHOP) action|input
+|text|/restock 5000
+SHOP) action|input
+|text|reenter
+SHOP) action|input
+|text|joij can i try pink neon mask ?
+SHOP) action|input
+|text|sure
+SHOP) action|input
+|text|whats that
+SHOP) action|input
+|text|like
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|67|
+tiley|19|
+setprice|50
+chk_peritem|0
+chk_perlock|1
+
+SHOP) action|input
+|text|good?
+SHOP) action|input
+|text|ye
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|68|
+tiley|19|
+setprice|10
+chk_peritem|0
+chk_perlock|1
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|67|
+tiley|19|
+expectprice|-50|
+expectitem|728|
+buycount|100
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|67|
+tiley|19|
+verify|1|
+buycount|100|
+expectprice|-50|
+expectitem|728|
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|69|
+tiley|19|
+setprice|20
+chk_peritem|0
+chk_perlock|1
+
+SHOP) action|input
+|text|/buy pink
+SHOP) action|input
+|text|what
+SHOP) action|input
+|text|item
+SHOP) action|trash
+|itemID|7202
+
+SHOP) action|trash
+|itemID|728
+
+SHOP) action|trash
+|itemID|11696
+
+SHOP) action|input
+|text|mask what is like glowing 
+SHOP) action|trash
+|itemID|7236
+
+SHOP) action|input
+|text|there is colors like white, green, blue and pink
+SHOP) action|input
+|text|something like that
+SHOP) action|input
+|text|/buy voodoo
+SHOP) action|dialog_return
+dialog_name|buy_option
+search|voodoo|
+buttonClicked|buy_5224
+
+
+SHOP) action|input
+|text|this?
+SHOP) action|input
+|text|yes
+SHOP) action|drop
+|itemID|5224
+
+SHOP) action|dialog_return
+dialog_name|drop_item
+itemID|5224|
+count|1
+
+SHOP) action|trash
+|itemID|5224
+
+SHOP) action|input
+|text|but pink
+SHOP) action|input
+|text|/buy voodoo
+SHOP) action|dialog_return
+dialog_name|buy_option
+search|voodoo|
+buttonClicked|buy_5228
+
+
+SHOP) action|drop
+|itemID|5228
+
+SHOP) action|dialog_return
+dialog_name|drop_item
+itemID|5228|
+count|1
+
+SHOP) action|trash
+|itemID|5228
+
+SHOP) action|trash
+|itemID|5224
+
+SHOP) action|input
+|text|ohh
+SHOP) action|input
+|text|thats dope
+SHOP) action|input
+|text|yeah
+SHOP) action|input
+|text|i dont have those in sets?
+SHOP) action|input
+|text|no
+) tankIDName|MrFrost
+tankIDPass|Marten1234
+requestedName|MrFrost
+f|1
+protocol|199
+game_version|4.36
+lmode|0
+cbits|1024
+player_age|15
+GDPR|1
+category|w4_
+totalPlaytime|0
+klv|0D53A9C3B9E2F47AE01C2DD3E1D70C4F
+gid|a23de302-4de9-436a-878a-0c6e55bf44fd
+tr|4322
+meta|1695304402
+fhash|-716928004
+rid|01F30DD7675BDF1B08141ABFC1A9038D
+platformID|4
+deviceVersion|0
+country|ee
+hash|150265195
+mac|02:00:00:00:00:00
+wk|NONE0
+
+) action|enter_game
+
+SETS) action|input
+|text|/summon mrfrost
+SETS) action|input
+|text|/buy voodoo
+SETS) action|dialog_return
+dialog_name|buy_option
+search|voodoo|
+buttonClicked|buy_5224
+
+
+SETS) action|input
+|text|/buy voodoo
+SETS) action|dialog_return
+dialog_name|buy_option
+search|voodoo|
+buttonClicked|buy_5226
+
+
+SETS) action|input
+|text|/buy voodoo
+SETS) action|dialog_return
+dialog_name|buy_option
+search|voodoo|
+buttonClicked|buy_5228
+
+
+SETS) action|input
+|text|/buy voodoo
+SETS) action|dialog_return
+dialog_name|buy_option
+search|voodoo|
+buttonClicked|buy_5230
+
+
+SETS) action|trash
+|itemID|5228
+
+SETS) action|trash
+|itemID|5224
+
+SETS) action|dialog_return
+dialog_name|mannequin_edit
+tilex|28|
+tiley|23|
+put|5226|
+
+SETS) action|dialog_return
+dialog_name|mannequin_edit
+tilex|27|
+tiley|23|
+put|5230|
+
+SETS) action|trash
+|itemID|5230
+
+SETS) action|trash
+|itemID|5226
+
+SETS) action|input
+|text|how much
+SETS) action|input
+|text|u think
+SETS) action|input
+|text|5 wls?
+SETS) action|input
+|text|sure
+SETS) action|input
+|text|/restock 200
+SETS) action|input
+|text|reenter
+SETS) action|dialog_return
+dialog_name|vending
+tilex|28|
+tiley|24|
+setprice|05
+chk_peritem|1
+chk_perlock|0
+
+SETS) action|dialog_return
+dialog_name|vending
+tilex|27|
+tiley|24|
+setprice|05
+chk_peritem|1
+chk_perlock|0
+
+SETS) action|friends
+delay|0
+
+SETS) action|dialog_return
+dialog_name|socialportal
+buttonClicked|kitsystem
+
+
+SETS) action|dialog_return
+dialog_name|vending
+tilex|26|
+tiley|24|
+setprice|05
+chk_peritem|1
+chk_perlock|0
+
+SETS) action|dialog_return
+dialog_name|vending
+tilex|25|
+tiley|24|
+setprice|05
+chk_peritem|1
+chk_perlock|0
+
+SETS) action|input
+|text|ohohoho
+SETS) action|dialog_return
+dialog_name|
+buttonClicked|kits_price_1404
+
+
+SETS) action|dialog_return
+dialog_name|
+buttonClicked|kits_item_1404
+
+
+SETS) action|trash
+|itemID|6016
+
+SETS) action|input
+|text|can try pink
+SETS) action|input
+|text|this?
+SETS) action|input
+|text|/buy ances
+SETS) action|input
+|text|yes
+SETS) action|input
+|text|/buy ances
+SETS) action|dialog_return
+dialog_name|buy_option
+search|ances|
+buttonClicked|buy_7166
+
+
+SETS) action|drop
+|itemID|7166
+
+SETS) action|dialog_return
+dialog_name|drop_item
+itemID|7166|
+count|1
+
+SETS) action|trash
+|itemID|7166
+
+SETS) action|input
+|text|very coooooool
+SETS) action|input
+|text|lol
+SETS) action|input
+|text|u want the lvl 5?
+SETS) action|input
+|text|but only for u
+SETS) action|input
+|text|dont trade it
+SETS) action|input
+|text|okay
+SETS) action|input
+|text|gimme
+SETS) action|drop
+|itemID|7166
+
+SETS) action|input
+|text|back
+SETS) action|dialog_return
+dialog_name|drop_item
+itemID|7166|
+count|1
+
+SETS) action|trash
+|itemID|7166
+
+SETS) action|input
+|text|/findid ancestral orb
+SETS) action|input
+|text|/drop 9212 1
+SETS) action|input
+|text|lvl 6
+SETS) action|input
+|text|woa
+SETS) action|input
+|text|lol this set
+SETS) action|input
+|text|wait
+SETS) action|input
+|text|/buy glue
+SETS) action|dialog_return
+dialog_name|buy_option
+search|glue|
+buttonClicked|buy_1866
+
+
+SETS) action|trash
+|itemID|1866
+
+SETS) action|input
+|text|/invis
+SETS) action|input
+|text|/warp mrfrost
+MRFROST) action|input
+|text|/warpto mrfrost
+) tankIDName|MrFrost
+tankIDPass|Marten1234
+requestedName|MrFrost
+f|1
+protocol|199
+game_version|4.36
+lmode|0
+cbits|1024
+player_age|15
+GDPR|1
+category|w4_
+totalPlaytime|0
+klv|0D53A9C3B9E2F47AE01C2DD3E1D70C4F
+gid|a23de302-4de9-436a-878a-0c6e55bf44fd
+tr|4322
+meta|1695304402
+fhash|-716928004
+rid|01F30DD7675BDF1B08141ABFC1A9038D
+platformID|4
+deviceVersion|0
+country|ee
+hash|150265195
+mac|02:00:00:00:00:00
+wk|NONE0
+
+) action|enter_game
+
+SET) action|trash
+|itemID|12178
+
+SETS) action|dialog_return
+dialog_name|vending
+tilex|34|
+tiley|36|
+expectprice|5|
+expectitem|1760|
+buycount|01
+
+SETS) action|dialog_return
+dialog_name|vending
+tilex|34|
+tiley|36|
+verify|1|
+buycount|1|
+expectprice|5|
+expectitem|1760|
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|64|
+tiley|3|
+setprice|35
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|66|
+tiley|3|
+setprice|1
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|69|
+tiley|3|
+setprice|70
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|68|
+tiley|3|
+setprice|10
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|67|
+tiley|3|
+setprice|30
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|70|
+tiley|3|
+setprice|20
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|71|
+tiley|3|
+setprice|100
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|72|
+tiley|3|
+setprice|20
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|73|
+tiley|3|
+setprice|25
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|74|
+tiley|3|
+setprice|300
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|75|
+tiley|3|
+setprice|15
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|76|
+tiley|3|
+setprice|5
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|77|
+tiley|3|
+setprice|5
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|78|
+tiley|3|
+setprice|3
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|79|
+tiley|3|
+setprice|210
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|79|
+tiley|3|
+setprice|10
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|80|
+tiley|3|
+setprice|10
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|81|
+tiley|3|
+setprice|11
+chk_peritem|1
+chk_perlock|0
+
+SET) action|input
+|text|/invis
+SET) action|trash
+|itemID|12172
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|83|
+tiley|3|
+setprice|15
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|84|
+tiley|3|
+setprice|17
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|85|
+tiley|3|
+setprice|8
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|86|
+tiley|3|
+setprice|12
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|87|
+tiley|3|
+setprice|45
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|88|
+tiley|3|
+setprice|5
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|92|
+tiley|3|
+setprice|10
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|93|
+tiley|3|
+setprice|20
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|mannequin_edit
+tilex|94|
+tiley|2|
+put|11716|
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|94|
+tiley|3|
+setprice|30
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|95|
+tiley|7|
+setprice|2
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|93|
+tiley|7|
+setprice|7
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|91|
+tiley|7|
+setprice|5
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|88|
+tiley|7|
+setprice|20
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|87|
+tiley|7|
+setprice|7
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|86|
+tiley|7|
+setprice|3
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|85|
+tiley|7|
+setprice|5
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|84|
+tiley|7|
+setprice|10
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|83|
+tiley|7|
+setprice|7
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|82|
+tiley|7|
+setprice|5
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|81|
+tiley|7|
+setprice|2
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|80|
+tiley|7|
+setprice|250
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|79|
+tiley|7|
+setprice|5
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|78|
+tiley|7|
+setprice|5
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|74|
+tiley|7|
+setprice|7
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|69|
+tiley|7|
+setprice|3
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|68|
+tiley|7|
+setprice|25
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|67|
+tiley|7|
+setprice|3
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|66|
+tiley|7|
+setprice|1
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|65|
+tiley|7|
+setprice|1
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|64|
+tiley|7|
+setprice|1
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|64|
+tiley|11|
+setprice|10
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|67|
+tiley|11|
+setprice|1
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|68|
+tiley|11|
+setprice|1
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|70|
+tiley|11|
+setprice|2
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|71|
+tiley|11|
+setprice|5
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|72|
+tiley|11|
+setprice|1
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|74|
+tiley|11|
+setprice|6
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|76|
+tiley|11|
+setprice|3
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|81|
+tiley|11|
+setprice|4
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|95|
+tiley|15|
+setprice|20
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|94|
+tiley|15|
+setprice|5
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|93|
+tiley|15|
+setprice|30
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|93|
+tiley|15|
+setprice|0
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|92|
+tiley|15|
+setprice|5
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|91|
+tiley|15|
+setprice|60
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|90|
+tiley|15|
+setprice|1
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|89|
+tiley|15|
+setprice|5
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|88|
+tiley|15|
+setprice|5
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|87|
+tiley|15|
+setprice|20
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|86|
+tiley|15|
+setprice|40
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|85|
+tiley|15|
+setprice|2
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|83|
+tiley|15|
+setprice|1
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|82|
+tiley|15|
+setprice|5
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|81|
+tiley|15|
+setprice|5
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|80|
+tiley|15|
+setprice|1
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|79|
+tiley|15|
+setprice|20
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|76|
+tiley|15|
+setprice|1
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|74|
+tiley|15|
+setprice|10
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|68|
+tiley|15|
+setprice|130
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|68|
+tiley|15|
+setprice|30
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|67|
+tiley|15|
+setprice|40
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|66|
+tiley|15|
+setprice|7
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|65|
+tiley|15|
+setprice|5
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|64|
+tiley|15|
+setprice|2
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|32|
+tiley|7|
+setprice|4
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|31|
+tiley|7|
+setprice|5
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|26|
+tiley|7|
+setprice|3
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|33|
+tiley|7|
+setprice|40
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|34|
+tiley|7|
+setprice|5-
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|34|
+tiley|7|
+setprice|50
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|42|
+tiley|9|
+setprice|5
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|47|
+tiley|9|
+buttonClicked|pullstock
+
+setprice|20
+chk_peritem|1
+chk_perlock|0
+
+SET) action|input
+|text|/buy force
+SET) action|input
+|text|/buy sign
+SET) action|dialog_return
+dialog_name|buy_option
+search|sign|
+buttonClicked|buy_2586
+
+
+SET) action|dialog_return
+dialog_name|sign_edit
+tilex|47|
+tiley|9|
+sign_text|`9Pet Chorizo available in
+
+SET) action|dialog_return
+dialog_name|sign_edit
+tilex|47|
+tiley|9|
+sign_text|`9Pet Chorizo available in UbiCrates!
+
+SET) action|dialog_return
+dialog_name|sign_edit
+tilex|43|
+tiley|9|
+sign_text|`2Available in growtoken store!
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|53|
+tiley|9|
+setprice|5
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|54|
+tiley|9|
+setprice|3
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|56|
+tiley|9|
+setprice|2
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|56|
+tiley|13|
+setprice|13
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|55|
+tiley|13|
+setprice|7
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|54|
+tiley|13|
+setprice|20
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|52|
+tiley|13|
+setprice|5
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|51|
+tiley|13|
+setprice|6
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|50|
+tiley|13|
+setprice|4
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|49|
+tiley|13|
+setprice|5
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|48|
+tiley|13|
+setprice|5
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|47|
+tiley|13|
+setprice|30
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|46|
+tiley|13|
+setprice|20
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|45|
+tiley|13|
+setprice|1
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|44|
+tiley|13|
+setprice|3
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|43|
+tiley|13|
+setprice|50
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|42|
+tiley|13|
+setprice|1
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|43|
+tiley|17|
+buttonClicked|pullstock
+
+setprice|90
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|sign_edit
+tilex|43|
+tiley|17|
+sign_text|`5Available in all Summer Gacha!!
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|42|
+tiley|17|
+setprice|25
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|45|
+tiley|17|
+setprice|2
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|46|
+tiley|17|
+setprice|3
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|47|
+tiley|17|
+setprice|2
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|48|
+tiley|17|
+setprice|2
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|49|
+tiley|17|
+setprice|5
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|50|
+tiley|17|
+setprice|5
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|51|
+tiley|17|
+setprice|10
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|53|
+tiley|17|
+setprice|5
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|54|
+tiley|17|
+setprice|10
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|55|
+tiley|17|
+setprice|55
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|56|
+tiley|17|
+setprice|8
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|53|
+tiley|21|
+setprice|40
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|56|
+tiley|21|
+setprice|50
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|55|
+tiley|21|
+setprice|55
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|54|
+tiley|21|
+setprice|150
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|52|
+tiley|21|
+setprice|40
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|51|
+tiley|21|
+setprice|55
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|50|
+tiley|21|
+setprice|13-
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|50|
+tiley|21|
+setprice|35
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|49|
+tiley|21|
+setprice|10
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|48|
+tiley|21|
+setprice|5
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|47|
+tiley|21|
+setprice|15
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|14|
+tiley|19|
+setprice|5
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|4|
+tiley|19|
+setprice|40
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|5|
+tiley|19|
+setprice|45
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|6|
+tiley|19|
+setprice|25
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|7|
+tiley|19|
+setprice|10
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|8|
+tiley|19|
+setprice|30
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|9|
+tiley|19|
+setprice|50
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|10|
+tiley|19|
+setprice|3 5
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|10|
+tiley|19|
+setprice|35
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|11|
+tiley|19|
+setprice|10
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|13|
+tiley|19|
+setprice|10
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|15|
+tiley|19|
+setprice|2
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|16|
+tiley|19|
+setprice|2
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|18|
+tiley|19|
+setprice|3515
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|18|
+tiley|19|
+setprice|15
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|19|
+tiley|19|
+setprice|25
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|22|
+tiley|19|
+setprice|35
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|23|
+tiley|19|
+setprice|15
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|26|
+tiley|19|
+setprice|85
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|28|
+tiley|19|
+setprice|60
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|displayblock
+tilex|30|
+tiley|20|
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|30|
+tiley|19|
+setprice|250
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|31|
+tiley|19|
+setprice|60
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|34|
+tiley|19|
+setprice|135
+chk_peritem|1
+chk_perlock|0
+
+SET) action|trash
+|itemID|1676
+
+SET) action|trash
+|itemID|13168
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|11|
+tiley|27|
+setprice|140
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|10|
+tiley|27|
+setprice|35
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|21|
+tiley|27|
+setprice|25
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|22|
+tiley|27|
+setprice|40
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|26|
+tiley|27|
+setprice|70
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|31|
+tiley|27|
+setprice|55
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|34|
+tiley|31|
+setprice|50
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|33|
+tiley|31|
+setprice|35
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|32|
+tiley|31|
+setprice|55
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|29|
+tiley|31|
+setprice|45
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|28|
+tiley|31|
+setprice|50
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|26|
+tiley|31|
+setprice|70
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|25|
+tiley|31|
+setprice|40
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|24|
+tiley|31|
+setprice|25
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|23|
+tiley|31|
+setprice|20
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|22|
+tiley|31|
+setprice|200
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|17|
+tiley|31|
+setprice|200
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|16|
+tiley|31|
+setprice|100
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|9|
+tiley|31|
+setprice|80
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|8|
+tiley|31|
+setprice|30
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|7|
+tiley|31|
+setprice|50
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|5|
+tiley|31|
+setprice|55
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|19|
+tiley|35|
+setprice|190
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|24|
+tiley|35|
+setprice|250
+chk_peritem|1
+chk_perlock|0
+
+SET) action|store
+location|gem
+
+SET) action|buy
+item|token
+
+SET) action|killstore
+item|
+
+SET) action|dialog_return
+dialog_name|displayblock
+tilex|30|
+tiley|48|
+
+SET) action|trash
+|itemID|1738
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|30|
+tiley|47|
+buttonClicked|pullstock
+
+setprice|200
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|mannequin_edit
+tilex|30|
+tiley|46|
+put|1738|
+
+SET) action|dialog_return
+dialog_name|sign_edit
+tilex|30|
+tiley|47|
+sign_text|`eAvailable in Growtoken Store!
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|32|
+tiley|47|
+setprice|20
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|33|
+tiley|47|
+setprice|4-
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|33|
+tiley|47|
+setprice|40
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|21|
+tiley|47|
+setprice|45
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|mannequin_edit
+tilex|10|
+tiley|46|
+put|9446|
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|10|
+tiley|47|
+buttonClicked|pullstock
+
+setprice|250
+chk_peritem|1
+chk_perlock|0
+
+SET) action|dialog_return
+dialog_name|sign_edit
+tilex|10|
+tiley|47|
+sign_text|`2Available in G4G Special Hampers!
+
+SET) action|trash
+|itemID|9446
+
+SET) action|input
+|text|/buy grow4
+SET) action|dialog_return
+dialog_name|buy_option
+search|grow4|
+buttonClicked|buy_11816
+
+
+SET) action|trash
+|itemID|11816
+
+SET) action|input
+|text|/buy grow4
+SET) action|dialog_return
+dialog_name|buy_option
+search|grow4|
+buttonClicked|buy_11758
+
+
+SET) action|trash
+|itemID|1738
+
+SET) action|trash
+|itemID|9268
+
+SET) action|input
+|text|/online
+SET) action|trash
+|itemID|11756
+
+SET) action|trash
+|itemID|11758
+
+SET) action|trash
+|itemID|10778
+
+SET) action|trash
+|itemID|5754
+
+SET) action|trash
+|itemID|10774
+
+SET) action|trash
+|itemID|1460
+
+SET) action|trash
+|itemID|10780
+
+SET) action|trash
+|itemID|1970
+
+SET) action|trash
+|itemID|10754
+
+SET) action|trash
+|itemID|10252
+
+SET) action|trash
+|itemID|10748
+
+SET) action|trash
+|itemID|10782
+
+SET) action|trash
+|itemID|10758
+
+SET) action|trash
+|itemID|10786
+
+SET) action|trash
+|itemID|10776
+
+SET) action|trash
+|itemID|10784
+
+SET) action|trash
+|itemID|10394
+
+SET) action|trash
+|itemID|2586
+
+SET) action|input
+|text|/restock 5000
+START) action|store
+location|gem
+
+START) action|buy
+item|bigitems
+
+START) action|buy
+item|itempack
+
+START) action|buy
+item|locks
+
+START) action|buy
+item|weather
+
+START) action|buy
+item|paintbrush
+
+START) action|buy
+item|paintbrush
+
+START) action|buy
+item|paintbrush
+
+START) action|killstore
+item|
+
+START) action|input
+|text|/buy canvaas
+START) action|input
+|text|/buy canva
+START) action|input
+|text|/buy scan
+START) action|dialog_return
+dialog_name|buy_option
+search|scan|
+buttonClicked|buy_6016
+
+
+START) action|dialog_return
+dialog_name|statsblock
+buttonClicked|worldBlocks
+
+isStatsWorldBlockUsableByPublic|0
+isStatsFloatingItemsUsableByPublic|0
+
+START) action|dialog_return
+dialog_name|statsblockworld
+buttonClicked|search_1
+
+searchName|
+
+START) action|input
+|text|/1hit
+START) action|input
+|text|/buy painting
+START) action|dialog_return
+dialog_name|buy_option
+search|painting|
+buttonClicked|buy_3528
+
+
+START) action|trash
+|itemID|3479
+
+START) action|input
+|text|/buy ruby
+START) action|dialog_return
+dialog_name|buy_option
+search|ruby|
+buttonClicked|buy_828
+
+
+START) action|input
+|text|/buy plat
+START) action|input
+|text|/buy crystal
+START) action|input
+|text|/buy plat
+START) action|dialog_return
+dialog_name|buy_option
+search|plat|
+buttonClicked|buy_13216
+
+
+START) action|trash
+|itemID|3479
+
+START) action|input
+|text|/buy dr
+START) action|input
+|text|/buy title
+START) action|dialog_return
+dialog_name|buy_option
+search|title|
+buttonClicked|buy_9472
+
+
+START) action|input
+|text|/buy title
+START) action|dialog_return
+dialog_name|buy_option
+search|title|
+buttonClicked|buy_11816
+
+
+START) action|input
+|text|/buy doctor
+START) action|input
+|text|/buy mercy
+START) action|dialog_return
+dialog_name|buy_option
+search|mercy|
+buttonClicked|buy_8552
+
+
+START) action|input
+|text|/buy max
+START) action|input
+|text|/buy level
+START) action|input
+|text|/buy 125
+START) action|input
+|text|/buylegend
+START) action|input
+|text|/buy legend
+START) action|dialog_return
+dialog_name|buy_option
+search|legend|
+buttonClicked|buy_1794
+
+
+START) action|wrench
+|netid|1
+
+START) action|dialog_return
+dialog_name|popup
+buttonClicked|title_edit
+
+
+START) action|input
+|text|/buy expen
+START) action|input
+|text|/buy potion
+START) action|input
+|text|/buy blue
+START) action|input
+|text|/buy expenrience
+START) action|input
+|text|/buy experience
+START) action|dialog_return
+dialog_name|buy_option
+search|experience|
+buttonClicked|buy_1488
+
+
+START) action|store
+location|gem
+
+START) action|buy
+item|token
+
+START) action|killstore
+item|
+
+START) action|input
+|text|/giveall 200
+START) action|store
+location|gem
+
+START) action|buy
+item|token
+
+START) action|buy
+item|weather
+
+START) action|buy
+item|paintbrush
+
+START) action|buy
+item|paintbrush
+
+START) action|buy
+item|paintbrush
+
+START) action|buy
+item|paintbrush
+
+START) action|buy
+item|paintbrush
+
+START) action|buy
+item|paintbrush
+
+START) action|buy
+item|paintbrush
+
+START) action|buy
+item|paintbrush
+
+START) action|buy
+item|paintbrush
+
+START) action|buy
+item|paintbrush
+
+START) action|buy
+item|paintbrush
+
+START) action|buy
+item|paintbrush
+
+START) action|buy
+item|paintbrush
+
+START) action|buy
+item|paintbrush
+
+START) action|killstore
+item|
+
+START) action|dialog_return
+dialog_name|artcanvas
+tilex|24|
+tiley|52|
+paint|1488
+artname|
+
+START) action|dialog_return
+dialog_name|artcanvas
+tilex|24|
+tiley|52|
+artname|`9Lvl 125 Title
+
+START) action|dialog_return
+dialog_name|artcanvas
+tilex|22|
+tiley|52|
+paint|8552
+artname|
+
+START) action|dialog_return
+dialog_name|artcanvas
+tilex|22|
+tiley|52|
+artname|`4Dr. Title (`9FREE MERCY WINGS
+
+START) action|dialog_return
+dialog_name|artcanvas
+tilex|22|
+tiley|52|
+artname|`4Dr. Title `9FREE MERCY WINGS!
+
+START) action|wrench
+|netid|1
+
+START) action|dialog_return
+dialog_name|popup
+buttonClicked|title_edit
+
+
+START) action|dialog_return
+dialog_name|title_edit
+buttonClicked|
+
+checkbox_doctor_title|0
+checkbox_bxoost_title|0
+checkbox_maxlevel_title|0
+checkbox_legend_title|0
+checkbox_master_title|0
+checkbox_g4g_title|0
+
+START) action|dialog_return
+dialog_name|artcanvas
+tilex|20|
+tiley|52|
+paint|11816
+artname|
+
+START) action|dialog_return
+dialog_name|artcanvas
+tilex|20|
+tiley|52|
+artname|`9Grow4Good Title
+
+START) action|dialog_return
+dialog_name|artcanvas
+tilex|18|
+tiley|52|
+paint|9472
+artname|
+
+START) action|dialog_return
+dialog_name|artcanvas
+tilex|18|
+tiley|52|
+artname|`9Mentor Title
+
+START) action|wrench
+|netid|1
+
+START) action|dialog_return
+dialog_name|popup
+buttonClicked|title_edit
+
+
+START) action|dialog_return
+dialog_name|title_edit
+buttonClicked|
+
+checkbox_doctor_title|0
+checkbox_bxoost_title|0
+checkbox_maxlevel_title|0
+checkbox_legend_title|0
+checkbox_master_title|0
+checkbox_g4g_title|0
+
+START) action|dialog_return
+dialog_name|artcanvas
+tilex|16|
+tiley|52|
+paint|1794
+artname|
+
+START) action|dialog_return
+dialog_name|artcanvas
+tilex|16|
+tiley|52|
+artname|`9LEGENDARY TITLE
+
+START) action|input
+|text|/REMOVEDROP
+START) action|input
+|text|/buy mods
+START) action|input
+|text|/buy @
+START) action|input
+|text|/kit
+START) action|dialog_return
+dialog_name|kit_pass
+buttonClicked|tab_2
+
+
+START) action|input
+|text|/buyrole
+START) action|input
+|text|/buyrole mercy
+START) action|dialog_return
+dialog_name|buy_option
+search|mercy|
+buttonClicked|buy_8552
+
+
+START) action|trash
+|itemID|8552
+
+START) action|dialog_return
+dialog_name|trash_item2
+itemID|8552|
+count|200|
+
+START) action|input
+|text|/buyrole mercy
+START) action|dialog_return
+dialog_name|buy_option
+search|mercy|
+buttonClicked|buy_8552
+
+
+START) action|trash
+|itemID|8552
+
+START) action|dialog_return
+dialog_name|trash_item2
+itemID|8552|
+count|200|
+
+START) action|input
+|text|/buyrole hand
+START) action|input
+|text|/buyrole legend
+START) action|input
+|text|/?
+START) action|input
+|text|/givevip
+START) action|input
+|text|/givegps
+START) action|input
+|text|/givegems
+START) action|input
+|text|/givegems joji 4
+START) action|input
+|text|/givevip joji
+START) action|input
+|text|/givessp joji
+START) action|input
+|text|/givessp joji 1
+START) action|trash
+|itemID|1794
+
+START) action|dialog_return
+dialog_name|trash_item2
+itemID|1794|
+count|200|
+
+START) action|drop
+|itemID|11816
+
+START) action|trash
+|itemID|11816
+
+START) action|trash
+|itemID|9472
+
+START) action|dialog_return
+dialog_name|trash_item2
+itemID|9472|
+count|200|
+
+START) action|trash
+|itemID|3528
+
+START) action|trash
+|itemID|828
+
+START) action|trash
+|itemID|6016
+
+START) action|trash
+|itemID|13216
+
+START) action|trash
+|itemID|1488
+
+START) action|dialog_return
+dialog_name|trash_item2
+itemID|1488|
+count|200|
+
+START) action|input
+|text|/role
+START) action|input
+|text|/roles
+START) action|input
+|text|/asset
+START) action|dialog_return
+dialog_name|
+buttonClicked|news
+
+
+START) action|input
+|text|/asset
+START) action|dialog_return
+dialog_name|
+buttonClicked|news
+
+
+START) action|input
+|text|/rollback
+) tankIDName|noah
+tankIDPass|blueoceanstrategy
+requestedName|joji
+f|1
+protocol|199
+game_version|4.35
+fz|54525480
+lmode|0
+cbits|1024
+player_age|38
+GDPR|1
+category|w3_
+totalPlaytime|0
+klv|910bb79cfb47f157c545b8dc2715b62bf516dfd6219291b1d1c8e8df632a9755
+hash2|68758880
+meta|1695304402
+fhash|-716928004
+rid|01D369D90C1905AA0A542A84141E9D0D
+platformID|0,1,1
+deviceVersion|0
+country|gb
+hash|1015399598
+mac|28:e3:47:ea:c5:70
+wk|7537A27821A55FB2A77449E44E1B5100
+zf|-297173788
+) action|enter_game
+
+START) action|input
+|text|/buyrole mercy
+START) action|input
+|text|/giverole mercy
+START) action|input
+|text|/findid mercy
+START) action|input
+|text|/find mercy
+SET) action|trash
+|itemID|4400
+
+SET) action|trash
+|itemID|542
+
+SET) action|trash
+|itemID|10784
+
+SET) action|trash
+|itemID|10776
+
+SET) action|trash
+|itemID|10786
+
+SET) action|trash
+|itemID|1678
+
+SET) action|trash
+|itemID|3764
+
+SET) action|trash
+|itemID|2864
+
+SET) action|trash
+|itemID|9732
+
+) tankIDName|Noah
+tankIDPass|blueoceanstrategy
+requestedName|joji
+f|1
+protocol|199
+game_version|4.35
+fz|54525480
+lmode|0
+cbits|1024
+player_age|38
+GDPR|1
+category|w3_
+totalPlaytime|0
+klv|910bb79cfb47f157c545b8dc2715b62bf516dfd6219291b1d1c8e8df632a9755
+hash2|68758880
+meta|1695304402
+fhash|-716928004
+rid|01D369D90C1905AA0A542A84141E9D0D
+platformID|0,1,1
+deviceVersion|0
+country|gb
+hash|1015399598
+mac|28:e3:47:ea:c5:70
+reconnect|1
+wk|7537A27821A55FB2A77449E44E1B5100
+zf|-297173788
+) action|enter_game
+
+) action|dialog_return
+dialog_name|
+buttonClicked|
+
+
+SET) action|trash
+|itemID|10252
+
+SET) action|trash
+|itemID|13172
+
+SET) action|trash
+|itemID|10754
+
+SET) action|trash
+|itemID|4816
+
+SET) action|trash
+|itemID|6310
+
+SET) action|trash
+|itemID|844
+
+SET) action|trash
+|itemID|8590
+
+SET) action|trash
+|itemID|8616
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|44|
+tiley|29|
+expectprice|100|
+expectitem|11758|
+buycount|200
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|44|
+tiley|29|
+verify|1|
+buycount|200|
+expectprice|100|
+expectitem|11758|
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|44|
+tiley|29|
+expectprice|100|
+expectitem|11758|
+buycount|200
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|44|
+tiley|29|
+verify|1|
+buycount|200|
+expectprice|100|
+expectitem|11758|
+
+NOAH) action|drop
+|itemID|11758
+
+NOAH) action|dialog_return
+dialog_name|drop_item
+itemID|11758|
+count|200
+
+NOAH) action|wrench
+|netid|1
+
+NOAH) action|dialog_return
+dialog_name|popup
+buttonClicked|cheat_menunew
+
+
+NOAH) action|dialog_return
+dialog_name|dialog_cheat_menu
+checkbox_cheat_autofarm|0
+checkbox_cheat_autocollect|1
+checkbox_cheat_antibounce|0
+checkbox_cheat_speed|1
+checkbox_cheat_jump|1
+checkbox_cheat_kick|0
+checkbox_cheat_ban|0
+checkbox_cheat_hideother|0
+checkbox_cheat_hidechat|0
+checkbox_cheat_fastpull|0
+checkbox_cheat_fastdrop|1
+checkbox_cheat_fasttrash|1
+checkbox_cheat_fastspin|0
+text_input_spam_delay|3
+text_input_spam_chat|`cBest Server
+checkbox_cheat_spam|0
+
+NOAH) action|wrench
+|netid|1
+
+NOAH) action|dialog_return
+dialog_name|popup
+buttonClicked|cheat_menunew
+
+
+NOAH) action|dialog_return
+dialog_name|dialog_cheat_menu
+checkbox_cheat_autofarm|0
+checkbox_cheat_autocollect|1
+checkbox_cheat_antibounce|0
+checkbox_cheat_speed|1
+checkbox_cheat_jump|0
+checkbox_cheat_kick|0
+checkbox_cheat_ban|0
+checkbox_cheat_hideother|0
+checkbox_cheat_hidechat|0
+checkbox_cheat_fastpull|0
+checkbox_cheat_fastdrop|1
+checkbox_cheat_fasttrash|1
+checkbox_cheat_fastspin|0
+text_input_spam_delay|3
+text_input_spam_chat|`cBest Server
+checkbox_cheat_spam|0
+
+NOAH) action|trash
+|itemID|11046
+
+NOAH) action|trash
+|itemID|13174
+
+NOAH) action|trash
+|itemID|10774
+
+NOAH) action|trash
+|itemID|10780
+
+NOAH) action|trash
+|itemID|4818
+
+NOAH) action|trash
+|itemID|1670
+
+NOAH) action|trash
+|itemID|10778
+
+NOAH) action|trash
+|itemID|6306
+
+NOAH) action|trash
+|itemID|912
+
+NOAH) action|trash
+|itemID|11756
+
+NOAH) action|trash
+|itemID|6322
+
+NOAH) action|trash
+|itemID|10784
+
+NOAH) action|trash
+|itemID|10758
+
+NOAH) action|trash
+|itemID|13160
+
+NOAH) action|trash
+|itemID|11664
+
+NOAH) action|trash
+|itemID|13192
+
+NOAH) action|trash
+|itemID|13194
+
+) tankIDName|MrFrost
+tankIDPass|Marten1234
+requestedName|MrFrost
+f|1
+protocol|199
+game_version|4.36
+lmode|0
+cbits|1024
+player_age|15
+GDPR|1
+category|w4_
+totalPlaytime|0
+klv|0D53A9C3B9E2F47AE01C2DD3E1D70C4F
+gid|a23de302-4de9-436a-878a-0c6e55bf44fd
+tr|4322
+meta|1695304402
+fhash|-716928004
+rid|01F30DD7675BDF1B08141ABFC1A9038D
+platformID|4
+deviceVersion|0
+country|ee
+hash|150265195
+mac|02:00:00:00:00:00
+wk|NONE0
+
+) action|enter_game
+
+NOAH) action|trash
+|itemID|10654
+
+NOAH) action|drop
+|itemID|5754
+
+NOAH) action|drop
+|itemID|1460
+
+NOAH) action|drop
+|itemID|9322
+
+NOAH) action|drop
+|itemID|2386
+
+NOAH) action|trash
+|itemID|6308
+
+NOAH) action|drop
+|itemID|10026
+
+NOAH) action|drop
+|itemID|9446
+
+NOAH) action|drop
+|itemID|11768
+
+NOAH) action|drop
+|itemID|11318
+
+NOAH) action|drop
+|itemID|8944
+
+NOAH) action|drop
+|itemID|10388
+
+NOAH) action|drop
+|itemID|11118
+
+NOAH) action|drop
+|itemID|9758
+
+NOAH) action|drop
+|itemID|1970
+
+NOAH) action|drop
+|itemID|10748
+
+NOAH) action|trash
+|itemID|10754
+
+NOAH) action|trash
+|itemID|13178
+
+) tankIDName|MrFrost
+tankIDPass|Marten1234
+requestedName|MrFrost
+f|1
+protocol|199
+game_version|4.36
+lmode|0
+cbits|1024
+player_age|15
+GDPR|1
+category|w4_
+totalPlaytime|0
+klv|0D53A9C3B9E2F47AE01C2DD3E1D70C4F
+gid|a23de302-4de9-436a-878a-0c6e55bf44fd
+tr|4322
+meta|1695304402
+fhash|-716928004
+rid|01F30DD7675BDF1B08141ABFC1A9038D
+platformID|4
+deviceVersion|0
+country|ee
+hash|150265195
+mac|02:00:00:00:00:00
+wk|NONE0
+
+) action|enter_game
+
+NOAH) action|input
+|text|mrfro
+NOAH) action|input
+|text|zz
+NOAH) action|trash
+|itemID|834
+
+NOAH) action|trash
+|itemID|834
+
+NOAH) action|trash
+|itemID|834
+
+NOAH) action|wrench
+|netid|2
+
+NOAH) action|dialog_return
+dialog_name|popup
+netID|1|
+netID|2|
+buttonClicked|pull
+
+
+NOAH) action|wrench
+|netid|2
+
+NOAH) action|dialog_return
+dialog_name|popup
+netID|1|
+netID|2|
+buttonClicked|pull
+
+
+NOAH) action|wrench
+|netid|2
+
+NOAH) action|dialog_return
+dialog_name|popup
+netID|1|
+netID|2|
+buttonClicked|kick
+
+
+NOAH) action|input
+|text|wtf
+NOAH) action|input
+|text|why cant i pull u
+NOAH) action|trash
+|itemID|834
+
+NOAH) action|trash
+|itemID|834
+
+NOAH) action|trash
+|itemID|834
+
+NOAH) action|drop
+|itemID|5754
+
+NOAH) action|trash
+|itemID|4822
+
+NOAH) action|drop
+|itemID|1970
+
+NOAH) action|drop
+|itemID|10748
+
+NOAH) action|drop
+|itemID|4664
+
+NOAH) action|drop
+|itemID|9446
+
+NOAH) action|drop
+|itemID|11768
+
+NOAH) action|drop
+|itemID|11884
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|44|
+tiley|29|
+expectprice|100|
+expectitem|11758|
+buycount|200
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|44|
+tiley|29|
+expectprice|100|
+expectitem|11758|
+buycount|200
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|44|
+tiley|29|
+verify|1|
+buycount|200|
+expectprice|100|
+expectitem|11758|
+
+) tankIDName|MrFrost
+tankIDPass|Marten1234
+requestedName|MrFrost
+f|1
+protocol|199
+game_version|4.36
+lmode|0
+cbits|1024
+player_age|15
+GDPR|1
+category|w4_
+totalPlaytime|0
+klv|0D53A9C3B9E2F47AE01C2DD3E1D70C4F
+gid|a23de302-4de9-436a-878a-0c6e55bf44fd
+tr|4322
+meta|1695304402
+fhash|-716928004
+rid|01F30DD7675BDF1B08141ABFC1A9038D
+platformID|4
+deviceVersion|0
+country|ee
+hash|150265195
+mac|02:00:00:00:00:00
+wk|NONE0
+
+) action|enter_game
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|44|
+tiley|29|
+expectprice|100|
+expectitem|11758|
+buycount|200
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|44|
+tiley|29|
+verify|1|
+buycount|200|
+expectprice|100|
+expectitem|11758|
+
+SETS) action|dialog_return
+dialog_name|vending
+tilex|46|
+tiley|28|
+expectprice|1|
+expectitem|2522|
+buycount|01
+
+SETS) action|dialog_return
+dialog_name|vending
+tilex|46|
+tiley|28|
+verify|1|
+buycount|1|
+expectprice|1|
+expectitem|2522|
+
+SETS) action|dialog_return
+dialog_name|vending
+tilex|46|
+tiley|28|
+expectprice|1|
+expectitem|2522|
+buycount|20
+
+SETS) action|dialog_return
+dialog_name|vending
+tilex|46|
+tiley|28|
+verify|1|
+buycount|20|
+expectprice|1|
+expectitem|2522|
+
+SETS) action|dialog_return
+dialog_name|vending
+tilex|65|
+tiley|24|
+expectprice|5|
+expectitem|3370|
+buycount|1
+
+SETS) action|input
+|text|
+SETS) action|dialog_return
+dialog_name|vending
+tilex|65|
+tiley|24|
+verify|1|
+buycount|1|
+expectprice|5|
+expectitem|3370|
+
+SETS) action|input
+|text|
+SETS) action|input
+|text|
+SETS) action|dialog_return
+dialog_name|vending
+tilex|86|
+tiley|16|
+expectprice|1|
+expectitem|13780|
+buycount|01
+
+SETS) action|dialog_return
+dialog_name|vending
+tilex|86|
+tiley|16|
+verify|1|
+buycount|1|
+expectprice|1|
+expectitem|13780|
+
+SETS) action|dialog_return
+dialog_name|vending
+tilex|93|
+tiley|36|
+expectprice|1|
+expectitem|12116|
+buycount|0`
+
+SETS) action|dialog_return
+dialog_name|vending
+tilex|93|
+tiley|36|
+expectprice|1|
+expectitem|12116|
+buycount|01
+
+SETS) action|dialog_return
+dialog_name|vending
+tilex|93|
+tiley|36|
+verify|1|
+buycount|1|
+expectprice|1|
+expectitem|12116|
+
+SETS) action|trash
+|itemID|12116
+
+) tankIDName|Joji
+tankIDPass|blueoceanstrategy
+requestedName|FireBob
+f|1
+protocol|199
+game_version|4.37
+lmode|0
+cbits|1024
+player_age|38
+GDPR|1
+category|_-5100
+totalPlaytime|0
+klv|7DA565E2D1C834A4B5A288C566C131BD
+hash2|-305319022
+vid|75C8C2F9-F6D8-4CBD-A58F-9F971E3CEEC2
+aid|
+meta|1695304402
+fhash|-716928004
+rid|01D750403FDE1ACD075E86A0979039E7
+platformID|1
+deviceVersion|0
+country|gb
+hash|-305319022
+mac|02:00:00:00:00:00
+wk|NONE0
+
+) action|enter_game
+
+SETS) action|input
+|text|/buy tight
+SETS) action|dialog_return
+dialog_name|buy_option
+search|tight|
+buttonClicked|buy_292
+
+
+SETS) action|input
+|text|/buy tight
+SETS) action|dialog_return
+dialog_name|buy_option
+search|tight|
+buttonClicked|buy_2098
+
+
+SETS) action|input
+|text|/buy tight
+SETS) action|dialog_return
+dialog_name|buy_option
+search|tight|
+buttonClicked|buy_2100
+
+
+SETS) action|input
+|text|/buy tight
+SETS) action|dialog_return
+dialog_name|buy_option
+search|tight|
+buttonClicked|buy_2100
+
+
+SETS) action|input
+|text|/buy tight
+SETS) action|dialog_return
+dialog_name|buy_option
+search|tight|
+buttonClicked|buy_2106
+
+
+SETS) action|input
+|text|/buy tight
+SETS) action|dialog_return
+dialog_name|buy_option
+search|tight|
+buttonClicked|buy_2606
+
+
+SETS) action|input
+|text|/buy tight
+SETS) action|dialog_return
+dialog_name|buy_option
+search|tight|
+buttonClicked|buy_2608
+
+
+SETS) action|input
+|text|/buy tight
+SETS) action|dialog_return
+dialog_name|buy_option
+search|tight|
+buttonClicked|buy_2610
+
+
+SETS) action|input
+|text|/buy tight
+SETS) action|dialog_return
+dialog_name|buy_option
+search|tight|
+buttonClicked|buy_2612
+
+
+SETS) action|input
+|text|/buy tight
+SETS) action|dialog_return
+dialog_name|buy_option
+search|tight|
+buttonClicked|buy_6682
+
+
+SETS) action|input
+|text|/buy tight
+SETS) action|dialog_return
+dialog_name|buy_option
+search|tight|
+buttonClicked|buy_6682
+
+
+SETS) action|input
+|text|/buy tight
+SETS) action|dialog_return
+dialog_name|buy_option
+search|tight|
+buttonClicked|buy_6692
+
+
+SETS) action|input
+|text|/buy tight
+SETS) action|dialog_return
+dialog_name|buy_option
+search|tight|
+buttonClicked|buy_6692
+
+
+SETS) action|input
+|text|/buy tight
+SETS) action|dialog_return
+dialog_name|buy_option
+search|tight|
+buttonClicked|buy_7138
+
+
+SETS) action|trash
+|itemID|292
+
+SETS) action|trash
+|itemID|2100
+
+SETS) action|trash
+|itemID|2098
+
+SETS) action|trash
+|itemID|6682
+
+SETS) action|trash
+|itemID|6692
+
+SETS) action|trash
+|itemID|2106
+
+SETS) action|trash
+|itemID|7138
+
+SETS) action|trash
+|itemID|2606
+
+SETS) action|trash
+|itemID|2608
+
+SETS) action|trash
+|itemID|2610
+
+SETS) action|trash
+|itemID|2612
+
+SETS) action|input
+|text|/buy leg
+SETS) action|dialog_return
+dialog_name|buy_option
+search|leg|
+buttonClicked|buy_3296
+
+
+SETS) action|input
+|text|/buy leg
+SETS) action|dialog_return
+dialog_name|buy_option
+search|leg|
+buttonClicked|buy_4146
+
+
+SETS) action|input
+|text|/buy leg
+SETS) action|dialog_return
+dialog_name|buy_option
+search|leg|
+buttonClicked|buy_4690
+
+
+SETS) action|input
+|text|/buy leg
+SETS) action|dialog_return
+dialog_name|buy_option
+search|leg|
+buttonClicked|buy_798
+
+
+SETS) action|input
+|text|/buy leg
+SETS) action|dialog_return
+dialog_name|buy_option
+search|leg|
+buttonClicked|buy_6356
+
+
+SETS) action|input
+|text|/buy leg
+SETS) action|dialog_return
+dialog_name|buy_option
+search|leg|
+buttonClicked|buy_6364
+
+
+SETS) action|input
+|text|/buy leg
+SETS) action|trash
+|itemID|798
+
+SETS) action|trash
+|itemID|3296
+
+SETS) action|trash
+|itemID|4146
+
+SETS) action|trash
+|itemID|6364
+
+SETS) action|trash
+|itemID|6356
+
+SETS) action|trash
+|itemID|4690
+
+SETS) action|input
+|text|/restock 200
+) tankIDName|Noah
+tankIDPass|blueoceanstrategy
+requestedName|joji
+f|1
+protocol|199
+game_version|4.35
+fz|54525480
+lmode|0
+cbits|1024
+player_age|38
+GDPR|1
+category|w3_
+totalPlaytime|0
+klv|910bb79cfb47f157c545b8dc2715b62bf516dfd6219291b1d1c8e8df632a9755
+hash2|68758880
+meta|1695304402
+fhash|-716928004
+rid|01D369D90C1905AA0A542A84141E9D0D
+platformID|0,1,1
+deviceVersion|0
+country|gb
+hash|1015399598
+mac|28:e3:47:ea:c5:70
+wk|7537A27821A55FB2A77449E44E1B5100
+zf|-297173788
+) action|enter_game
+
+SETS) action|dialog_return
+dialog_name|vending
+tilex|65|
+tiley|40|
+setprice|01
+chk_peritem|1
+chk_perlock|0
+
+SETS) action|dialog_return
+dialog_name|vending
+tilex|66|
+tiley|40|
+setprice|01
+chk_peritem|1
+chk_perlock|0
+
+SETS) action|dialog_return
+dialog_name|vending
+tilex|67|
+tiley|40|
+setprice|01
+chk_peritem|1
+chk_perlock|0
+
+SETS) action|dialog_return
+dialog_name|vending
+tilex|68|
+tiley|40|
+setprice|01
+chk_peritem|1
+chk_perlock|0
+
+SETS) action|dialog_return
+dialog_name|vending
+tilex|69|
+tiley|40|
+setprice|01
+chk_peritem|1
+chk_perlock|0
+
+SETS) action|dialog_return
+dialog_name|vending
+tilex|70|
+tiley|40|
+setprice|01
+chk_peritem|1
+chk_perlock|0
+
+SETS) action|dialog_return
+dialog_name|vending
+tilex|71|
+tiley|40|
+setprice|01
+chk_peritem|1
+chk_perlock|0
+
+SETS) action|dialog_return
+dialog_name|vending
+tilex|72|
+tiley|40|
+setprice|01
+chk_peritem|1
+chk_perlock|0
+
+SETS) action|dialog_return
+dialog_name|vending
+tilex|73|
+tiley|40|
+setprice|01
+chk_peritem|1
+chk_perlock|0
+
+SETS) action|dialog_return
+dialog_name|vending
+tilex|74|
+tiley|40|
+setprice|01
+chk_peritem|1
+chk_perlock|0
+
+SETS) action|dialog_return
+dialog_name|vending
+tilex|75|
+tiley|40|
+setprice|01
+chk_peritem|1
+chk_perlock|0
+
+SETS) action|dialog_return
+dialog_name|vending
+tilex|76|
+tiley|40|
+setprice|01
+chk_peritem|1
+chk_perlock|0
+
+SETS) action|dialog_return
+dialog_name|vending
+tilex|77|
+tiley|40|
+setprice|02
+chk_peritem|1
+chk_perlock|0
+
+SETS) action|dialog_return
+dialog_name|vending
+tilex|78|
+tiley|40|
+setprice|02
+chk_peritem|1
+chk_perlock|0
+
+SETS) action|dialog_return
+dialog_name|vending
+tilex|79|
+tiley|40|
+setprice|02
+chk_peritem|1
+chk_perlock|0
+
+SETS) action|dialog_return
+dialog_name|vending
+tilex|80|
+tiley|40|
+setprice|02
+chk_peritem|1
+chk_perlock|0
+
+SETS) action|dialog_return
+dialog_name|vending
+tilex|81|
+tiley|40|
+setprice|02
+chk_peritem|1
+chk_perlock|0
+
+) action|dialog_return
+dialog_name|
+buttonClicked|
+
+
+SETS) action|dialog_return
+dialog_name|vending
+tilex|65|
+tiley|40|
+expectprice|1|
+expectitem|292|
+buycount|1
+
+SETS) action|dialog_return
+dialog_name|vending
+tilex|65|
+tiley|40|
+verify|1|
+buycount|1|
+expectprice|1|
+expectitem|292|
+
+SETS) action|dialog_return
+dialog_name|vending
+tilex|57|
+tiley|37|
+expectprice|2|
+expectitem|13762|
+buycount|01
+
+SETS) action|dialog_return
+dialog_name|vending
+tilex|57|
+tiley|37|
+verify|1|
+buycount|1|
+expectprice|2|
+expectitem|13762|
+
+SETS) action|trash
+|itemID|13762
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|76|
+tiley|23|
+expectprice|1|
+expectitem|296|
+buycount|01
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|76|
+tiley|23|
+verify|1|
+buycount|1|
+expectprice|1|
+expectitem|296|
+
+SETS) action|dialog_return
+dialog_name|vending
+tilex|16|
+tiley|40|
+expectprice|40|
+expectitem|13422|
+buycount|01
+
+SETS) action|dialog_return
+dialog_name|vending
+tilex|16|
+tiley|40|
+verify|1|
+buycount|1|
+expectprice|40|
+expectitem|13422|
+
+SETS) action|dialog_return
+dialog_name|vending
+tilex|18|
+tiley|40|
+expectprice|10|
+expectitem|3744|
+buycount|01
+
+SETS) action|dialog_return
+dialog_name|vending
+tilex|18|
+tiley|40|
+verify|1|
+buycount|1|
+expectprice|10|
+expectitem|3744|
+
+SETS) action|trash
+|itemID|3744
+
+SETS) action|trash
+|itemID|10774
+
+SETS) action|trash
+|itemID|11768
+
+SETS) action|trash
+|itemID|10252
+
+SETS) action|trash
+|itemID|11884
+
+SETS) action|trash
+|itemID|1668
+
+SETS) action|trash
+|itemID|10778
+
+SETS) action|dialog_return
+dialog_name|vending
+tilex|36|
+tiley|44|
+expectprice|1|
+expectitem|3376|
+buycount|01
+
+SETS) action|dialog_return
+dialog_name|vending
+tilex|36|
+tiley|44|
+verify|1|
+buycount|1|
+expectprice|1|
+expectitem|3376|
+
+SETS) action|trash
+|itemID|3376
+
+SETS) action|dialog_return
+dialog_name|vending
+tilex|74|
+tiley|32|
+expectprice|1|
+expectitem|344|
+buycount|01
+
+SETS) action|dialog_return
+dialog_name|vending
+tilex|74|
+tiley|32|
+verify|1|
+buycount|1|
+expectprice|1|
+expectitem|344|
+
+SETS) action|dialog_return
+dialog_name|vending
+tilex|54|
+tiley|20|
+expectprice|10|
+expectitem|12560|
+buycount|01
+
+SETS) action|dialog_return
+dialog_name|vending
+tilex|54|
+tiley|20|
+verify|1|
+buycount|1|
+expectprice|10|
+expectitem|12560|
+
+SETS) action|dialog_return
+dialog_name|vending
+tilex|55|
+tiley|20|
+expectprice|10|
+expectitem|12558|
+buycount|01
+
+SETS) action|dialog_return
+dialog_name|vending
+tilex|55|
+tiley|20|
+verify|1|
+buycount|1|
+expectprice|10|
+expectitem|12558|
+
+SETS) action|trash
+|itemID|10780
+
+) tankIDName|MrFrost
+tankIDPass|Marten1234
+requestedName|MrFrost
+f|1
+protocol|199
+game_version|4.36
+lmode|0
+cbits|1024
+player_age|15
+GDPR|1
+category|w4_
+totalPlaytime|0
+klv|0D53A9C3B9E2F47AE01C2DD3E1D70C4F
+gid|a23de302-4de9-436a-878a-0c6e55bf44fd
+tr|4322
+meta|1695304402
+fhash|-716928004
+rid|01F30DD7675BDF1B08141ABFC1A9038D
+platformID|4
+deviceVersion|0
+country|ee
+hash|150265195
+mac|02:00:00:00:00:00
+wk|NONE0
+
+) action|enter_game
+
+REALMS) action|dialog_return
+dialog_name|mannequin_edit
+tilex|30|
+tiley|21|
+put|13434|
+
+REALMS) action|dialog_return
+dialog_name|mannequin_edit
+tilex|39|
+tiley|21|
+put|13432|
+
+REALMS) action|dialog_return
+dialog_name|mannequin_edit
+tilex|30|
+tiley|21|
+put|12308|
+
+REALMS) action|dialog_return
+dialog_name|mannequin_edit
+tilex|39|
+tiley|21|
+put|6780|
+
+REALMS) action|dialog_return
+dialog_name|mannequin_edit
+tilex|39|
+tiley|21|
+put|5480|
+
+REALMS) action|dialog_return
+dialog_name|mannequin_edit
+tilex|30|
+tiley|21|
+put|5480|
+
+REALMS) action|dialog_return
+dialog_name|mannequin_edit
+tilex|39|
+tiley|21|
+put|6008|
+
+REALMS) action|dialog_return
+dialog_name|mannequin_edit
+tilex|30|
+tiley|21|
+put|4182|
+
+REALMS) action|dialog_return
+dialog_name|mannequin_edit
+tilex|30|
+tiley|21|
+put|13474|
+
+REALMS) action|dialog_return
+dialog_name|mannequin_edit
+tilex|30|
+tiley|21|
+put|1506|
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|89|
+tiley|23|
+expectprice|-30|
+expectitem|990|
+buycount|060
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|89|
+tiley|23|
+verify|1|
+buycount|60|
+expectprice|-30|
+expectitem|990|
+
+REALMS) action|respawn
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|36|
+tiley|51|
+expectprice|-2|
+expectitem|3898|
+buycount|02
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|36|
+tiley|51|
+verify|1|
+buycount|2|
+expectprice|-2|
+expectitem|3898|
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|24|
+tiley|51|
+expectprice|-2|
+expectitem|658|
+buycount|04
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|24|
+tiley|51|
+verify|1|
+buycount|4|
+expectprice|-2|
+expectitem|658|
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|22|
+tiley|51|
+expectprice|-2|
+expectitem|1752|
+buycount|02
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|22|
+tiley|51|
+verify|1|
+buycount|2|
+expectprice|-2|
+expectitem|1752|
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|25|
+tiley|51|
+expectprice|-5|
+expectitem|1452|
+buycount|05
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|25|
+tiley|51|
+verify|1|
+buycount|5|
+expectprice|-5|
+expectitem|1452|
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|14|
+tiley|51|
+expectprice|-10|
+expectitem|6234|
+buycount|020
+
+SHOP) action|store
+location|gem
+
+SHOP) action|buy
+item|itempack
+
+SHOP) action|buy
+item|world_lock
+
+SHOP) action|killstore
+item|
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|14|
+tiley|51|
+expectprice|-10|
+expectitem|6234|
+buycount|010
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|14|
+tiley|51|
+verify|1|
+buycount|10|
+expectprice|-10|
+expectitem|6234|
+
+BFG) action|dialog_return
+dialog_name|itemsucker_block
+tilex|3|
+tiley|49|
+buttonClicked|getplantationdevice
+
+
+BFG) action|wrench
+|netid|1
+
+BFG) action|dialog_return
+dialog_name|popup
+buttonClicked|cheat_menunew
+
+
+BFG) action|dialog_return
+dialog_name|dialog_cheat_menu
+checkbox_cheat_autofarm|1
+checkbox_cheat_autocollect|1
+checkbox_cheat_antibounce|0
+checkbox_cheat_speed|0
+checkbox_cheat_jump|0
+checkbox_cheat_kick|0
+checkbox_cheat_ban|0
+checkbox_cheat_hideother|0
+checkbox_cheat_hidechat|0
+checkbox_cheat_fastpull|0
+checkbox_cheat_fastdrop|0
+checkbox_cheat_fasttrash|0
+checkbox_cheat_fastspin|0
+text_input_spam_delay|1
+text_input_spam_chat|`cBest Server
+checkbox_cheat_spam|0
+
+BFG) action|wrench
+|netid|1
+
+BFG) action|dialog_return
+dialog_name|popup
+buttonClicked|goals
+
+
+BFG) action|dialog_return
+dialog_name|worlds_list
+buttonClicked|builder_reward
+
+
+BFG) action|dialog_return
+dialog_name|worlds_list
+buttonClicked|b_claimreward1
+
+
+BFG) action|wrench
+|netid|1
+
+BFG) action|wrench
+|netid|1
+
+BFG) action|store
+location|gem
+
+BFG) action|buy
+item|itempack
+
+BFG) action|buy
+item|world_lock_10_pack
+
+BFG) action|killstore
+item|
+
+BFG) action|wrench
+|netid|1
+
+BFG) action|dialog_return
+dialog_name|popup
+buttonClicked|cheat_menunew
+
+
+BFG) action|dialog_return
+dialog_name|dialog_cheat_menu
+checkbox_cheat_autofarm|0
+checkbox_cheat_autocollect|1
+checkbox_cheat_antibounce|0
+checkbox_cheat_speed|0
+checkbox_cheat_jump|0
+checkbox_cheat_kick|0
+checkbox_cheat_ban|0
+checkbox_cheat_hideother|0
+checkbox_cheat_hidechat|0
+checkbox_cheat_fastpull|0
+checkbox_cheat_fastdrop|0
+checkbox_cheat_fasttrash|0
+checkbox_cheat_fastspin|0
+text_input_spam_delay|1
+text_input_spam_chat|`cBest Server
+checkbox_cheat_spam|0
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|30|
+tiley|31|
+expectprice|-40|
+expectitem|998|
+buycount|040
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|30|
+tiley|31|
+verify|1|
+buycount|40|
+expectprice|-40|
+expectitem|998|
+
+REALMS) action|dialog_return
+dialog_name|levelup
+buttonClicked|claimreward18
+
+
+REALMS) action|dialog_return
+dialog_name|sign_edit
+tilex|20|
+tiley|42|
+sign_text|LEL
+
+REALMS) action|respawn
+
+REALMS) action|dialog_return
+dialog_name|door_edit
+tilex|23|
+tiley|24|
+door_name|
+door_target|:LEL:
+door_id|
+checkbox_locked|1
+
+REALMS) action|respawn
+
+REALMS) action|dialog_return
+dialog_name|sign_edit
+tilex|26|
+tiley|24|
+sign_text|< Go Outside
+
+REALMS) action|dialog_return
+dialog_name|sign_edit
+tilex|43|
+tiley|24|
+sign_text|Go outside >
+
+REALMS) action|dialog_return
+dialog_name|sign_edit
+tilex|43|
+tiley|24|
+sign_text|Go Outside >
+
+REALMS) action|dialog_return
+dialog_name|portrait
+tilex|24|
+tiley|46|
+playerNetID|1
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|75|
+tiley|39|
+expectprice|-200|
+expectitem|7620|
+buycount|200
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|82|
+tiley|39|
+expectprice|-20|
+expectitem|1356|
+buycount|60
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|82|
+tiley|39|
+verify|1|
+buycount|60|
+expectprice|-20|
+expectitem|1356|
+
+REALMS) action|dialog_return
+dialog_name|sign_edit
+tilex|51|
+tiley|47|
+sign_text|LOL
+
+REALMS) action|respawn
+
+REALMS) action|dialog_return
+dialog_name|door_edit
+tilex|46|
+tiley|24|
+door_name|
+door_target|:LOL:
+door_id|
+checkbox_locked|1
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|28|
+tiley|27|
+expectprice|-45|
+expectitem|1766|
+buycount|045
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|28|
+tiley|27|
+verify|1|
+buycount|45|
+expectprice|-45|
+expectitem|1766|
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|62|
+tiley|39|
+expectprice|-200|
+expectitem|3564|
+buycount|200
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|62|
+tiley|39|
+verify|1|
+buycount|200|
+expectprice|-200|
+expectitem|3564|
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|70|
+tiley|27|
+expectprice|-30|
+expectitem|7450|
+buycount|030
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|70|
+tiley|27|
+verify|1|
+buycount|30|
+expectprice|-30|
+expectitem|7450|
+
+REALMS) action|respawn
+
+REALMS) action|respawn
+
+REALMS) action|respawn
+
+REALMS) action|respawn
+
+REALMS) action|friends
+delay|0
+
+REALMS) action|dialog_return
+dialog_name|socialportal
+buttonClicked|systemcoin
+
+
+REALMS) action|dialog_return
+dialog_name|
+buttonClicked|chc0
+
+
+REALMS) action|friends
+delay|0
+
+REALMS) action|dialog_return
+dialog_name|socialportal
+buttonClicked|kitsystem
+
+
+REALMS) action|dialog_return
+dialog_name|
+buttonClicked|kits_price_2978
+
+
+REALMS) action|dialog_return
+dialog_name|
+buttonClicked|kits_item_2978
+
+
+REALMS) action|friends
+delay|0
+
+REALMS) action|dialog_return
+dialog_name|socialportal
+buttonClicked|kitsystem
+
+
+REALMS) action|dialog_return
+dialog_name|
+buttonClicked|kits_price_2978
+
+
+REALMS) action|dialog_return
+dialog_name|
+buttonClicked|kits_item_2978
+
+
+REALMS) action|friends
+delay|0
+
+REALMS) action|dialog_return
+dialog_name|socialportal
+buttonClicked|kitsystem
+
+
+REALMS) action|dialog_return
+dialog_name|
+buttonClicked|kits_price_2978
+
+
+REALMS) action|dialog_return
+dialog_name|
+buttonClicked|kits_item_2978
+
+
+REALMS) action|friends
+delay|0
+
+REALMS) action|dialog_return
+dialog_name|socialportal
+buttonClicked|kitsystem
+
+
+REALMS) action|dialog_return
+dialog_name|
+buttonClicked|kits_price_2978
+
+
+REALMS) action|dialog_return
+dialog_name|
+buttonClicked|kits_item_2978
+
+
+REALMS) action|friends
+delay|0
+
+REALMS) action|dialog_return
+dialog_name|socialportal
+buttonClicked|kitsystem
+
+
+REALMS) action|dialog_return
+dialog_name|
+buttonClicked|kits_price_2978
+
+
+REALMS) action|dialog_return
+dialog_name|
+buttonClicked|kits_item_2978
+
+
+REALMS) action|friends
+delay|0
+
+REALMS) action|dialog_return
+dialog_name|socialportal
+buttonClicked|kitsystem
+
+
+REALMS) action|dialog_return
+dialog_name|
+buttonClicked|kits_price_2978
+
+
+REALMS) action|dialog_return
+dialog_name|
+buttonClicked|kits_item_2978
+
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|33|
+tiley|35|
+expectprice|-8|
+expectitem|928|
+buycount|08
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|33|
+tiley|35|
+verify|1|
+buycount|8|
+expectprice|-8|
+expectitem|928|
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|17|
+tiley|51|
+expectprice|-1|
+expectitem|10190|
+buycount|03
+
+SHOP) action|store
+location|gem
+
+SHOP) action|buy
+item|itempack
+
+SHOP) action|buy
+item|world_lock
+
+SHOP) action|killstore
+item|
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|17|
+tiley|51|
+expectprice|-1|
+expectitem|10190|
+buycount|03
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|17|
+tiley|51|
+verify|1|
+buycount|3|
+expectprice|-1|
+expectitem|10190|
+
+REALMS) action|store
+location|gem
+
+REALMS) action|buy
+item|itempack
+
+REALMS) action|buy
+item|world_lock
+
+REALMS) action|killstore
+item|
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|14|
+tiley|51|
+expectprice|-10|
+expectitem|6234|
+buycount|010
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|14|
+tiley|51|
+verify|1|
+buycount|10|
+expectprice|-10|
+expectitem|6234|
+
+REALMS) action|dialog_return
+dialog_name|mannequin_edit
+tilex|39|
+tiley|21|
+put|10132|
+
+REALMS) action|dialog_return
+dialog_name|mannequin_edit
+tilex|39|
+tiley|21|
+put|13476|
+
+) tankIDName|hannux
+tankIDPass|han.2301
+requestedName|EinstBill
+f|0
+protocol|199
+game_version|4.36
+fz|67419688
+lmode|0
+cbits|0
+player_age|18
+GDPR|1
+category|w1_
+totalPlaytime|0
+klv|8a462a45ad6d62d3f8cdedc9925ff82df134d7e34236f842b8d07e6bc579c9f1
+hash2|-2104251616
+meta|1695304402
+fhash|-716928004
+rid|01B7824317B3CFF90152832407B62D89
+platformID|0,1,1
+deviceVersion|0
+country|us
+hash|-1639982689
+mac|00:ff:3e:41:67:ff
+wk|4C1F60A339DF90915C0950F27471FD8E
+zf|1642511664
+) action|enter_game
+

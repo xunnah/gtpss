@@ -130480,3 +130480,6 @@ text_input_spam_delay|3
 text_input_spam_chat|`cim playing valorant
 checkbox_cheat_spam|1
 
+BFG) action|wrench
+|netid|1
+

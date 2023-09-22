@@ -131665,3 +131665,65 @@ item|itempack
 LINKS) action|killstore
 item|
 
+LINKS) action|store
+location|gem
+
+LINKS) action|buy
+item|itempack
+
+LINKS) action|buy
+item|small_lock
+
+LINKS) action|killstore
+item|
+
+LINKS) action|input
+|text|/warp shop
+LINKS) action|input
+|text|im home like 6 then ill upgrade the how to play lots
+LINKS) action|store
+location|gem
+
+LINKS) action|buy
+item|itempack
+
+LINKS) action|buy
+item|small_lock
+
+LINKS) action|buy
+item|small_lock
+
+LINKS) action|buy
+item|small_lock
+
+SHOP) action|input
+|text|/warp links
+LINKS) action|buy
+item|small_lock
+
+LINKS) action|buy
+item|small_lock
+
+LINKS) action|buy
+item|small_lock
+
+LINKS) action|buy
+item|small_lock
+
+LINKS) action|killstore
+item|
+
+LINKS) action|input
+|text|lagging
+LINKS) action|input
+|text|okay
+LINKS) action|input
+|text|so
+LINKS) action|input
+|text|u feel lag?
+LINKS) action|input
+|text|nop
+LINKS) action|respawn
+
+LINKS) action|input
+|text|no lagg

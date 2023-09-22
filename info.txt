@@ -131790,3 +131790,38 @@ LOVE) action|input
 |text|just make the how to play is better first
 LOVE) action|input
 |text|much better bc im on pc then and its easier to make soo much better stuff 
+LOVE) action|input
+|text|okay
+LOVE) action|input
+|text|just show me
+LOVE) action|input
+|text|yeah when im home ill show u ;;))
+LOVE) action|input
+|text|/ghost
+LOVE) action|input
+|text|kk
+LOVE) action|input
+|text|/ghost
+LOVE) action|input
+|text|hmm
+LOVE) action|input
+|text|question
+LOVE) action|input
+|text|for u
+LOVE) action|dialog_return
+dialog_name|lock_edit
+tilex|18|
+tiley|25|
+checkbox_public|0
+checkbox_vending|1
+checkbox_disable_music|0
+checkbox_allowghost|0
+tempo|100
+checkbox_disable_music_render|0
+checkbox_set_as_home_world|0
+checkbox_silence|0
+checkbox_rainbows|1
+minimum_entry_level|1
+
+LOVE) action|input
+|text|tell me 2 colors what u like and fits together

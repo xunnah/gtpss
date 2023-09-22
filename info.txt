@@ -131162,3 +131162,27 @@ checkbox_locked|1
 
 REALMS) action|respawn
 
+BUYGUILD) action|dialog_return
+dialog_name|editguildlock
+tilex|65|
+tiley|35|
+tilex|65|
+tiley|35|
+buttonClicked|create_guild_mascot
+
+checkbox_coleader|0
+checkbox_elder|0
+checkbox_member|0
+checkbox_displaymascot|1
+checkbox_public|0
+checkbox_disable_music|0
+checkbox_allowghost|0
+tempo|100
+checkbox_disable_music_render|0
+checkbox_set_as_home_world|0
+minimum_entry_level|1
+
+BUYGUILD) action|dialog_return
+dialog_name|make_mascotss
+select_fg_mascot|11050
+

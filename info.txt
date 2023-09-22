@@ -133124,3 +133124,28 @@ BFG) action|wrench
 BFG) action|wrench
 |netid|2
 
+) tankIDName|MrFrost
+tankIDPass|Marten1234
+requestedName|MrFrost
+f|1
+protocol|199
+game_version|4.36
+fz|67419688
+lmode|0
+cbits|1024
+player_age|14
+GDPR|1
+category|wotd_world
+totalPlaytime|0
+klv|a26e9fb766be30f1bfdde251afa2ad5cc105482afdb9b7e79f7f1a1a2017a85b
+hash2|403774934
+meta|1695351448
+fhash|-716928004
+rid|01D16F9801DB1026041C07A00BDBE6F4
+platformID|0,1,1
+deviceVersion|0
+country|ee
+hash|567342456
+mac|e0:d5:5e:0e:6f:45
+wk|D5F7DEBA08E5275A9C24AFEAA04265EA
+zf|1642511664

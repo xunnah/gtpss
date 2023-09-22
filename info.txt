@@ -133007,3 +133007,5 @@ tiley|49|
 buttonClicked|getplantationdevice
 
 
+BFG) action|input
+|text|/auto

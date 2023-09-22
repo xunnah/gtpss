@@ -129996,3 +129996,102 @@ item|
 |text|make worlds or buy items hehe
 7) action|input
 |text|go set
+SET) action|input
+|text|i could also gamble
+SET) action|input
+|text|yeah
+SET) action|dialog_return
+dialog_name|vending
+tilex|47|
+tiley|31|
+expectprice|5|
+expectitem|10004|
+buycount|200
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|47|
+tiley|31|
+expectprice|5|
+expectitem|10004|
+buycount|50
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|47|
+tiley|31|
+verify|1|
+buycount|50|
+expectprice|5|
+expectitem|10004|
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|47|
+tiley|31|
+expectprice|5|
+expectitem|10004|
+buycount|50
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|47|
+tiley|31|
+verify|1|
+buycount|50|
+expectprice|5|
+expectitem|10004|
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|47|
+tiley|31|
+expectprice|5|
+expectitem|10004|
+buycount|50
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|47|
+tiley|31|
+verify|1|
+buycount|50|
+expectprice|5|
+expectitem|10004|
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|47|
+tiley|31|
+expectprice|5|
+expectitem|10004|
+buycount|10
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|47|
+tiley|31|
+verify|1|
+buycount|10|
+expectprice|5|
+expectitem|10004|
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|47|
+tiley|31|
+expectprice|5|
+expectitem|10004|
+buycount|2
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|47|
+tiley|31|
+verify|1|
+buycount|2|
+expectprice|5|
+expectitem|10004|
+
+SET) action|input
+|text|go 7

@@ -133453,3 +133453,6 @@ item|world_lock_10_pack
 BFG) action|buy
 item|world_lock_10_pack
 
+BFG) action|killstore
+item|
+

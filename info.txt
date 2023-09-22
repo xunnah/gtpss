@@ -131825,3 +131825,25 @@ minimum_entry_level|1
 
 LOVE) action|input
 |text|tell me 2 colors what u like and fits together
+LOVE) action|input
+|text|im like most all of colors
+LOVE) action|input
+|text|if
+LOVE) action|input
+|text|okay 
+LOVE) action|input
+|text|the colors combine perfectly
+LOVE) action|input
+|text|and nice to see
+LOVE) action|input
+|text|ill make something blue and black
+LOVE) action|input
+|text|sell u see what i mean by colors xD
+LOVE) action|input
+|text|thats sounds good
+LOVE) action|input
+|text|well
+LOVE) action|input
+|text|*
+LOVE) action|input
+|text|kk

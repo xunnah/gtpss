@@ -130601,3 +130601,125 @@ text_input_spam_delay|1
 text_input_spam_chat|`cBest Server
 checkbox_cheat_spam|0
 
+BFG) action|input
+|text|i saw u
+BFG) action|wrench
+|netid|1
+
+BFG) action|dialog_return
+dialog_name|popup
+buttonClicked|set_online_status
+
+
+BFG) action|input
+|text|xD
+BFG) action|dialog_return
+dialog_name|
+buttonClicked|uhuhhuhuhuh
+
+
+BFG) action|input
+|text|drop my items now
+BFG) action|wrench
+|netid|1
+
+BFG) action|drop
+|itemID|9428
+
+BFG) action|drop
+|itemID|9428
+
+BFG) action|dialog_return
+dialog_name|popup
+buttonClicked|cheat_menunew
+
+
+BFG) action|dialog_return
+dialog_name|dialog_cheat_menu
+checkbox_cheat_autofarm|0
+checkbox_cheat_autocollect|0
+checkbox_cheat_antibounce|0
+checkbox_cheat_speed|1
+checkbox_cheat_jump|0
+checkbox_cheat_kick|0
+checkbox_cheat_ban|0
+checkbox_cheat_hideother|0
+checkbox_cheat_hidechat|0
+checkbox_cheat_fastpull|0
+checkbox_cheat_fastdrop|0
+checkbox_cheat_fasttrash|0
+checkbox_cheat_fastspin|0
+text_input_spam_delay|3
+text_input_spam_chat|`cim playing valorant
+checkbox_cheat_spam|1
+
+BFG) action|input
+|text|mini mod cant droo
+BFG) action|dialog_return
+dialog_name|itemsucker_block
+tilex|9|
+tiley|49|
+buttonClicked|getplantationdevice
+
+
+BFG) action|input
+|text|trd
+BFG) action|trash
+|itemID|5640
+
+BFG) action|wrench
+|netid|1
+
+BFG) action|dialog_return
+dialog_name|trash_item
+itemID|5640|
+count|01
+
+BFG) action|dialog_return
+dialog_name|popup
+netID|2|
+netID|1|
+buttonClicked|trade
+
+
+BFG) action|dialog_return
+dialog_name|trash_item2
+itemID|5640|
+count|1|
+
+BFG) action|trade_started
+netid|1
+
+BFG) action|dialog_return
+dialog_name|itemsucker_block
+tilex|9|
+tiley|49|
+buttonClicked|getplantationdevice
+
+
+BFG) action|mod_trade
+itemID|2914
+
+BFG) action|dialog_return
+dialog_name|trade_item
+itemID|2914|
+count|26
+
+BFG) action|input
+|text|man trd
+BFG) action|wrench
+|netid|2
+
+BFG) action|dialog_return
+dialog_name|popup
+netID|1|
+netID|2|
+buttonClicked|trade
+
+
+BFG) action|trade_started
+netid|2
+
+BFG) action|mod_trade
+itemID|5024
+

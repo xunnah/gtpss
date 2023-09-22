@@ -132577,3 +132577,12 @@ text_input_spam_delay|3
 text_input_spam_chat|`c
 checkbox_cheat_spam|0
 
+BFG) action|dialog_return
+dialog_name|itemsucker_block
+tilex|1|
+tiley|49|
+buttonClicked|getplantationdevice
+
+
+BFG) action|input
+|text|/auto

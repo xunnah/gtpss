@@ -131945,3 +131945,109 @@ buttonClicked|recalcLock
 checkbox_public|0
 checkbox_ignore|1
 
+LINKS) action|dialog_return
+dialog_name|lock_edit
+tilex|29|
+tiley|49|
+buttonClicked|recalcLock
+
+checkbox_public|0
+checkbox_ignore|1
+
+LINKS) action|dialog_return
+dialog_name|lock_edit
+tilex|31|
+tiley|49|
+buttonClicked|recalcLock
+
+checkbox_public|0
+checkbox_ignore|0
+
+LINKS) action|dialog_return
+dialog_name|lock_edit
+tilex|31|
+tiley|49|
+buttonClicked|recalcLock
+
+checkbox_public|0
+checkbox_ignore|1
+
+LINKS) action|dialog_return
+dialog_name|lock_edit
+tilex|33|
+tiley|49|
+buttonClicked|recalcLock
+
+checkbox_public|0
+checkbox_ignore|1
+
+LINKS) action|dialog_return
+dialog_name|lock_edit
+tilex|35|
+tiley|49|
+buttonClicked|recalcLock
+
+checkbox_public|0
+checkbox_ignore|1
+
+LINKS) action|dialog_return
+dialog_name|lock_edit
+tilex|37|
+tiley|49|
+buttonClicked|recalcLock
+
+checkbox_public|0
+checkbox_ignore|1
+
+LINKS) action|dialog_return
+dialog_name|lock_edit
+tilex|23|
+tiley|49|
+buttonClicked|recalcLock
+
+checkbox_public|0
+checkbox_ignore|1
+
+LINKS) action|dialog_return
+dialog_name|lock_edit
+tilex|19|
+tiley|49|
+buttonClicked|recalcLock
+
+checkbox_public|0
+checkbox_ignore|1
+
+LINKS) action|dialog_return
+dialog_name|lock_edit
+tilex|15|
+tiley|49|
+buttonClicked|recalcLock
+
+checkbox_public|0
+checkbox_ignore|1
+
+LINKS) action|input
+|text|/wl 2
+LINKS) action|input
+|text|/ghost
+LINKS) action|dialog_return
+dialog_name|lock_edit
+tilex|21|
+tiley|49|
+buttonClicked|recalcLock
+
+checkbox_public|0
+checkbox_ignore|1
+
+LINKS) action|input
+|text|/ghost
+LINKS) action|input
+|text|/wl 1
+LINKS) action|input
+|text|/wl 1
+LINKS) action|input
+|text|/wl 1
+LINKS) action|input
+|text|/wl 1
+LINKS) action|input
+|text|/wl 1

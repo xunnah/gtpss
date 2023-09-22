@@ -132773,3 +132773,20 @@ item|itempack
 SPEND) action|killstore
 item|
 
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|19|
+tiley|47|
+expectprice|5|
+expectitem|934|
+buycount|01
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|19|
+tiley|47|
+verify|1|
+buycount|1|
+expectprice|5|
+expectitem|934|
+

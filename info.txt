@@ -129541,3 +129541,27 @@ BFG) action|input
 |text|yes
 BFG) action|input
 |text|come realms
+REALMS) action|wrench
+|netid|2
+
+REALMS) action|dialog_return
+dialog_name|popup
+buttonClicked|my_worlds
+
+
+REALMS) action|input
+|text|dang
+REALMS) action|input
+|text|not done yet
+REALMS) action|input
+|text|wanna see my world ?
+REALMS) action|input
+|text|sure
+REALMS) action|input
+|text|go 7
+7) action|input
+|text|pro right
+7) action|input
+|text|yeah
+7) action|input
+|text|thanks

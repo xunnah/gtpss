@@ -132770,3 +132770,6 @@ location|gem
 SPEND) action|buy
 item|itempack
 
+SPEND) action|killstore
+item|
+

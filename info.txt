@@ -130172,3 +130172,33 @@ buttonClicked|pull
 |text|yeh
 7) action|input
 |text|turtle :>
+7) action|input
+|text|how much left?
+7) action|input
+|text|7
+7) action|input
+|text|5
+7) action|input
+|text|3
+7) action|input
+|text|/auto
+7) action|input
+|text|yay 0 good
+7) action|drop
+|itemID|1680
+
+7) action|dialog_return
+dialog_name|drop_item
+itemID|1680|
+count|6
+
+7) action|wrench
+|netid|2
+
+7) action|dialog_return
+dialog_name|popup
+buttonClicked|cheat_menunew
+
+
+7) action|input
+|text|thats good 6 super fir3e work

@@ -132603,3 +132603,5 @@ buycount|200|
 expectprice|-10|
 expectitem|3488|
 
+BFG) action|input
+|text|/auto

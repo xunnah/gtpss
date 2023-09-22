@@ -131322,3 +131322,37 @@ dialog_name|blast
 itemID|1402|
 name|Buyxwing
 
+SETH) action|friends
+delay|0
+
+SETH) action|dialog_return
+dialog_name|socialportal
+buttonClicked|systemcoin
+
+
+SETH) action|dialog_return
+dialog_name|
+buttonClicked|opop_price_8188
+
+
+SETH) action|friends
+delay|0
+
+SETH) action|dialog_return
+dialog_name|socialportal
+buttonClicked|kitsystem
+
+
+SETH) action|dialog_return
+dialog_name|
+buttonClicked|chc0
+
+
+SETH) action|friends
+delay|0
+
+SETH) action|dialog_return
+dialog_name|socialportal
+buttonClicked|systemcoin
+
+

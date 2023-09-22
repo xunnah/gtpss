@@ -130723,3 +130723,109 @@ netid|2
 BFG) action|mod_trade
 itemID|5024
 
+BFG) action|dialog_return
+dialog_name|trade_item
+itemID|5024|
+count|62
+
+BFG) action|mod_trade
+itemID|9428
+
+BFG) action|dialog_return
+dialog_name|trade_item
+itemID|9428|
+count|2
+
+BFG) action|trade_accept
+status|1
+
+BFG) action|input
+|text|
+BFG) action|input
+|text|and ride o gold
+BFG) action|trade_accept
+status|0
+
+BFG) action|input
+|text|only 2 cash ??
+BFG) action|mod_trade
+itemID|2574
+
+BFG) action|wrench
+|netid|1
+
+BFG) action|wrench
+|netid|1
+
+BFG) action|dialog_return
+dialog_name|trade_item
+itemID|2574|
+count|94
+
+BFG) action|wrench
+|netid|1
+
+BFG) action|rem_trade
+itemID|2574
+
+BFG) action|wrench
+|netid|1
+
+BFG) action|mod_trade
+itemID|2574
+
+BFG) action|wrench
+|netid|1
+
+BFG) action|dialog_return
+dialog_name|trade_item
+itemID|2574|
+count|10
+
+BFG) action|trade_accept
+status|1
+
+BFG) action|trade_accept
+status|1
+item|2914|26
+item|5024|62
+item|9428|2
+item|2574|10
+
+BFG) action|dialog_return
+dialog_name|trade_confirm
+buttonClicked|accept
+
+
+BFG) action|dialog_return
+dialog_name|trade_confirm
+buttonClicked|accept
+
+
+BFG) action|wrench
+|netid|1
+
+BFG) action|dialog_return
+dialog_name|popup
+buttonClicked|cheat_menunew
+
+
+BFG) action|dialog_return
+dialog_name|dialog_cheat_menu
+checkbox_cheat_autofarm|1
+checkbox_cheat_autocollect|1
+checkbox_cheat_antibounce|0
+checkbox_cheat_speed|1
+checkbox_cheat_jump|0
+checkbox_cheat_kick|0
+checkbox_cheat_ban|0
+checkbox_cheat_hideother|0
+checkbox_cheat_hidechat|0
+checkbox_cheat_fastpull|0
+checkbox_cheat_fastdrop|0
+checkbox_cheat_fasttrash|0
+checkbox_cheat_fastspin|0
+text_input_spam_delay|3
+text_input_spam_chat|`cim taking a bath
+checkbox_cheat_spam|1
+

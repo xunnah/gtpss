@@ -131151,3 +131151,12 @@ text_input_spam_delay|2
 text_input_spam_chat|Eating 
 checkbox_cheat_spam|0
 
+REALMS) action|dialog_return
+dialog_name|door_edit
+tilex|24|
+tiley|44|
+door_name|
+door_target|realms
+door_id|
+checkbox_locked|1
+

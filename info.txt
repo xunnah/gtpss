@@ -132244,3 +132244,75 @@ buttonClicked|recalcLock
 checkbox_public|0
 checkbox_ignore|1
 
+LINKS) action|dialog_return
+dialog_name|lock_edit
+tilex|22|
+tiley|46|
+buttonClicked|recalcLock
+
+checkbox_public|0
+checkbox_ignore|1
+
+LINKS) action|dialog_return
+dialog_name|lock_edit
+tilex|26|
+tiley|46|
+buttonClicked|recalcLock
+
+checkbox_public|0
+checkbox_ignore|1
+
+LINKS) action|dialog_return
+dialog_name|lock_edit
+tilex|28|
+tiley|46|
+buttonClicked|recalcLock
+
+checkbox_public|0
+checkbox_ignore|1
+
+LINKS) action|dialog_return
+dialog_name|lock_edit
+tilex|30|
+tiley|46|
+buttonClicked|recalcLock
+
+checkbox_public|0
+checkbox_ignore|1
+
+LINKS) action|dialog_return
+dialog_name|lock_edit
+tilex|32|
+tiley|46|
+buttonClicked|recalcLock
+
+checkbox_public|0
+checkbox_ignore|1
+
+LINKS) action|dialog_return
+dialog_name|lock_edit
+tilex|36|
+tiley|46|
+buttonClicked|recalcLock
+
+checkbox_public|0
+checkbox_ignore|1
+
+LINKS) action|dialog_return
+dialog_name|lock_edit
+tilex|34|
+tiley|46|
+buttonClicked|recalcLock
+
+checkbox_public|0
+checkbox_ignore|1
+
+LINKS) action|dialog_return
+dialog_name|lock_edit
+tilex|38|
+tiley|46|
+buttonClicked|recalcLock
+
+checkbox_public|0
+checkbox_ignore|1
+

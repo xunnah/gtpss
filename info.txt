@@ -131186,3 +131186,96 @@ BUYGUILD) action|dialog_return
 dialog_name|make_mascotss
 select_fg_mascot|11050
 
+BUYGUILD) action|dialog_return
+dialog_name|make_mascotss
+select_bg_mascot|13632
+
+BUYGUILD) action|dialog_return
+dialog_name|make_mascotss
+select_bg_mascot|2204
+
+BUYGUILD) action|dialog_return
+dialog_name|make_mascotss
+select_bg_mascot|12242
+
+BUYGUILD) action|dialog_return
+dialog_name|editguildlock
+tilex|65|
+tiley|35|
+tilex|65|
+tiley|35|
+buttonClicked|create_guild_mascot
+
+checkbox_coleader|0
+checkbox_elder|0
+checkbox_member|0
+checkbox_displaymascot|1
+checkbox_public|0
+checkbox_disable_music|0
+checkbox_allowghost|0
+tempo|100
+checkbox_disable_music_render|0
+checkbox_set_as_home_world|0
+minimum_entry_level|1
+
+BUYGUILD) action|dialog_return
+dialog_name|make_mascotss
+select_fg_mascot|11050
+
+BUYGUILD) action|dialog_return
+dialog_name|make_mascotss
+select_bg_mascot|9212
+
+BUYGUILD) action|dialog_return
+dialog_name|make_mascotss
+select_fg_mascot|2590
+
+BUYGUILD) action|dialog_return
+dialog_name|make_mascotss
+select_fg_mascot|682
+
+BUYGUILD) action|dialog_return
+dialog_name|make_mascotss
+select_bg_mascot|11050
+
+BUYGUILD) action|dialog_return
+dialog_name|make_mascotss
+buttonClicked|confirm_mascot
+
+
+BUYGUILD) action|dialog_return
+dialog_name|editguildlock
+tilex|65|
+tiley|35|
+tilex|65|
+tiley|35|
+buttonClicked|create_guild_mascot
+
+checkbox_coleader|0
+checkbox_elder|0
+checkbox_member|0
+checkbox_displaymascot|1
+checkbox_public|0
+checkbox_disable_music|0
+checkbox_allowghost|0
+tempo|100
+checkbox_disable_music_render|0
+checkbox_set_as_home_world|0
+minimum_entry_level|1
+
+BUYGUILD) action|dialog_return
+dialog_name|make_mascotss
+select_bg_mascot|682
+
+BUYGUILD) action|dialog_return
+dialog_name|make_mascotss
+select_fg_mascot|11050
+
+BUYGUILD) action|dialog_return
+dialog_name|make_mascotss
+select_fg_mascot|13632
+
+BUYGUILD) action|dialog_return
+dialog_name|make_mascotss
+select_bg_mascot|11050
+

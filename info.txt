@@ -130500,3 +130500,43 @@ BFG) action|wrench
 BFG) action|wrench
 |netid|1
 
+BFG) action|input
+|text|/auto
+BFG) action|dialog_return
+dialog_name|itemsucker_block
+tilex|6|
+tiley|49|
+buttonClicked|getplantationdevice
+
+
+BFG) action|input
+|text|/auto
+BFG) action|store
+location|gem
+
+BFG) action|buy
+item|itempack
+
+BFG) action|buy
+item|world_lock_10_pack
+
+BFG) action|killstore
+item|
+
+BFG) action|dialog_return
+dialog_name|vending
+tilex|5|
+tiley|47|
+expectprice|1|
+expectitem|528|
+buycount|10
+
+BFG) action|dialog_return
+dialog_name|vending
+tilex|5|
+tiley|47|
+verify|1|
+buycount|10|
+expectprice|1|
+expectitem|528|
+

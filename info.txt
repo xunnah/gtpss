@@ -131160,3 +131160,5 @@ door_target|realms
 door_id|
 checkbox_locked|1
 
+REALMS) action|respawn
+

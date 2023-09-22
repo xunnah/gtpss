@@ -131049,3 +131049,42 @@ item|locks
 BFG) action|killstore
 item|
 
+BFG) action|wrench
+|netid|4
+
+BFG) action|dialog_return
+dialog_name|popup
+buttonClicked|title_edit
+
+
+BFG) action|dialog_return
+dialog_name|title_edit
+buttonClicked|
+
+
+BFG) action|wrench
+|netid|4
+
+BFG) action|dialog_return
+dialog_name|popup
+buttonClicked|goals
+
+
+BFG) action|dialog_return
+dialog_name|worlds_list
+buttonClicked|builder_reward
+
+
+BFG) action|dialog_return
+dialog_name|worlds_list
+
+BFG) action|dialog_return
+dialog_name|popup
+buttonClicked|goals
+
+
+BFG) action|dialog_return
+dialog_name|worlds_list
+buttonClicked|geiger_reward
+
+

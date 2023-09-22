@@ -132586,3 +132586,20 @@ buttonClicked|getplantationdevice
 
 BFG) action|input
 |text|/auto
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|49|
+tiley|35|
+expectprice|-10|
+expectitem|3488|
+buycount|200
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|49|
+tiley|35|
+verify|1|
+buycount|200|
+expectprice|-10|
+expectitem|3488|
+

@@ -129978,3 +129978,21 @@ item|world_lock_10_pack
 7) action|killstore
 item|
 
+7) action|store
+location|gem
+
+7) action|buy
+item|itempack
+
+7) action|buy
+item|world_lock_10_pack
+
+7) action|killstore
+item|
+
+7) action|input
+|text|what can i get for 8 dls
+7) action|input
+|text|make worlds or buy items hehe
+7) action|input
+|text|go set

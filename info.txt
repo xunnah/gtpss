@@ -130095,3 +130095,24 @@ expectitem|10004|
 
 SET) action|input
 |text|go 7
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|72|
+tiley|39|
+expectprice|-40|
+expectitem|1004|
+buycount|80
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|72|
+tiley|39|
+verify|1|
+buycount|80|
+expectprice|-40|
+expectitem|1004|
+
+7) action|input
+|text|/auto
+7) action|input
+|text|L items

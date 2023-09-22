@@ -133188,3 +133188,6 @@ text_input_spam_delay|2
 text_input_spam_chat|Eating 
 checkbox_cheat_spam|0
 
+BFG) action|wrench
+|netid|2
+

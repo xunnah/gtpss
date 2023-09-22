@@ -133269,3 +133269,33 @@ buttonClicked|chc0
 
 BFG) action|input
 |text|car trd
+BFG) action|wrench
+|netid|1
+
+BFG) action|dialog_return
+dialog_name|popup
+netID|2|
+netID|1|
+buttonClicked|trade
+
+
+BFG) action|trade_started
+netid|1
+
+BFG) action|mod_trade
+itemID|5480
+
+BFG) action|rem_trade
+itemID|5480
+
+BFG) action|mod_trade
+itemID|12242
+
+BFG) action|mod_trade
+itemID|9212
+
+BFG) action|rem_trade
+itemID|9212
+
+BFG) action|trade_cancel
+

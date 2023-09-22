@@ -131317,3 +131317,8 @@ dialog_name|make_mascotss
 buttonClicked|confirm_mascot
 
 
+BUY) action|dialog_return
+dialog_name|blast
+itemID|1402|
+name|Buyxwing
+

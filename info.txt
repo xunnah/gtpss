@@ -129513,3 +129513,31 @@ wk|NONE0
 
 ) action|enter_game
 
+BFG) action|input
+|text|yo
+BFG) action|input
+|text|ji
+BFG) action|input
+|text|hi
+BFG) action|input
+|text|
+BFG) action|input
+|text|so boring world
+BFG) action|input
+|text|what world
+BFG) action|input
+|text|this
+BFG) action|input
+|text|no people
+BFG) action|input
+|text|""((
+BFG) action|input
+|text|yeah
+BFG) action|input
+|text|::((
+BFG) action|input
+|text|wanna see my word xD?
+BFG) action|input
+|text|yes
+BFG) action|input
+|text|come realms

@@ -133191,3 +133191,22 @@ checkbox_cheat_spam|0
 BFG) action|wrench
 |netid|2
 
+BFG) action|wrench
+|netid|2
+
+BFG) action|wrench
+|netid|2
+
+BFG) action|wrench
+|netid|2
+
+CARNIVAL) action|dialog_return
+dialog_name|ringmaster1
+buttonClicked|requir
+
+
+CARNIVAL) action|dialog_return
+dialog_name|ringmaster1
+buttonClicked|ring1
+
+

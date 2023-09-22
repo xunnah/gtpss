@@ -132805,3 +132805,21 @@ tiley|49|
 buttonClicked|getplantationdevice
 
 
+BFG) action|input
+|text|/auto
+BFG) action|dialog_return
+dialog_name|itemsucker_block
+tilex|9|
+tiley|49|
+buttonClicked|getplantationdevice
+
+
+BFG) action|input
+|text|/auto
+BFG) action|dialog_return
+dialog_name|itemsucker_block
+tilex|9|
+tiley|49|
+buttonClicked|getplantationdevice
+
+

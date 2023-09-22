@@ -129877,3 +129877,104 @@ location|gem
 7) action|buy
 item|bigitems
 
+7) action|buy
+item|itempack
+
+7) action|buy
+item|world_lock_10_pack
+
+7) action|buy
+item|world_lock_10_pack
+
+7) action|killstore
+item|
+
+7) action|input
+|text|idk i just buyed
+7) action|store
+location|gem
+
+7) action|buy
+item|itempack
+
+7) action|buy
+item|world_lock_10_pack
+
+7) action|buy
+item|world_lock_10_pack
+
+7) action|killstore
+item|
+
+7) action|store
+location|gem
+
+7) action|buy
+item|itempack
+
+7) action|buy
+item|world_lock_10_pack
+
+7) action|buy
+item|world_lock_10_pack
+
+7) action|buy
+item|world_lock_10_pack
+
+7) action|buy
+item|world_lock_10_pack
+
+7) action|buy
+item|world_lock_10_pack
+
+7) action|buy
+item|world_lock_10_pack
+
+7) action|buy
+item|world_lock_10_pack
+
+7) action|buy
+item|world_lock_10_pack
+
+7) action|buy
+item|world_lock_10_pack
+
+7) action|buy
+item|world_lock_10_pack
+
+7) action|buy
+item|world_lock_10_pack
+
+7) action|buy
+item|world_lock_10_pack
+
+7) action|buy
+item|world_lock_10_pack
+
+7) action|buy
+item|world_lock_10_pack
+
+7) action|buy
+item|world_lock_10_pack
+
+7) action|buy
+item|world_lock_10_pack
+
+7) action|buy
+item|world_lock_10_pack
+
+7) action|buy
+item|world_lock_10_pack
+
+7) action|buy
+item|world_lock_10_pack
+
+7) action|buy
+item|world_lock_10_pack
+
+7) action|buy
+item|world_lock_10_pack
+
+7) action|killstore
+item|
+

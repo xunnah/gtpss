@@ -130483,3 +130483,14 @@ checkbox_cheat_spam|1
 BFG) action|wrench
 |netid|1
 
+BFG) action|input
+|text|/auto
+BFG) action|dialog_return
+dialog_name|itemsucker_block
+tilex|5|
+tiley|49|
+buttonClicked|getplantationdevice
+
+
+BFG) action|input
+|text|/auto

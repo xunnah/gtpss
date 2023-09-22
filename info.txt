@@ -133114,3 +133114,7 @@ BFG) action|wrench
 
 BFG) action|input
 |text|/auto
+BFG) action|respawn_spike
+tileX|17
+tileY|50
+

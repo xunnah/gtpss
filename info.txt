@@ -130540,3 +130540,64 @@ buycount|10|
 expectprice|1|
 expectitem|528|
 
+) tankIDName|MrFrost
+tankIDPass|Marten1234
+requestedName|MrFrost
+f|1
+protocol|199
+game_version|4.37
+lmode|0
+cbits|1024
+player_age|15
+GDPR|1
+category|w4_
+totalPlaytime|0
+klv|1B93D293B974D9205C60D3920049DFB0
+gid|a23de302-4de9-436a-878a-0c6e55bf44fd
+tr|4322
+meta|1695351448
+fhash|-716928004
+rid|01F30DD7675BDF1B08141ABFC1A9038D
+platformID|4
+deviceVersion|0
+country|ee
+hash|150265195
+mac|02:00:00:00:00:00
+wk|NONE0
+
+) action|enter_game
+
+BFG) action|dialog_return
+dialog_name|itemsucker_block
+tilex|4|
+tiley|49|
+buttonClicked|getplantationdevice
+
+
+BFG) action|wrench
+|netid|2
+
+BFG) action|dialog_return
+dialog_name|popup
+buttonClicked|cheat_menunew
+
+
+BFG) action|dialog_return
+dialog_name|dialog_cheat_menu
+checkbox_cheat_autofarm|1
+checkbox_cheat_autocollect|1
+checkbox_cheat_antibounce|0
+checkbox_cheat_speed|0
+checkbox_cheat_jump|0
+checkbox_cheat_kick|0
+checkbox_cheat_ban|0
+checkbox_cheat_hideother|0
+checkbox_cheat_hidechat|0
+checkbox_cheat_fastpull|0
+checkbox_cheat_fastdrop|0
+checkbox_cheat_fasttrash|0
+checkbox_cheat_fastspin|0
+text_input_spam_delay|1
+text_input_spam_chat|`cBest Server
+checkbox_cheat_spam|0
+

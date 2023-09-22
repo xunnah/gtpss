@@ -130444,3 +130444,12 @@ buycount|3|
 expectprice|1|
 expectitem|528|
 
+BFG) action|dialog_return
+dialog_name|itemsucker_block
+tilex|4|
+tiley|49|
+buttonClicked|getplantationdevice
+
+
+BFG) action|input
+|text|/auto

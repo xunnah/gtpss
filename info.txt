@@ -130494,3 +130494,9 @@ buttonClicked|getplantationdevice
 
 BFG) action|input
 |text|/auto
+BFG) action|wrench
+|netid|1
+
+BFG) action|wrench
+|netid|1
+

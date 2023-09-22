@@ -131564,3 +131564,27 @@ LINKS) action|respawn
 
 ) action|enter_game
 
+LINKS) action|dialog_return
+dialog_name|sign_edit
+tilex|4|
+tiley|49|
+sign_text|LOL
+
+LINKS) action|dialog_return
+dialog_name|door_edit
+tilex|4|
+tiley|51|
+door_name|
+door_target|:LOL:
+door_id|
+checkbox_locked|1
+
+LINKS) action|dialog_return
+dialog_name|door_edit
+tilex|4|
+tiley|52|
+door_name|
+door_target|:LOL:
+door_id|
+checkbox_locked|1
+

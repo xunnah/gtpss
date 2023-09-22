@@ -132764,3 +132764,9 @@ buycount|60|
 expectprice|-10|
 expectitem|3490|
 
+SPEND) action|store
+location|gem
+
+SPEND) action|buy
+item|itempack
+

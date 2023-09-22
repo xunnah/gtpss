@@ -130116,3 +130116,53 @@ expectitem|1004|
 |text|/auto
 7) action|input
 |text|L items
+7) action|input
+|text|xD
+) tankIDName|MrFrost
+tankIDPass|Marten1234
+requestedName|MrFrost
+f|1
+protocol|199
+game_version|4.37
+lmode|0
+cbits|1024
+player_age|15
+GDPR|1
+category|w4_
+totalPlaytime|0
+klv|1B93D293B974D9205C60D3920049DFB0
+gid|a23de302-4de9-436a-878a-0c6e55bf44fd
+tr|4322
+meta|1695351448
+fhash|-716928004
+rid|01F30DD7675BDF1B08141ABFC1A9038D
+platformID|4
+deviceVersion|0
+country|ee
+hash|150265195
+mac|02:00:00:00:00:00
+reconnect|1
+wk|NONE0
+
+) action|enter_game
+
+7) action|wrench
+|netid|3
+
+7) action|dialog_return
+dialog_name|popup
+netID|2|
+netID|3|
+buttonClicked|pull
+
+
+7) action|input
+|text|how much left
+7) action|input
+|text|120
+7) action|input
+|text|okay
+7) action|input
+|text|5dls gone
+7) action|input
+|text|for nothing

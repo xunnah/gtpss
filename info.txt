@@ -131847,3 +131847,30 @@ LOVE) action|input
 |text|*
 LOVE) action|input
 |text|kk
+LOVE) action|input
+|text|but im honna ho and make the link world
+LOVE) action|input
+|text|kk
+LOVE) action|input
+|text|/wapr links
+LOVE) action|input
+|text|/warp links
+LINKS) action|input
+|text|/ghost
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|32|
+tiley|43|
+expectprice|-100|
+expectitem|858|
+buycount|200
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|32|
+tiley|43|
+verify|1|
+buycount|200|
+expectprice|-100|
+expectitem|858|
+

@@ -168979,3 +168979,23 @@ SET) action|input
 |text|u say in svps
 SET) action|input
 |text|hm
+SET) action|input
+|text|yap
+SET) action|input
+|text|what did i say
+SET) action|input
+|text|u say 
+SET) action|input
+|text|if im join ur server
+SET) action|input
+|text|u want gimme something
+SET) action|input
+|text|u say 
+SET) action|input
+|text|did i?
+SET) action|input
+|text|what i want u give u
+SET) action|input
+|text|what i want to give
+SET) action|input
+|text|like a role and u say help to design and build

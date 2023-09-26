@@ -167989,3 +167989,33 @@ buttonClicked|chc0
 CAR) action|drop
 |itemID|1796
 
+CAR) action|drop
+|itemID|9716
+
+CAR) action|drop
+|itemID|3042
+
+CAR) action|drop
+|itemID|2494
+
+CAR) action|drop
+|itemID|11050
+
+CAR) action|input
+|text|/auto
+7) action|dialog_return
+dialog_name|displayblock
+tilex|41|
+tiley|50|
+
+7) action|dialog_return
+dialog_name|displayblock
+tilex|31|
+tiley|50|
+
+CAR) action|drop
+|itemID|1460
+
+CAR) action|drop
+|itemID|1458
+

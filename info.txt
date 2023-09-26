@@ -172516,3 +172516,57 @@ COLLECTION) action|input
 |text|7thigma 4 ghc
 COLLECTION) action|input
 |text|niceee
+COLLECTION) action|input
+|text|8 gangel
+COLLECTION) action|input
+|text|6pw
+COLLECTION) action|input
+|text|we flex
+COLLECTION) action|input
+|text|this world
+COLLECTION) action|input
+|text|helll yes
+COLLECTION) action|input
+|text|wait i call gay joji
+COLLECTION) action|input
+|text|wanna join my guild ?
+COLLECTION) action|input
+|text|sure
+COLLECTION) action|wrench
+|netid|2
+
+COLLECTION) action|dialog_return
+dialog_name|popup
+netID|1|
+netID|2|
+buttonClicked|invitetoguild
+
+
+COLLECTION) action|wrench
+|netid|2
+
+COLLECTION) action|dialog_return
+dialog_name|popup
+buttonClicked|acceptguild
+
+
+COLLECTION) action|store
+location|gem
+
+COLLECTION) action|buy
+item|itempack
+
+COLLECTION) action|killstore
+item|
+
+COLLECTION) action|wrench
+|netid|2
+
+COLLECTION) action|input
+|text|how many
+COLLECTION) action|input
+|text|ghc
+COLLECTION) action|input
+|text|4
+COLLECTION) action|input
+|text|7 vthigma

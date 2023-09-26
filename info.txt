@@ -169179,3 +169179,46 @@ buttonClicked|chc0
 
 CASINO) action|input
 |text|u can get bgl easy
+CASINO) action|input
+|text|from farming dirt
+CASINO) action|input
+|text|wowowos
+CASINO) action|friends
+delay|0
+
+CASINO) action|input
+|text|hahahaa
+CASINO) action|dialog_return
+dialog_name|socialportal
+buttonClicked|systemcoin
+
+
+CASINO) action|dialog_return
+dialog_name|
+buttonClicked|chc0
+
+
+CASINO) action|input
+|text|500
+CASINO) action|input
+|text|dollar
+CASINO) action|input
+|text|-_-
+CASINO) action|input
+|text|ez
+CASINO) action|input
+|text|just
+CASINO) action|input
+|text|dude
+CASINO) action|input
+|text|buy dirt
+CASINO) action|input
+|text|from shop
+CASINO) action|input
+|text|but tons
+CASINO) action|input
+|text|and afk
+CASINO) action|input
+|text|in this server not alv amullet?
+CASINO) action|input
+|text|no but this server have fiture like afk

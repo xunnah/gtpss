@@ -167973,3 +167973,16 @@ dialog_name|socialportal
 buttonClicked|rich_lb
 
 
+CAR) action|friends
+delay|0
+
+CAR) action|dialog_return
+dialog_name|socialportal
+buttonClicked|systemcoin
+
+
+CAR) action|dialog_return
+dialog_name|
+buttonClicked|chc0
+
+

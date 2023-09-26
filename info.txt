@@ -171864,3 +171864,44 @@ SET) action|input
 |text|ghc
 SET) action|input
 |text|wait let me get 1 aswell
+SET) action|drop
+|itemID|11756
+
+SET) action|dialog_return
+dialog_name|drop_item
+itemID|11756|
+count|199
+
+SET) action|input
+|text|WWWWWWWWW
+SET) action|dialog_return
+dialog_name|vending
+tilex|44|
+tiley|29|
+expectprice|100|
+expectitem|11758|
+buycount|200
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|44|
+tiley|29|
+verify|1|
+buycount|200|
+expectprice|100|
+expectitem|11758|
+
+SET) action|input
+|text|i have 2 ga 2 pw 1 ndev
+SET) action|input
+|text|pretty nice
+SET) action|input
+|text|8 more bgls to spend
+SET) action|drop
+|itemID|11758
+
+SET) action|dialog_return
+dialog_name|drop_item
+itemID|11758|
+count|100
+

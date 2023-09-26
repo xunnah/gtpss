@@ -169884,3 +169884,5 @@ dialog_name|
 buttonClicked|chc0
 
 
+BFG) action|input
+|text|/mods

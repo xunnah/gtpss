@@ -171991,3 +171991,63 @@ SET) action|input
 |text|0 ghc
 SET) action|input
 |text|this time
+SET) action|input
+|text|W
+SET) action|input
+|text|5
+SET) action|input
+|text|6
+SET) action|input
+|text|6
+SET) action|input
+|text|WWWW
+SET) action|dialog_return
+dialog_name|vending
+tilex|44|
+tiley|29|
+expectprice|100|
+expectitem|11758|
+buycount|200
+
+SET) action|input
+|text|all done?
+SET) action|dialog_return
+dialog_name|vending
+tilex|44|
+tiley|29|
+verify|1|
+buycount|200|
+expectprice|100|
+expectitem|11758|
+
+SET) action|input
+|text|wait
+SET) action|input
+|text|dont open
+SET) action|drop
+|itemID|11758
+
+SET) action|dialog_return
+dialog_name|drop_item
+itemID|11758|
+count|200
+
+SET) action|input
+|text|wait
+SET) action|dialog_return
+dialog_name|vending
+tilex|44|
+tiley|29|
+expectprice|100|
+expectitem|11758|
+buycount|200
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|44|
+tiley|29|
+verify|1|
+buycount|200|
+expectprice|100|
+expectitem|11758|
+

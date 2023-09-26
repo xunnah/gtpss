@@ -173577,3 +173577,75 @@ dialog_name|drop_item
 itemID|5196|
 count|1
 
+COLLECTION) action|dialog_return
+dialog_name|displayblock
+tilex|51|
+tiley|38|
+
+COLLECTION) action|input
+|text|we are rich
+COLLECTION) action|input
+|text|mate
+COLLECTION) action|friends
+delay|0
+
+COLLECTION) action|dialog_return
+dialog_name|socialportal
+buttonClicked|rich_lb
+
+
+COLLECTION) action|input
+|text|/msg mhm where u
+COLLECTION) action|input
+|text|wait
+COLLECTION) action|dialog_return
+dialog_name|itemsucker_block
+tilex|52|
+tiley|37|
+selectitem|1458
+
+COLLECTION) action|input
+|text|i check 1 thing
+COLLECTION) action|input
+|text|give gray
+COLLECTION) action|dialog_return
+dialog_name|displayblock
+tilex|52|
+tiley|38|
+
+COLLECTION) action|drop
+|itemID|5196
+
+COLLECTION) action|input
+|text|i wanna test 1 leaderboard thing
+COLLECTION) action|dialog_return
+dialog_name|drop_item
+itemID|5196|
+count|1
+
+COLLECTION) action|drop
+|itemID|1458
+
+COLLECTION) action|dialog_return
+dialog_name|drop_item
+itemID|1458|
+count|1
+
+COLLECTION) action|friends
+delay|0
+
+COLLECTION) action|input
+|text|btw
+COLLECTION) action|dialog_return
+dialog_name|socialportal
+buttonClicked|rich_lb
+
+
+COLLECTION) action|input
+|text|m ray cost 0 wls
+COLLECTION) action|input
+|text|wut
+COLLECTION) action|input
+|text|in leader board
+COLLECTION) action|input
+|text|g ray*

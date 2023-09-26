@@ -171827,3 +171827,40 @@ dialog_name|drop_item
 itemID|11758|
 count|100
 
+SET) action|input
+|text|what the royal thing
+SET) action|dialog_return
+dialog_name|vending
+tilex|44|
+tiley|29|
+expectprice|100|
+expectitem|11758|
+buycount|200
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|44|
+tiley|29|
+verify|1|
+buycount|200|
+expectprice|100|
+expectitem|11758|
+
+SET) action|input
+|text|gay
+SET) action|drop
+|itemID|11758
+
+SET) action|dialog_return
+dialog_name|drop_item
+itemID|11758|
+count|100
+
+SET) action|input
+|text|wooow
+SET) action|input
+|text|W
+SET) action|input
+|text|ghc
+SET) action|input
+|text|wait let me get 1 aswell

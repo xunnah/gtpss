@@ -168873,3 +168873,19 @@ TRADE) action|input
 |text|lemme guide u trough the server
 TRADE) action|input
 |text|ahahha
+TRADE) action|input
+|text|here trade world
+TRADE) action|input
+|text|okay
+TRADE) action|input
+|text|if u want to gacha big for legendary u can go to carnival
+CARNIVAL) action|input
+|text|/msg omzu comee
+SHOP) action|input
+|text|/msg noah hw
+CARNIVAL) action|input
+|text|tadaaa
+CARNIVAL) action|input
+|text|wow
+CARNIVAL) action|input
+|text|must lvl wp

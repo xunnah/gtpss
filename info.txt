@@ -173649,3 +173649,99 @@ COLLECTION) action|input
 |text|in leader board
 COLLECTION) action|input
 |text|g ray*
+COLLECTION) action|input
+|text|i can use normal m ray
+COLLECTION) action|input
+|text|and nothing else
+COLLECTION) action|input
+|text|and be on top of u
+COLLECTION) action|friends
+delay|0
+
+COLLECTION) action|dialog_return
+dialog_name|socialportal
+buttonClicked|rich_lb
+
+
+COLLECTION) action|friends
+delay|0
+
+COLLECTION) action|dialog_return
+dialog_name|socialportal
+buttonClicked|rich_lb
+
+
+COLLECTION) action|input
+|text|is it
+COLLECTION) action|input
+|text|for set
+COLLECTION) action|input
+|text|or in ventory
+COLLECTION) action|input
+|text|inventory
+COLLECTION) action|input
+|text|idk man
+COLLECTION) action|friends
+delay|0
+
+COLLECTION) action|input
+|text|xd
+COLLECTION) action|dialog_return
+dialog_name|socialportal
+buttonClicked|rich_lb
+
+
+COLLECTION) action|dialog_return
+dialog_name|top_richest
+buttonClicked|userinfo_Car
+
+
+COLLECTION) action|input
+|text|so confused
+COLLECTION) action|drop
+|itemID|1458
+
+COLLECTION) action|dialog_return
+dialog_name|drop_item
+itemID|1458|
+count|1
+
+COLLECTION) action|drop
+|itemID|8284
+
+COLLECTION) action|dialog_return
+dialog_name|userinfo
+buttonClicked|backtolb
+
+
+COLLECTION) action|dialog_return
+dialog_name|drop_item
+itemID|8284|
+count|4
+
+COLLECTION) action|drop
+|itemID|1460
+
+COLLECTION) action|dialog_return
+dialog_name|drop_item
+itemID|1460|
+count|2
+
+COLLECTION) action|drop
+|itemID|1460
+
+COLLECTION) action|input
+|text|lmaooooooooooooooooooooooooooooooooo
+COLLECTION) action|dialog_return
+dialog_name|drop_item
+itemID|1460|
+count|2
+
+COLLECTION) action|drop
+|itemID|1674
+
+COLLECTION) action|dialog_return
+dialog_name|drop_item
+itemID|1674|
+count|5
+

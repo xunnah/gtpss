@@ -170199,3 +170199,112 @@ BFG) action|input
 |text|that u could borrow
 BFG) action|input
 |text|car
+BFG) action|input
+|text|Car
+BFG) action|input
+|text|yo
+BFG) action|input
+|text|u have another
+BFG) action|input
+|text|Gray?
+BFG) action|input
+|text|/auto
+BFG) action|input
+|text|that i could borrow
+BFG) action|input
+|text|no
+BFG) action|input
+|text|u want to barrow this ?
+BFG) action|input
+|text|or smt whats 1 hit
+BFG) action|input
+|text|i would want fast gems
+BFG) action|input
+|text|if u could borrow
+BFG) action|wrench
+|netid|4
+
+BFG) action|input
+|text|or smt
+BFG) action|dialog_return
+dialog_name|popup
+netID|3|
+netID|4|
+buttonClicked|trade
+
+
+BFG) action|trade_started
+netid|4
+
+BFG) action|wrench
+|netid|3
+
+BFG) action|dialog_return
+dialog_name|popup
+netID|4|
+netID|3|
+buttonClicked|trade
+
+
+BFG) action|trade_started
+netid|3
+
+BFG) action|mod_trade
+itemID|5196
+
+BFG) action|input
+|text|dont worry i wont scam u
+BFG) action|input
+|text|
+BFG) action|input
+|text|give next time
+BFG) action|trade_accept
+status|1
+item|5196|1
+
+BFG) action|input
+|text|yup
+BFG) action|trade_accept
+status|1
+
+BFG) action|dialog_return
+dialog_name|trade_confirm
+buttonClicked|accept
+
+
+BFG) action|dialog_return
+dialog_name|trade_confirm
+buttonClicked|accept
+
+
+BFG) action|friends
+delay|0
+
+BFG) action|dialog_return
+dialog_name|socialportal
+buttonClicked|systemcoin
+
+
+BFG) action|dialog_return
+dialog_name|
+buttonClicked|opop_price_7188
+
+
+BFG) action|dialog_return
+dialog_name|
+buttonClicked|opop_item_7188
+
+
+BFG) action|friends
+delay|0
+
+BFG) action|dialog_return
+dialog_name|socialportal
+buttonClicked|systemcoin
+
+
+BFG) action|dialog_return
+dialog_name|
+buttonClicked|opop_price_7188
+
+

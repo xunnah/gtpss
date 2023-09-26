@@ -171041,3 +171041,50 @@ dialog_name|
 buttonClicked|opop_item_7188
 
 
+REPEUSD) action|input
+|text|boom
+REPEUSD) action|input
+|text|i got 1 more bgl
+REPEUSD) action|drop
+|itemID|7188
+
+REPEUSD) action|drop
+|itemID|1796
+
+REPEUSD) action|input
+|text|nicee
+REPEUSD) action|input
+|text|u farm dirt
+REPEUSD) action|input
+|text|it give u usd
+REPEUSD) action|input
+|text|ik ik
+REPEUSD) action|input
+|text|this diret
+REPEUSD) action|input
+|text|im sdev
+REPEUSD) action|input
+|text|oh
+REPEUSD) action|input
+|text|but han hasnt give role
+REPEUSD) action|drop
+|itemID|5196
+
+REPEUSD) action|input
+|text|yet
+REPEUSD) action|input
+|text|use till u done
+REPEUSD) action|input
+|text|i builded world set and sets
+REPEUSD) action|input
+|text|i put donation box in world
+REPEUSD) action|input
+|text|7
+REPEUSD) action|input
+|text|fr
+REPEUSD) action|input
+|text|
+REPEUSD) action|input
+|text|i vuilt world 7
+REPEUSD) action|input
+|text|xD

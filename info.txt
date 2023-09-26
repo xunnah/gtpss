@@ -169589,3 +169589,20 @@ BFG) action|input
 |text|/wave
 BFG) action|input
 |text|/wave
+SET) action|dialog_return
+dialog_name|vending
+tilex|30|
+tiley|19|
+expectprice|250|
+expectitem|13710|
+buycount|01
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|30|
+tiley|19|
+verify|1|
+buycount|1|
+expectprice|250|
+expectitem|13710|
+

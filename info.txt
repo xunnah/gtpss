@@ -172989,3 +172989,78 @@ dialog_name|drop_item
 itemID|9340|
 count|1
 
+COLLECTION) action|drop
+|itemID|9342
+
+COLLECTION) action|drop
+|itemID|1458
+
+COLLECTION) action|dialog_return
+dialog_name|drop_item
+itemID|9342|
+count|1
+
+COLLECTION) action|dialog_return
+dialog_name|drop_item
+itemID|1458|
+count|1
+
+COLLECTION) action|drop
+|itemID|9342
+
+COLLECTION) action|input
+|text|middle
+COLLECTION) action|drop
+|itemID|9340
+
+COLLECTION) action|dialog_return
+dialog_name|drop_item
+itemID|9340|
+count|1
+
+COLLECTION) action|drop
+|itemID|9342
+
+COLLECTION) action|dialog_return
+dialog_name|drop_item
+itemID|9342|
+count|1
+
+COLLECTION) action|drop
+|itemID|1458
+
+COLLECTION) action|drop
+|itemID|9340
+
+COLLECTION) action|dialog_return
+dialog_name|drop_item
+itemID|1458|
+count|1
+
+COLLECTION) action|dialog_return
+dialog_name|drop_item
+itemID|9340|
+count|1
+
+COLLECTION) action|drop
+|itemID|1458
+
+COLLECTION) action|dialog_return
+dialog_name|drop_item
+itemID|1458|
+count|1
+
+COLLECTION) action|input
+|text|3
+COLLECTION) action|input
+|text|ready
+COLLECTION) action|input
+|text|2
+COLLECTION) action|input
+|text|1
+COLLECTION) action|input
+|text|go
+COLLECTION) action|input
+|text|Yea boyyyyys
+COLLECTION) action|input
+|text|so ez

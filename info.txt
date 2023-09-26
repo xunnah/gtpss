@@ -172810,3 +172810,51 @@ count|2
 
 COLLECTION) action|input
 |text|why u took n dev
+COLLECTION) action|input
+|text|wait
+COLLECTION) action|input
+|text|u only had 1
+COLLECTION) action|input
+|text|they left in my inv
+COLLECTION) action|input
+|text|?
+COLLECTION) action|input
+|text|yea
+COLLECTION) action|input
+|text|oh
+COLLECTION) action|drop
+|itemID|1970
+
+COLLECTION) action|dialog_return
+dialog_name|drop_item
+itemID|1970|
+count|1
+
+COLLECTION) action|input
+|text|now all
+COLLECTION) action|input
+|text|let me check
+COLLECTION) action|input
+|text|how to make
+COLLECTION) action|input
+|text|yup
+COLLECTION) action|input
+|text|wait
+COLLECTION) action|input
+|text|yuuuup
+COLLECTION) action|drop
+|itemID|9446
+
+COLLECTION) action|dialog_return
+dialog_name|drop_item
+itemID|9446|
+count|5
+
+COLLECTION) action|drop
+|itemID|11768
+
+COLLECTION) action|dialog_return
+dialog_name|drop_item
+itemID|11768|
+count|3
+

@@ -169106,3 +169106,21 @@ CASINO) action|input
 |text|yap
 CASINO) action|input
 |text|ik
+CASINO) action|input
+|text|i saw he name
+CASINO) action|input
+|text|u can try to talk to him
+CASINO) action|input
+|text|woa
+CASINO) action|input
+|text|but im not sure
+CASINO) action|input
+|text|he want gimme role
+CASINO) action|input
+|text|just ask him u can help to build casino
+CASINO) action|input
+|text|u alr met him right
+CASINO) action|input
+|text|okaay okay
+CASINO) action|input
+|text|in svps

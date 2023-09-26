@@ -168999,3 +168999,48 @@ SET) action|input
 |text|what i want to give
 SET) action|input
 |text|like a role and u say help to design and build
+SET) action|input
+|text|and 
+SET) action|input
+|text|a
+SET) action|input
+|text|/fp
+SET) action|input
+|text|OH RIGHT
+SET) action|input
+|text|yap
+SET) action|input
+|text|sadly
+SET) action|input
+|text|and a world 1let
+SET) action|input
+|text|its alr build
+SET) action|input
+|text|/fp
+SET) action|input
+|text|okey
+SET) action|input
+|text|all world alr complete by a couple of my friend
+SET) action|input
+|text|but
+SET) action|input
+|text|but
+SET) action|input
+|text|u still can buy role here
+SET) action|input
+|text|wow
+CAR) action|dialog_return
+dialog_name|statsblock
+buttonClicked|floatingItems
+
+isStatsWorldBlockUsableByPublic|0
+isStatsFloatingItemsUsableByPublic|0
+
+SET) action|input
+|text|nice
+CAR) action|dialog_return
+dialog_name|statsblock
+buttonClicked|back_to_gscan
+
+searchName|
+

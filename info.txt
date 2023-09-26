@@ -168959,3 +168959,23 @@ SET) action|input
 |text|locke what?
 SET) action|input
 |text|locke
+SET) action|input
+|text|locke salesman?
+SET) action|input
+|text|yass
+SET) action|input
+|text|oh for what
+SET) action|input
+|text|u can get all item here
+SET) action|input
+|text|or
+SET) action|input
+|text|from here
+SET) action|input
+|text|phoenix and golden
+SET) action|input
+|text|joji im hope u dont forgotten
+SET) action|input
+|text|u say in svps
+SET) action|input
+|text|hm

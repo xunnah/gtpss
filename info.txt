@@ -169222,3 +169222,45 @@ CASINO) action|input
 |text|in this server not alv amullet?
 CASINO) action|input
 |text|no but this server have fiture like afk
+CASINO) action|input
+|text|u can farm with just afk
+CASINO) action|input
+|text|and its literally
+CASINO) action|input
+|text|not like svps
+CASINO) action|input
+|text|u need to put block
+CASINO) action|input
+|text|like he in world car
+CASINO) action|input
+|text|yes
+CASINO) action|input
+|text|u just need afk
+CASINO) action|input
+|text|or
+CASINO) action|input
+|text|where i can activated this fiture
+CASINO) action|input
+|text|u can bfg to get gems first
+CASINO) action|input
+|text|.
+CASINO) action|input
+|text|wrench
+CASINO) action|input
+|text|so
+CASINO) action|wrench
+|netid|2
+
+CASINO) action|input
+|text|theres cheat menu
+CASINO) action|wrench
+|netid|2
+
+CASINO) action|wrench
+|netid|2
+
+CASINO) action|wrench
+|netid|2
+
+CASINO) action|input
+|text|lag

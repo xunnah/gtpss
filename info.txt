@@ -171283,3 +171283,54 @@ SHOP) action|input
 |text|.name
 SHOP) action|input
 |text|7
+7) action|input
+|text|i havent got any time
+7) action|input
+|text|while i was building
+7) action|input
+|text|for server
+7) action|input
+|text|like set
+7) action|input
+|text|sets
+7) action|input
+|text|han and joji gay
+7) action|input
+|text|go sets
+7) action|input
+|text|
+SETS) action|input
+|text|i stocked+ builded
+SETS) action|input
+|text|whole world
+SETS) action|input
+|text|:D
+SETS) action|input
+|text|come
+SETS) action|input
+|text|i stocked this
+SETS) action|input
+|text|and this
+SETS) action|input
+|text|come
+SETS) action|input
+|text|is it worth it?
+SETS) action|input
+|text|which
+SETS) action|dialog_return
+dialog_name|vending
+tilex|47|
+tiley|33|
+expectprice|100|
+expectitem|11758|
+buycount|18
+
+SETS) action|dialog_return
+dialog_name|vending
+tilex|47|
+tiley|33|
+verify|1|
+buycount|18|
+expectprice|100|
+expectitem|11758|
+

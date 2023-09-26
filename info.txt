@@ -168289,3 +168289,15 @@ wk|NONE0
 
 ) action|enter_game
 
+) action|dialog_return
+dialog_name|growid_apply
+logon|OMZU
+password|rendi1140
+password_verify|rendi1140
+email|rendialveiro@gmail.com
+
+START) action|dialog_return
+dialog_name|
+buttonClicked|newbie
+
+

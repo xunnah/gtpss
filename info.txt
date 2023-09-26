@@ -171334,3 +171334,80 @@ buycount|18|
 expectprice|100|
 expectitem|11758|
 
+SETS) action|input
+|text|well
+SETS) action|input
+|text|i spent
+SETS) action|input
+|text|around 10bgl
+SETS) action|input
+|text|on g4g
+SETS) action|input
+|text|ah fk it
+SETS) action|dialog_return
+dialog_name|vending
+tilex|47|
+tiley|33|
+expectprice|100|
+expectitem|11758|
+buycount|182
+
+SETS) action|dialog_return
+dialog_name|vending
+tilex|47|
+tiley|33|
+expectprice|100|
+expectitem|11758|
+buycount|182
+
+SETS) action|dialog_return
+dialog_name|vending
+tilex|47|
+tiley|33|
+expectprice|100|
+expectitem|11758|
+buycount|20
+
+SETS) action|dialog_return
+dialog_name|vending
+tilex|47|
+tiley|33|
+expectprice|100|
+expectitem|11758|
+buycount|182
+
+SETS) action|dialog_return
+dialog_name|vending
+tilex|47|
+tiley|33|
+verify|1|
+buycount|20|
+expectprice|100|
+expectitem|11758|
+
+SETS) action|dialog_return
+dialog_name|vending
+tilex|47|
+tiley|33|
+expectprice|100|
+expectitem|11758|
+buycount|162
+
+SETS) action|input
+|text|fuck im addicted
+SETS) action|input
+|text|to these
+SETS) action|input
+|text|lol
+SETS) action|input
+|text|thats how i lost
+SETS) action|input
+|text|10bgls
+SETS) action|input
+|text|this world gay
+SETS) action|input
+|text|go set
+SETS) action|input
+|text|its lucky
+SETS) action|input
+|text|i promise

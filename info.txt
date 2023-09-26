@@ -171608,3 +171608,35 @@ dialog_name|drop_item
 itemID|11758|
 count|100
 
+SET) action|input
+|text|oh fuck
+SET) action|input
+|text|we re too
+SET) action|input
+|text|addicted
+SET) action|input
+|text|to these
+SET) action|input
+|text|man i love losing dls
+SET) action|input
+|text|lol
+SET) action|input
+|text|WWWWW
+SET) action|input
+|text|I thought
+SET) action|input
+|text|i got
+SET) action|input
+|text|gangel
+SET) action|input
+|text|wtf i cant open
+SET) action|input
+|text|i got
+SET) action|input
+|text|W
+SET) action|input
+|text|gangel
+SET) action|input
+|text|W
+SET) action|input
+|text|it dont let me open

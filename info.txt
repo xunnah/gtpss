@@ -172570,3 +172570,47 @@ COLLECTION) action|input
 |text|4
 COLLECTION) action|input
 |text|7 vthigma
+COLLECTION) action|input
+|text|i have an idea
+COLLECTION) action|input
+|text|yup
+COLLECTION) action|input
+|text|u like locket ?
+COLLECTION) action|input
+|text|Yea
+COLLECTION) action|input
+|text|we only need 2 ghc
+COLLECTION) action|input
+|text|we use
+COLLECTION) action|input
+|text|2 for 2 locket
+COLLECTION) action|input
+|text|Lets do it
+COLLECTION) action|drop
+|itemID|1458
+
+COLLECTION) action|input
+|text|drop 2
+COLLECTION) action|input
+|text|i cant
+COLLECTION) action|drop
+|itemID|8284
+
+COLLECTION) action|drop
+|itemID|8284
+
+COLLECTION) action|drop
+|itemID|1458
+
+COLLECTION) action|drop
+|itemID|8284
+
+COLLECTION) action|dialog_return
+dialog_name|drop_item
+itemID|1458|
+count|2
+
+COLLECTION) action|input
+|text|
+COLLECTION) action|input
+|text|scammer

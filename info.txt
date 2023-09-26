@@ -170060,3 +170060,13 @@ tiley|49|
 buttonClicked|getplantationdevice
 
 
+BFG) action|input
+|text|=?
+BFG) action|wrench
+|netid|2
+
+BFG) action|dialog_return
+dialog_name|popup
+buttonClicked|cheat_menunew
+
+

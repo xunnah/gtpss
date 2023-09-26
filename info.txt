@@ -169124,3 +169124,58 @@ CASINO) action|input
 |text|okaay okay
 CASINO) action|input
 |text|in svps
+CASINO) action|input
+|text|i hope he want 
+CASINO) action|input
+|text|:D
+CASINO) action|input
+|text|hehe
+CASINO) action|input
+|text|now if u want be rich u can bfg or farm dirt
+CASINO) action|input
+|text|tips
+CASINO) action|input
+|text|okay
+CASINO) action|input
+|text|cuz carm dirt give u $
+CASINO) action|input
+|text|usd
+CASINO) action|store
+location|gem
+
+CASINO) action|input
+|text|yap
+CASINO) action|friends
+delay|0
+
+CASINO) action|killstore
+item|
+
+CASINO) action|dialog_return
+dialog_name|socialportal
+buttonClicked|systemcoin
+
+
+CASINO) action|friends
+delay|0
+
+CASINO) action|dialog_return
+dialog_name|
+buttonClicked|chc0
+
+
+CASINO) action|dialog_return
+dialog_name|socialportal
+buttonClicked|kitsystem
+
+
+CASINO) action|friends
+delay|0
+
+CASINO) action|dialog_return
+dialog_name|
+buttonClicked|chc0
+
+
+CASINO) action|input
+|text|u can get bgl easy

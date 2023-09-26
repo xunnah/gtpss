@@ -173860,3 +173860,49 @@ dialog_name|drop_item
 itemID|10748|
 count|2
 
+COLLECTION) action|drop
+|itemID|10748
+
+COLLECTION) action|dialog_return
+dialog_name|drop_item
+itemID|10748|
+count|2
+
+COLLECTION) action|drop
+|itemID|11768
+
+COLLECTION) action|dialog_return
+dialog_name|drop_item
+itemID|11768|
+count|3
+
+COLLECTION) action|drop
+|itemID|5196
+
+COLLECTION) action|dialog_return
+dialog_name|drop_item
+itemID|5196|
+count|1
+
+COLLECTION) action|input
+|text|rich
+COLLECTION) action|input
+|text|boys
+COLLECTION) action|drop
+|itemID|11768
+
+COLLECTION) action|drop
+|itemID|11768
+
+COLLECTION) action|drop
+|itemID|11768
+
+COLLECTION) action|dialog_return
+dialog_name|drop_item
+itemID|11768|
+count|2
+
+COLLECTION) action|input
+|text|yea
+COLLECTION) action|input
+|text|

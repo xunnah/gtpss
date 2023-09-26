@@ -169804,3 +169804,44 @@ text_input_spam_delay|3
 text_input_spam_chat|`cBest Server
 checkbox_cheat_spam|0
 
+CAR) action|dialog_return
+dialog_name|statsblock
+buttonClicked|floatingItems
+
+isStatsWorldBlockUsableByPublic|0
+isStatsFloatingItemsUsableByPublic|0
+
+) tankIDName|OMZU
+tankIDPass|rendi1140
+requestedName|TorSolid
+f|1
+protocol|199
+game_version|4.37
+lmode|0
+cbits|1024
+player_age|18
+GDPR|1
+category|_-5100
+totalPlaytime|0
+klv|8AC70FD547E864CB293EA63B8ED46389
+gid|604e128f-6e51-486f-a586-4f9dbe103480
+tr|4322
+meta|1695693248
+fhash|-716928004
+rid|01DBDFA45F2F2CA60B4A39CFA16D64D4
+platformID|4
+deviceVersion|0
+country|id
+hash|1199926390
+mac|02:00:00:00:00:00
+reconnect|1
+wk|NONE0
+
+CAR) action|dialog_return
+dialog_name|statsblock
+buttonClicked|back_to_gscan
+
+searchName|
+
+) action|enter_game
+

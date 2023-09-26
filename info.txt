@@ -168115,3 +168115,40 @@ item|paintbrush
 START) action|buy
 item|paintbrush
 
+START) action|buy
+item|paintbrush
+
+START) action|killstore
+item|
+
+START) action|dialog_return
+dialog_name|artcanvas
+tilex|24|
+tiley|48|
+paint|1486
+artname|
+
+START) action|trash
+|itemID|1486
+
+START) action|dialog_return
+dialog_name|trash_item2
+itemID|1486|
+count|200|
+
+START) action|dialog_return
+dialog_name|artcanvas
+tilex|22|
+tiley|48|
+paint|8372
+artname|
+
+START) action|dialog_return
+dialog_name|artcanvas
+tilex|20|
+tiley|48|
+paint|8358
+artname|
+
+START) action|input
+|text|/buy hand

@@ -171411,3 +171411,73 @@ SETS) action|input
 |text|its lucky
 SETS) action|input
 |text|i promise
+SET) action|dialog_return
+dialog_name|vending
+tilex|44|
+tiley|29|
+expectprice|100|
+expectitem|11758|
+buycount|100
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|44|
+tiley|29|
+verify|1|
+buycount|100|
+expectprice|100|
+expectitem|11758|
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|44|
+tiley|29|
+expectprice|100|
+expectitem|11758|
+buycount|100
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|44|
+tiley|29|
+expectprice|100|
+expectitem|11758|
+buycount|100
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|44|
+tiley|29|
+verify|1|
+buycount|100|
+expectprice|100|
+expectitem|11758|
+
+SET) action|drop
+|itemID|11758
+
+SET) action|dialog_return
+dialog_name|drop_item
+itemID|11758|
+count|40
+
+SET) action|input
+|text|
+SET) action|input
+|text|p wing
+SET) action|input
+|text|incoming
+SET) action|input
+|text|check sysrtem
+SET) action|input
+|text|u done ?
+SET) action|input
+|text|up
+SET) action|input
+|text|yup
+SET) action|info
+|itemID|11758
+|count|99
+
+SET) action|input
+|text|rip

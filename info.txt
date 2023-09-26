@@ -172879,3 +172879,28 @@ buttonClicked|search_1
 
 searchName|
 
+COLLECTION) action|dialog_return
+dialog_name|statsblock
+buttonClicked|floatingItems
+
+isStatsWorldBlockUsableByPublic|0
+isStatsFloatingItemsUsableByPublic|0
+
+COLLECTION) action|dialog_return
+dialog_name|statsblock
+buttonClicked|search_1
+
+searchName|
+
+COLLECTION) action|input
+|text|wait
+COLLECTION) action|store
+location|gem
+
+SET) action|input
+|text|/msg repe where to find diamond ring and rose
+COLLECTION) action|killstore
+item|
+
+COLLECTION) action|input
+|text|/rgo

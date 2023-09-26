@@ -169912,3 +169912,16 @@ buttonClicked|back_to_gscan
 
 searchName|
 
+CAR) action|dialog_return
+dialog_name|statsblock
+buttonClicked|floatingItems
+
+isStatsWorldBlockUsableByPublic|0
+isStatsFloatingItemsUsableByPublic|0
+
+CAR) action|dialog_return
+dialog_name|statsblock
+buttonClicked|back_to_gscan
+
+searchName|
+

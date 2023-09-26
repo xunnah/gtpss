@@ -173914,3 +173914,34 @@ COLLECTION) action|input
 |text|same
 COLLECTION) action|input
 |text|cya
+COLLECTION) action|dialog_return
+dialog_name|displayblock
+tilex|52|
+tiley|38|
+
+COLLECTION) action|dialog_return
+dialog_name|displayblock
+tilex|50|
+tiley|38|
+
+COLLECTION) action|drop
+|itemID|5196
+
+COLLECTION) action|dialog_return
+dialog_name|drop_item
+itemID|5196|
+count|1
+
+COLLECTION) action|dialog_return
+dialog_name|sign_edit
+tilex|48|
+tiley|36|
+sign_text|incase im offline and u want to auto
+
+BFG) action|dialog_return
+dialog_name|itemsucker_block
+tilex|6|
+tiley|49|
+buttonClicked|getplantationdevice
+
+

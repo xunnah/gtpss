@@ -173465,3 +173465,39 @@ COLLECTION) action|input
 |text|spend world lock
 COLLECTION) action|input
 |text|and hellshop
+COLLECTION) action|input
+|text|XDDDDDD
+COLLECTION) action|input
+|text|i swear
+COLLECTION) action|input
+|text|we got some devs in trouble
+COLLECTION) action|input
+|text|lmao
+COLLECTION) action|input
+|text|we also banned 
+COLLECTION) action|input
+|text|70 mods / devs
+COLLECTION) action|input
+|text|for no reason
+COLLECTION) action|input
+|text|LOOOOOOOOL
+COLLECTION) action|input
+|text|and 3 s dev
+COLLECTION) action|input
+|text|i got ban
+COLLECTION) action|input
+|text|cause
+COLLECTION) action|input
+|text|i banned
+COLLECTION) action|input
+|text|5 mod
+COLLECTION) action|input
+|text|no reason
+COLLECTION) action|input
+|text|i got banned cuz i abuse 
+COLLECTION) action|input
+|text|all mods
+COLLECTION) action|input
+|text|i made them slaves
+COLLECTION) action|input
+|text|lololol

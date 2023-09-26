@@ -171950,3 +171950,44 @@ SET) action|input
 |text|trust we get 6
 SET) action|input
 |text|ill trust
+SET) action|input
+|text|QW
+SET) action|input
+|text|W
+SET) action|input
+|text|on my last one
+SET) action|input
+|text|ghc
+SET) action|dialog_return
+dialog_name|vending
+tilex|44|
+tiley|29|
+expectprice|100|
+expectitem|11758|
+buycount|200
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|44|
+tiley|29|
+verify|1|
+buycount|200|
+expectprice|100|
+expectitem|11758|
+
+SET) action|input
+|text|i only have 3
+SET) action|drop
+|itemID|11758
+
+SET) action|input
+|text|thigma
+SET) action|dialog_return
+dialog_name|drop_item
+itemID|11758|
+count|100
+
+SET) action|input
+|text|0 ghc
+SET) action|input
+|text|this time

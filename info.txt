@@ -169573,3 +169573,19 @@ BFG) action|input
 |text|of peps
 BFG) action|input
 |text|hehe
+BFG) action|input
+|text|okay dude
+BFG) action|input
+|text|im promoting this server
+BFG) action|input
+|text|seee yaaa
+BFG) action|input
+|text|yap
+BFG) action|input
+|text|see ya
+BFG) action|input
+|text|suree
+BFG) action|input
+|text|/wave
+BFG) action|input
+|text|/wave

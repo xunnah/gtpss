@@ -172455,3 +172455,64 @@ COLLECTION) action|input
 |text|wait
 COLLECTION) action|input
 |text|what did i take
+COLLECTION) action|input
+|text|idk
+COLLECTION) action|input
+|text|fk
+COLLECTION) action|drop
+|itemID|11884
+
+COLLECTION) action|dialog_return
+dialog_name|drop_item
+itemID|11884|
+count|1
+
+COLLECTION) action|drop
+|itemID|11760
+
+COLLECTION) action|drop
+|itemID|10026
+
+COLLECTION) action|dialog_return
+dialog_name|drop_item
+itemID|10026|
+count|2
+
+COLLECTION) action|drop
+|itemID|11884
+
+COLLECTION) action|drop
+|itemID|11884
+
+COLLECTION) action|drop
+|itemID|9036
+
+COLLECTION) action|dialog_return
+dialog_name|drop_item
+itemID|9036|
+count|3
+
+COLLECTION) action|input
+|text|awsome job
+COLLECTION) action|drop
+|itemID|10388
+
+COLLECTION) action|drop
+|itemID|10388
+
+COLLECTION) action|drop
+|itemID|8284
+
+COLLECTION) action|drop
+|itemID|1458
+
+COLLECTION) action|drop
+|itemID|10026
+
+COLLECTION) action|drop
+|itemID|10252
+
+COLLECTION) action|input
+|text|7thigma 4 ghc
+COLLECTION) action|input
+|text|niceee

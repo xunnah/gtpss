@@ -172904,3 +172904,88 @@ item|
 
 COLLECTION) action|input
 |text|/rgo
+SET) action|input
+|text|here
+SET) action|input
+|text|here
+SET) action|dialog_return
+dialog_name|vending
+tilex|25|
+tiley|19|
+expectprice|10|
+expectitem|9342|
+buycount|02
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|25|
+tiley|19|
+verify|1|
+buycount|2|
+expectprice|10|
+expectitem|9342|
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|24|
+tiley|19|
+expectprice|10|
+expectitem|9340|
+buycount|02
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|24|
+tiley|19|
+verify|1|
+buycount|2|
+expectprice|10|
+expectitem|9340|
+
+SET) action|input
+|text|we are way too rich
+SET) action|input
+|text|:D
+SET) action|input
+|text|go collection
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|50|
+tiley|15|
+expectprice|-2|
+expectitem|912|
+buycount|02
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|50|
+tiley|15|
+verify|1|
+buycount|2|
+expectprice|-2|
+expectitem|912|
+
+COLLECTION) action|drop
+|itemID|1458
+
+COLLECTION) action|dialog_return
+dialog_name|drop_item
+itemID|1458|
+count|1
+
+COLLECTION) action|drop
+|itemID|9342
+
+COLLECTION) action|dialog_return
+dialog_name|drop_item
+itemID|9342|
+count|1
+
+COLLECTION) action|drop
+|itemID|9340
+
+COLLECTION) action|dialog_return
+dialog_name|drop_item
+itemID|9340|
+count|1
+

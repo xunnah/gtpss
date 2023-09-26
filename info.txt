@@ -170735,3 +170735,13 @@ CAR24BGLS) action|respawn
 
 CAR24BGLS) action|respawn
 
+CAR24BGLS) action|friends
+delay|0
+
+CAR24BGLS) action|dialog_return
+dialog_name|socialportal
+buttonClicked|showfriend
+
+
+CAR24BGLS) action|input
+|text|/msg joji yo

@@ -173501,3 +173501,53 @@ COLLECTION) action|input
 |text|i made them slaves
 COLLECTION) action|input
 |text|lololol
+COLLECTION) action|input
+|text|i had 3 s devs accoutns
+COLLECTION) action|input
+|text|yo bro
+COLLECTION) action|input
+|text|to unban my other
+COLLECTION) action|input
+|text|ill go sleep
+COLLECTION) action|input
+|text|now all banned
+COLLECTION) action|input
+|text|same
+COLLECTION) action|input
+|text|Cya tmrw
+COLLECTION) action|input
+|text|
+COLLECTION) action|input
+|text|wait locket and m ray
+COLLECTION) action|drop
+|itemID|9344
+
+COLLECTION) action|dialog_return
+dialog_name|drop_item
+itemID|9344|
+count|1
+
+COLLECTION) action|drop
+|itemID|9344
+
+COLLECTION) action|dialog_return
+dialog_name|drop_item
+itemID|9344|
+count|1
+
+COLLECTION) action|input
+|text|wait
+COLLECTION) action|input
+|text|i buy aswell
+COLLECTION) action|input
+|text|gray
+COLLECTION) action|input
+|text|lmao
+COLLECTION) action|input
+|text|realquick
+COLLECTION) action|store
+location|gem
+
+COLLECTION) action|buy
+item|itempack
+

@@ -168489,3 +168489,44 @@ dialog_name|top_richest
 buttonClicked|userinfo_Noah
 
 
+CAR) action|dialog_return
+dialog_name|userinfo
+buttonClicked|backtolb
+
+
+CAR) action|dialog_return
+dialog_name|top_richest
+buttonClicked|userinfo_Car
+
+
+CAR) action|dialog_return
+dialog_name|userinfo
+buttonClicked|backtolb
+
+
+CAR) action|dialog_return
+dialog_name|top_richest
+buttonClicked|userinfo_hannux
+
+
+CAR) action|friends
+delay|0
+
+CAR) action|dialog_return
+dialog_name|socialportal
+buttonClicked|bgls_bank
+
+
+CAR) action|dialog_return
+dialog_name|bank_deposit
+buttonClicked|bgls_depo
+
+
+CAR) action|dialog_return
+dialog_name|bank_deposit
+buttonClicked|deposit_bgl
+
+bgl_count|200
+
+CAR) action|input
+|text|/online

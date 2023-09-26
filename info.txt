@@ -173551,3 +173551,29 @@ location|gem
 COLLECTION) action|buy
 item|itempack
 
+COLLECTION) action|buy
+item|main
+
+COLLECTION) action|buy
+item|gray_shop
+
+COLLECTION) action|killstore
+item|
+
+COLLECTION) action|drop
+|itemID|5196
+
+COLLECTION) action|input
+|text|oops
+COLLECTION) action|input
+|text|lmaooooo
+COLLECTION) action|input
+|text|fuck
+COLLECTION) action|drop
+|itemID|5196
+
+COLLECTION) action|dialog_return
+dialog_name|drop_item
+itemID|5196|
+count|1
+

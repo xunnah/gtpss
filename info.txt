@@ -168630,3 +168630,11 @@ buttonClicked|back_to_gscan
 
 searchName|
 
+CAR) action|friends
+delay|0
+
+CAR) action|dialog_return
+dialog_name|socialportal
+buttonClicked|systemcoin
+
+

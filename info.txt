@@ -169308,3 +169308,62 @@ CASINO) action|input
 |text|omzu
 OMZU) action|input
 |text|niceeeeee
+OMZU) action|wrench
+|netid|1
+
+OMZU) action|input
+|text|wrench
+OMZU) action|wrench
+|netid|1
+
+OMZU) action|dialog_return
+dialog_name|popup
+buttonClicked|cheat_menunew
+
+
+OMZU) action|input
+|text|wrench
+OMZU) action|input
+|text|urself
+OMZU) action|dialog_return
+dialog_name|dialog_cheat_menu
+checkbox_cheat_autofarm|1
+checkbox_cheat_autocollect|1
+checkbox_cheat_antibounce|0
+checkbox_cheat_speed|0
+checkbox_cheat_jump|0
+checkbox_cheat_kick|0
+checkbox_cheat_ban|0
+checkbox_cheat_hideother|0
+checkbox_cheat_hidechat|0
+checkbox_cheat_fastpull|0
+checkbox_cheat_fastdrop|0
+checkbox_cheat_fasttrash|0
+checkbox_cheat_fastspin|0
+text_input_spam_delay|3
+text_input_spam_chat|`cBest Server
+checkbox_cheat_spam|0
+
+OMZU) action|input
+|text|see
+OMZU) action|input
+|text|wtf
+OMZU) action|input
+|text|just afk
+OMZU) action|input
+|text|niceee
+OMZU) action|store
+location|gem
+
+OMZU) action|killstore
+item|
+
+OMZU) action|input
+|text|where i can buy a
+OMZU) action|input
+|text|dirt
+OMZU) action|input
+|text|when u got 10 mil u can buy g rayman
+OMZU) action|store
+location|gem
+

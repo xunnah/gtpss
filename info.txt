@@ -170766,3 +170766,14 @@ tiley|50|
 7) action|drop
 |itemID|1458
 
+BFG) action|wrench
+|netid|4
+
+BFG) action|friends
+delay|0
+
+BFG) action|dialog_return
+dialog_name|socialportal
+buttonClicked|rich_lb
+
+

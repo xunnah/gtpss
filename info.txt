@@ -172065,3 +172065,34 @@ SET) action|input
 |text|ghc and ga
 SET) action|input
 |text|lol
+SET) action|input
+|text|W
+SET) action|drop
+|itemID|11756
+
+SET) action|dialog_return
+dialog_name|drop_item
+itemID|11756|
+count|198
+
+SET) action|drop
+|itemID|11756
+
+SET) action|dialog_return
+dialog_name|drop_item
+itemID|11756|
+count|156
+
+SET) action|input
+|text|done
+SET) action|wrench
+|netid|1
+
+SET) action|wrench
+|netid|1
+
+SET) action|dialog_return
+dialog_name|popup
+buttonClicked|cheat_menunew
+
+

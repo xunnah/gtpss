@@ -172858,3 +172858,24 @@ dialog_name|drop_item
 itemID|11768|
 count|3
 
+COLLECTION) action|dialog_return
+dialog_name|itemsucker_block
+tilex|50|
+tiley|37|
+selectitem|1458
+
+COLLECTION) action|input
+|text|now we look more rich
+COLLECTION) action|dialog_return
+dialog_name|statsblock
+buttonClicked|floatingItems
+
+isStatsWorldBlockUsableByPublic|0
+isStatsFloatingItemsUsableByPublic|0
+
+COLLECTION) action|dialog_return
+dialog_name|statsblock
+buttonClicked|search_1
+
+searchName|
+

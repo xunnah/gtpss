@@ -168083,3 +168083,35 @@ buttonClicked|buy_1486
 
 START) action|input
 |text|/buy paijt
+START) action|input
+|text|/buy paint
+START) action|dialog_return
+dialog_name|buy_option
+search|paint|
+buttonClicked|buy_3528
+
+
+START) action|store
+location|gem
+
+START) action|buy
+item|itempack
+
+START) action|buy
+item|token
+
+START) action|buy
+item|weather
+
+START) action|buy
+item|bigitems
+
+START) action|buy
+item|weather
+
+START) action|buy
+item|paintbrush
+
+START) action|buy
+item|paintbrush
+

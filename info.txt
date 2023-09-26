@@ -168019,3 +168019,5 @@ CAR) action|drop
 CAR) action|drop
 |itemID|1458
 
+CAR) action|input
+|text|/auto

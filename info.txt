@@ -173078,3 +173078,64 @@ dialog_name|drop_item
 itemID|5196|
 count|1
 
+COLLECTION) action|input
+|text|oooooooooh yeaaaa
+COLLECTION) action|input
+|text|rich boys
+COLLECTION) action|dialog_return
+dialog_name|itemsucker_block
+tilex|52|
+tiley|37|
+selectitem|1458
+
+COLLECTION) action|input
+|text|/dance
+COLLECTION) action|dialog_return
+dialog_name|itemsucker_block
+tilex|52|
+tiley|35|
+selectitem|1458
+
+COLLECTION) action|dialog_return
+dialog_name|itemsucker_block
+tilex|50|
+tiley|35|
+selectitem|1458
+
+COLLECTION) action|input
+|text|now they think
+COLLECTION) action|input
+|text|we got
+COLLECTION) action|input
+|text|5k
+COLLECTION) action|drop
+|itemID|1458
+
+COLLECTION) action|dialog_return
+dialog_name|drop_item
+itemID|1458|
+count|1
+
+COLLECTION) action|input
+|text|how many gems
+COLLECTION) action|input
+|text|u got
+COLLECTION) action|input
+|text|now
+COLLECTION) action|input
+|text|i buy real quick 4dl
+COLLECTION) action|input
+|text|to get uv
+COLLECTION) action|input
+|text|aura
+COLLECTION) action|input
+|text|14mil
+COLLECTION) action|store
+location|gem
+
+COLLECTION) action|buy
+item|itempack
+
+COLLECTION) action|killstore
+item|
+

@@ -171251,3 +171251,35 @@ SHOP) action|input
 |text|owh
 SHOP) action|input
 |text|fk
+SHOP) action|input
+|text|ops
+SHOP) action|input
+|text|i wounder who bought them
+SHOP) action|input
+|text|does this
+SHOP) action|input
+|text|dirt work?
+SHOP) action|input
+|text|on usd
+SHOP) action|input
+|text|nope
+SHOP) action|input
+|text|owh
+SHOP) action|input
+|text|joji scammer anyways
+SHOP) action|input
+|text|i go just farm random worlds
+SHOP) action|input
+|text|:D
+SHOP) action|input
+|text|he made me buy from vend
+SHOP) action|input
+|text|and go drop
+SHOP) action|input
+|text|wanna see my world
+SHOP) action|input
+|text|?
+SHOP) action|input
+|text|.name
+SHOP) action|input
+|text|7

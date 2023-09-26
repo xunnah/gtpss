@@ -169064,3 +169064,19 @@ SET) action|input
 |text|YES I HOPE SOO
 SET) action|input
 |text|yap
+SET) action|input
+|text|btw can u build casino?
+SET) action|input
+|text|cN
+SET) action|input
+|text|can
+SET) action|input
+|text|eh
+SET) action|input
+|text|go casino
+CASINO) action|input
+|text|its not build yet
+CASINO) action|input
+|text|cuz last time my friend build it but hannux dont like ut
+CASINO) action|input
+|text|it

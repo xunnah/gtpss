@@ -169533,3 +169533,43 @@ BFG) action|input
 |text|same
 BFG) action|input
 |text|ahahah
+BFG) action|input
+|text|i afk
+BFG) action|input
+|text|bfg
+BFG) action|input
+|text|here 3:47 am
+BFG) action|input
+|text|in my time
+BFG) action|input
+|text|00.49am
+BFG) action|input
+|text|woa
+BFG) action|input
+|text|/troll
+BFG) action|input
+|text|aight man
+BFG) action|input
+|text|okay
+BFG) action|input
+|text|see ya tomorrow
+BFG) action|input
+|text|im msg u morning
+BFG) action|input
+|text|good to see ya
+BFG) action|input
+|text|okay
+BFG) action|input
+|text|see ya
+BFG) action|input
+|text|u can ask ur friend to play here
+BFG) action|input
+|text|yap
+BFG) action|input
+|text|so they got early access
+BFG) action|input
+|text|before this server full
+BFG) action|input
+|text|of peps
+BFG) action|input
+|text|hehe

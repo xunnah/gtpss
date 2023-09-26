@@ -171555,3 +171555,56 @@ count|80
 
 SET) action|input
 |text|bvig :
+SET) action|input
+|text|i swear
+SET) action|input
+|text|next 50 g4g
+SET) action|input
+|text|what i open
+SET) action|input
+|text|i will get pwing
+SET) action|input
+|text|and
+SET) action|input
+|text|Draconic
+SET) action|storenavigate
+item|locks
+selection|upgrade_backpack
+
+SET) action|buy
+item|upgrade_backpack
+
+SET) action|buy
+item|upgrade_backpack
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|44|
+tiley|29|
+expectprice|100|
+expectitem|11758|
+buycount|200
+
+SET) action|buy
+item|upgrade_backpack
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|44|
+tiley|29|
+verify|1|
+buycount|200|
+expectprice|100|
+expectitem|11758|
+
+SET) action|killstore
+item|
+
+SET) action|drop
+|itemID|11758
+
+SET) action|dialog_return
+dialog_name|drop_item
+itemID|11758|
+count|100
+

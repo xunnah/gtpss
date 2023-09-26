@@ -171088,3 +171088,45 @@ REPEUSD) action|input
 |text|i vuilt world 7
 REPEUSD) action|input
 |text|xD
+REPEUSD) action|input
+|text|built*
+REPEUSD) action|input
+|text|btw
+REPEUSD) action|input
+|text|to get 24 bgls
+REPEUSD) action|input
+|text|i broke 100k diert
+REPEUSD) action|input
+|text|dirt
+REPEUSD) action|input
+|text|LOL
+REPEUSD) action|input
+|text|:D
+REPEUSD) action|input
+|text|i swear
+REPEUSD) action|input
+|text|see go
+REPEUSD) action|input
+|text|car
+CAR) action|wrench
+|netid|1
+
+CAR) action|dialog_return
+dialog_name|popup
+netID|2|
+netID|1|
+buttonClicked|pull
+
+
+CAR) action|input
+|text|i drop here 100k
+CAR) action|input
+|text|i sleep i wake up
+CAR) action|input
+|text|i auto
+CAR) action|input
+|text|xD
+CAR) action|input
+|text|xd
+CAR) action|input
+|text|it only took me 

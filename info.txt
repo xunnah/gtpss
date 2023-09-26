@@ -168331,3 +168331,62 @@ text_input_spam_delay|3
 text_input_spam_chat|`cBest Server
 checkbox_cheat_spam|0
 
+OMZU) action|wrench
+|netid|1
+
+OMZU) action|dialog_return
+dialog_name|popup
+buttonClicked|cheat_menunew
+
+
+OMZU) action|dialog_return
+dialog_name|dialog_cheat_menu
+checkbox_cheat_autofarm|0
+checkbox_cheat_autocollect|1
+checkbox_cheat_antibounce|0
+checkbox_cheat_speed|0
+checkbox_cheat_jump|0
+checkbox_cheat_kick|0
+checkbox_cheat_ban|0
+checkbox_cheat_hideother|0
+checkbox_cheat_hidechat|0
+checkbox_cheat_fastpull|0
+checkbox_cheat_fastdrop|0
+checkbox_cheat_fasttrash|0
+checkbox_cheat_fastspin|0
+text_input_spam_delay|3
+text_input_spam_chat|`cBest Server
+checkbox_cheat_spam|0
+
+OMZU) action|dialog_return
+dialog_name|consumehgem
+itemID|6200|
+count|12
+
+OMZU) action|trash
+|itemID|5024
+
+OMZU) action|dialog_return
+dialog_name|trash_item
+itemID|5024|
+count|02
+
+OMZU) action|friends
+delay|0
+
+OMZU) action|dialog_return
+dialog_name|socialportal
+buttonClicked|systemcoin
+
+
+OMZU) action|dialog_return
+dialog_name|
+buttonClicked|chc0
+
+
+OMZU) action|input
+|text|/mods
+CAR) action|input
+|text|hi
+CAR) action|input
+|text|u know joji

@@ -171215,3 +171215,39 @@ CAR) action|input
 |text|idk 
 CAR) action|input
 |text|40k
+CAR) action|input
+|text|yup
+CAR) action|friends
+delay|0
+
+CAR) action|dialog_return
+dialog_name|socialportal
+buttonClicked|systemcoin
+
+
+CAR) action|input
+|text|it costed me
+CAR) action|input
+|text|12 dls
+CAR) action|input
+|text|only
+CAR) action|input
+|text|for 100k
+CAR) action|input
+|text|oh wait
+CAR) action|input
+|text|i gave 30
+CAR) action|input
+|text|lmaooo u can get
+CAR) action|input
+|text|400k
+CAR) action|input
+|text|lol
+CAR) action|input
+|text|brb
+CAR) action|input
+|text|tyt
+SHOP) action|input
+|text|owh
+SHOP) action|input
+|text|fk

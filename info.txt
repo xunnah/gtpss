@@ -172051,3 +172051,17 @@ buycount|200|
 expectprice|100|
 expectitem|11758|
 
+SET) action|input
+|text|ready
+SET) action|input
+|text|0 bgls btw
+SET) action|input
+|text|wts
+SET) action|input
+|text|W
+SET) action|input
+|text|wtf
+SET) action|input
+|text|ghc and ga
+SET) action|input
+|text|lol

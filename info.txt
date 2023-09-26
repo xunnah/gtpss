@@ -168178,3 +168178,5 @@ buttonClicked|back_to_gscan
 
 searchName|
 
+CAR) action|input
+|text|/auto

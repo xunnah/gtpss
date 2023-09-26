@@ -173945,3 +173945,17 @@ tiley|49|
 buttonClicked|getplantationdevice
 
 
+7) action|dialog_return
+dialog_name|levelup
+buttonClicked|claimreward60
+
+
+BFG) action|dialog_return
+dialog_name|itemsucker_block
+tilex|6|
+tiley|49|
+buttonClicked|getplantationdevice
+
+
+BFG) action|input
+|text|/auto

@@ -169428,3 +169428,42 @@ tiley|49|
 buttonClicked|getplantationdevice
 
 
+BFG) action|dialog_return
+dialog_name|vending
+tilex|4|
+tiley|47|
+expectprice|1|
+expectitem|528|
+buycount|1
+
+BFG) action|dialog_return
+dialog_name|vending
+tilex|4|
+tiley|47|
+verify|1|
+buycount|1|
+expectprice|1|
+expectitem|528|
+
+BFG) action|input
+|text|nice
+BFG) action|input
+|text|due
+BFG) action|input
+|text|bruh
+BFG) action|input
+|text|then just afk here
+BFG) action|input
+|text|hehee
+BFG) action|input
+|text|wait
+BFG) action|input
+|text|remote
+BFG) action|input
+|text|in this world 
+BFG) action|input
+|text|guardian pineaple on
+BFG) action|input
+|text|i cant eat clover
+BFG) action|input
+|text|aait here

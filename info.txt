@@ -172247,3 +172247,136 @@ tiley|51|
 |text|go to
 7) action|input
 |text|collection
+COLLECTION) action|dialog_return
+dialog_name|lock_edit
+tilex|51|
+tiley|35|
+playerNetID|2
+checkbox_public|0
+checkbox_vending|0
+checkbox_disable_music|0
+checkbox_allowghost|0
+tempo|100
+checkbox_disable_music_render|0
+checkbox_set_as_home_world|0
+minimum_entry_level|1
+
+COLLECTION) action|wrench
+|netid|2
+
+COLLECTION) action|dialog_return
+dialog_name|popup
+buttonClicked|acceptlock
+
+
+COLLECTION) action|drop
+|itemID|3564
+
+COLLECTION) action|dialog_return
+dialog_name|acceptaccess
+
+COLLECTION) action|input
+|text|drop them
+COLLECTION) action|drop
+|itemID|3564
+
+COLLECTION) action|drop
+|itemID|1674
+
+COLLECTION) action|dialog_return
+dialog_name|drop_item
+itemID|1674|
+count|5
+
+COLLECTION) action|drop
+|itemID|11318
+
+COLLECTION) action|drop
+|itemID|1970
+
+COLLECTION) action|dialog_return
+dialog_name|drop_item
+itemID|1970|
+count|1
+
+COLLECTION) action|drop
+|itemID|1674
+
+COLLECTION) action|drop
+|itemID|1674
+
+COLLECTION) action|drop
+|itemID|1460
+
+COLLECTION) action|drop
+|itemID|1674
+
+COLLECTION) action|dialog_return
+dialog_name|drop_item
+itemID|1460|
+count|2
+
+COLLECTION) action|drop
+|itemID|8944
+
+COLLECTION) action|drop
+|itemID|8284
+
+COLLECTION) action|dialog_return
+dialog_name|drop_item
+itemID|8284|
+count|4
+
+COLLECTION) action|drop
+|itemID|1970
+
+COLLECTION) action|drop
+|itemID|3564
+
+COLLECTION) action|drop
+|itemID|1458
+
+COLLECTION) action|drop
+|itemID|9758
+
+COLLECTION) action|dialog_return
+dialog_name|drop_item
+itemID|1458|
+count|1
+
+COLLECTION) action|drop
+|itemID|11118
+
+COLLECTION) action|drop
+|itemID|11118
+
+COLLECTION) action|drop
+|itemID|11318
+
+COLLECTION) action|dialog_return
+dialog_name|drop_item
+itemID|11318|
+count|3
+
+COLLECTION) action|drop
+|itemID|9036
+
+COLLECTION) action|drop
+|itemID|8944
+
+COLLECTION) action|dialog_return
+dialog_name|drop_item
+itemID|8944|
+count|3
+
+COLLECTION) action|drop
+|itemID|5754
+
+COLLECTION) action|drop
+|itemID|9758
+
+COLLECTION) action|dialog_return
+dialog_name|drop_item
+itemID|9758|
+count|1
+

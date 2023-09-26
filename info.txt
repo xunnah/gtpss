@@ -170745,3 +170745,24 @@ buttonClicked|showfriend
 
 CAR24BGLS) action|input
 |text|/msg joji yo
+BFG) action|friends
+delay|0
+
+BFG) action|dialog_return
+dialog_name|socialportal
+buttonClicked|systemcoin
+
+
+BFG) action|dialog_return
+dialog_name|
+buttonClicked|chc0
+
+
+7) action|dialog_return
+dialog_name|displayblock
+tilex|31|
+tiley|50|
+
+7) action|drop
+|itemID|1458
+

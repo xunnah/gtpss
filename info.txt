@@ -167801,3 +167801,14 @@ reason|
 BFG) action|store
 location|gem
 
+BFG) action|killstore
+item|
+
+BFG) action|friends
+delay|0
+
+BFG) action|dialog_return
+dialog_name|socialportal
+buttonClicked|rich_lb
+
+

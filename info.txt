@@ -172717,3 +172717,96 @@ COLLECTION) action|input
 |text|oh
 COLLECTION) action|input
 |text|i can buy
+COLLECTION) action|input
+|text|wait
+COLLECTION) action|input
+|text|i put them again
+COLLECTION) action|input
+|text|funny
+COLLECTION) action|drop
+|itemID|1460
+
+COLLECTION) action|wrench
+|netid|1
+
+COLLECTION) action|dialog_return
+dialog_name|drop_item
+itemID|1460|
+count|2
+
+COLLECTION) action|dialog_return
+dialog_name|popup
+buttonClicked|cheat_menunew
+
+
+COLLECTION) action|drop
+|itemID|1674
+
+COLLECTION) action|dialog_return
+dialog_name|drop_item
+itemID|1674|
+count|5
+
+COLLECTION) action|dialog_return
+dialog_name|dialog_cheat_menu
+checkbox_cheat_autofarm|0
+checkbox_cheat_autocollect|1
+checkbox_cheat_antibounce|0
+checkbox_cheat_speed|0
+checkbox_cheat_jump|0
+checkbox_cheat_kick|0
+checkbox_cheat_ban|0
+checkbox_cheat_hideother|0
+checkbox_cheat_hidechat|0
+checkbox_cheat_fastpull|0
+checkbox_cheat_fastdrop|0
+checkbox_cheat_fasttrash|0
+checkbox_cheat_fastspin|0
+text_input_spam_delay|3
+text_input_spam_chat|`c
+checkbox_cheat_spam|0
+
+COLLECTION) action|drop
+|itemID|2946
+
+COLLECTION) action|drop
+|itemID|1458
+
+COLLECTION) action|dialog_return
+dialog_name|drop_item
+itemID|1458|
+count|1
+
+COLLECTION) action|dialog_return
+dialog_name|drop_item
+itemID|2946|
+count|42
+
+COLLECTION) action|drop
+|itemID|8284
+
+COLLECTION) action|dialog_return
+dialog_name|drop_item
+itemID|8284|
+count|4
+
+COLLECTION) action|input
+|text|omg
+COLLECTION) action|drop
+|itemID|10748
+
+COLLECTION) action|dialog_return
+dialog_name|drop_item
+itemID|10748|
+count|2
+
+COLLECTION) action|drop
+|itemID|10748
+
+COLLECTION) action|dialog_return
+dialog_name|drop_item
+itemID|10748|
+count|2
+
+COLLECTION) action|input
+|text|why u took n dev

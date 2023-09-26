@@ -169650,3 +169650,18 @@ buttonClicked|getplantationdevice
 BFG) action|store
 location|gem
 
+BFG) action|buy
+item|locks
+
+BFG) action|buy
+item|bigitems
+
+BFG) action|buy
+item|token
+
+BFG) action|buy
+item|weather
+
+BFG) action|killstore
+item|
+

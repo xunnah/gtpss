@@ -172380,3 +172380,78 @@ dialog_name|drop_item
 itemID|9758|
 count|1
 
+COLLECTION) action|drop
+|itemID|9446
+
+COLLECTION) action|drop
+|itemID|10748
+
+COLLECTION) action|drop
+|itemID|1460
+
+COLLECTION) action|dialog_return
+dialog_name|drop_item
+itemID|10748|
+count|2
+
+COLLECTION) action|drop
+|itemID|9036
+
+COLLECTION) action|dialog_return
+dialog_name|drop_item
+itemID|9036|
+count|3
+
+COLLECTION) action|drop
+|itemID|4664
+
+COLLECTION) action|drop
+|itemID|10026
+
+COLLECTION) action|dialog_return
+dialog_name|drop_item
+itemID|10026|
+count|2
+
+COLLECTION) action|drop
+|itemID|10388
+
+COLLECTION) action|dialog_return
+dialog_name|drop_item
+itemID|10388|
+count|1
+
+COLLECTION) action|drop
+|itemID|11118
+
+COLLECTION) action|dialog_return
+dialog_name|drop_item
+itemID|11118|
+count|2
+
+COLLECTION) action|input
+|text|awesome job
+COLLECTION) action|input
+|text|ngl
+COLLECTION) action|input
+|text|gay seed
+COLLECTION) action|drop
+|itemID|10388
+
+COLLECTION) action|dialog_return
+dialog_name|drop_item
+itemID|10388|
+count|1
+
+COLLECTION) action|drop
+|itemID|10388
+
+COLLECTION) action|dialog_return
+dialog_name|drop_item
+itemID|10388|
+count|1
+
+COLLECTION) action|input
+|text|wait
+COLLECTION) action|input
+|text|what did i take

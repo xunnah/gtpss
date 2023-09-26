@@ -169982,3 +169982,9 @@ dialog_name|statsblock
 buttonClicked|floatingItems
 
 
+CAR) action|dialog_return
+dialog_name|statsblock
+buttonClicked|back_to_gscan
+
+searchName|
+

@@ -168909,3 +168909,53 @@ CARNIVAL) action|input
 |text|if u want wing shoes or hand items
 CARNIVAL) action|input
 |text|u can buy it in set
+) tankIDName|Noah
+tankIDPass|blueoceanstrategy
+requestedName|FireBob
+f|1
+protocol|199
+game_version|4.37
+lmode|0
+cbits|1024
+player_age|38
+GDPR|1
+category|_-5100
+totalPlaytime|0
+klv|7DA565E2D1C834A4B5A288C566C131BD
+hash2|-305319022
+vid|75C8C2F9-F6D8-4CBD-A58F-9F971E3CEEC2
+aid|
+meta|1695693248
+fhash|-716928004
+rid|01D750403FDE1ACD075E86A0979039E7
+platformID|1
+deviceVersion|0
+country|gb
+hash|-305319022
+mac|02:00:00:00:00:00
+wk|NONE0
+
+SET) action|input
+|text|wow
+) action|enter_game
+
+SET) action|input
+|text|wtf
+SET) action|input
+|text|here all the wings
+SET) action|input
+|text|all aura
+SET) action|input
+|text|gg
+SET) action|input
+|text|but
+SET) action|input
+|text|where locke
+SET) action|input
+|text|locke?
+SET) action|input
+|text|yap
+SET) action|input
+|text|locke what?
+SET) action|input
+|text|locke

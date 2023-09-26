@@ -168390,3 +168390,12 @@ CAR) action|input
 |text|hi
 CAR) action|input
 |text|u know joji
+CAR) action|store
+location|gem
+
+CAR) action|buy
+item|token
+
+CAR) action|killstore
+item|
+

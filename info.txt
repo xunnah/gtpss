@@ -170042,3 +170042,14 @@ wk|NONE0
 
 ) action|enter_game
 
+CAR) action|input
+|text|/auto
+BFG) action|dialog_return
+dialog_name|itemsucker_block
+tilex|7|
+tiley|49|
+buttonClicked|getplantationdevice
+
+
+BFG) action|input
+|text|/auto

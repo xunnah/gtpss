@@ -171640,3 +171640,78 @@ SET) action|input
 |text|W
 SET) action|input
 |text|it dont let me open
+SET) action|input
+|text|wtf
+SET) action|input
+|text|LOL?
+SET) action|input
+|text|another
+SET) action|drop
+|itemID|11756
+
+SET) action|dialog_return
+dialog_name|drop_item
+itemID|11756|
+count|98
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|44|
+tiley|29|
+expectprice|100|
+expectitem|11758|
+buycount|200
+
+SET) action|input
+|text|atleast
+SET) action|input
+|text|i got
+SET) action|dialog_return
+dialog_name|vending
+tilex|44|
+tiley|29|
+expectprice|100|
+expectitem|11758|
+buycount|200
+
+SET) action|input
+|text|2 gangel
+SET) action|dialog_return
+dialog_name|vending
+tilex|44|
+tiley|29|
+verify|1|
+buycount|200|
+expectprice|100|
+expectitem|11758|
+
+SET) action|input
+|text|from 200?
+SET) action|input
+|text|bro
+SET) action|input
+|text|g4g
+SET) action|input
+|text|we still got 16 more bgls
+SET) action|input
+|text|to spend
+SET) action|drop
+|itemID|11758
+
+SET) action|dialog_return
+dialog_name|drop_item
+itemID|11758|
+count|100
+
+SET) action|input
+|text|W
+SET) action|input
+|text|gems
+SET) action|input
+|text|Yea
+SET) action|input
+|text|i have 5mil
+SET) action|input
+|text|now
+SET) action|input
+|text|XD

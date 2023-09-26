@@ -173064,3 +173064,17 @@ COLLECTION) action|input
 |text|Yea boyyyyys
 COLLECTION) action|input
 |text|so ez
+COLLECTION) action|input
+|text|give golden ray
+COLLECTION) action|input
+|text|i go break mag
+COLLECTION) action|input
+|text|
+COLLECTION) action|drop
+|itemID|5196
+
+COLLECTION) action|dialog_return
+dialog_name|drop_item
+itemID|5196|
+count|1
+

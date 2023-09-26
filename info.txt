@@ -171737,3 +171737,60 @@ SET) action|input
 |text|get 3 p wings
 SET) action|input
 |text|when we sell
+SET) action|input
+|text|lets split up?
+SET) action|input
+|text|what we sell
+SET) action|input
+|text|sure
+SET) action|input
+|text|cause u
+SET) action|input
+|text|bought all
+SET) action|input
+|text|u cant keep lmao
+SET) action|input
+|text|im just addictid
+SET) action|input
+|text|XDDDDD
+SET) action|dialog_return
+dialog_name|vending
+tilex|44|
+tiley|29|
+expectprice|100|
+expectitem|11758|
+buycount|200
+
+SET) action|input
+|text|im aswell
+SET) action|dialog_return
+dialog_name|vending
+tilex|44|
+tiley|29|
+verify|1|
+buycount|200|
+expectprice|100|
+expectitem|11758|
+
+SET) action|input
+|text|LOLOLOL
+SET) action|input
+|text|
+SET) action|drop
+|itemID|11758
+
+SET) action|input
+|text|
+SET) action|dialog_return
+dialog_name|drop_item
+itemID|11758|
+count|100
+
+SET) action|input
+|text|luckyyyy
+SET) action|input
+|text|W
+SET) action|input
+|text|omh
+SET) action|input
+|text|W

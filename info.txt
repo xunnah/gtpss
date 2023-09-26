@@ -168049,3 +168049,37 @@ wk|NONE0
 
 ) action|enter_game
 
+START) action|input
+|text|/buy plat
+START) action|dialog_return
+dialog_name|buy_option
+search|plat|
+buttonClicked|buy_13216
+
+
+START) action|input
+|text|/buy giant
+START) action|dialog_return
+dialog_name|buy_option
+search|giant|
+buttonClicked|buy_8372
+
+
+START) action|input
+|text|/buy eye
+START) action|dialog_return
+dialog_name|buy_option
+search|eye|
+buttonClicked|buy_8358
+
+
+START) action|input
+|text|/buy growtoken
+START) action|dialog_return
+dialog_name|buy_option
+search|growtoken|
+buttonClicked|buy_1486
+
+
+START) action|input
+|text|/buy paijt

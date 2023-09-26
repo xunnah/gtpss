@@ -173273,3 +173273,117 @@ dialog_name|guildmembers
 buttonClicked|Repe
 
 
+COLLECTION) action|input
+|text|8 gangel
+COLLECTION) action|dialog_return
+dialog_name|guild_member_edit
+guildmemberid|Repe|
+guildmembername|Repe|
+buttonClicked|promote
+
+
+COLLECTION) action|dialog_return
+dialog_name|guild_member_role_change
+guildMemberID|Repe|
+guildmembername|Repe|
+buttonClicked|promote
+
+
+COLLECTION) action|dialog_return
+dialog_name|guild_member_role_change_finish
+buttonClicked|back
+
+
+COLLECTION) action|dialog_return
+dialog_name|guildmembers
+buttonClicked|Repe
+
+
+COLLECTION) action|dialog_return
+dialog_name|guild_member_edit
+guildmemberid|Repe|
+guildmembername|Repe|
+buttonClicked|promote
+
+
+COLLECTION) action|dialog_return
+dialog_name|guild_member_role_change
+guildMemberID|Repe|
+guildmembername|Repe|
+buttonClicked|promote
+
+
+COLLECTION) action|dialog_return
+dialog_name|guild_member_role_change_finish
+buttonClicked|back
+
+
+COLLECTION) action|input
+|text|ngl
+COLLECTION) action|input
+|text|we are richest
+COLLECTION) action|input
+|text|rn
+COLLECTION) action|friends
+delay|0
+
+COLLECTION) action|dialog_return
+dialog_name|socialportal
+buttonClicked|rich_lb
+
+
+COLLECTION) action|input
+|text|after server famous
+COLLECTION) action|input
+|text|aswell
+COLLECTION) action|input
+|text|press on friends thinge
+COLLECTION) action|input
+|text|and press
+COLLECTION) action|friends
+delay|0
+
+COLLECTION) action|input
+|text|leaderboard
+COLLECTION) action|dialog_return
+dialog_name|socialportal
+buttonClicked|rich_lb
+
+
+COLLECTION) action|input
+|text|i swear we should be
+COLLECTION) action|input
+|text|1 and 2
+COLLECTION) action|input
+|text|
+COLLECTION) action|dialog_return
+dialog_name|top_richest
+buttonClicked|userinfo_Noah
+
+
+COLLECTION) action|dialog_return
+dialog_name|userinfo
+buttonClicked|backtolb
+
+
+COLLECTION) action|input
+|text|ngl
+COLLECTION) action|input
+|text|yea
+COLLECTION) action|friends
+delay|0
+
+COLLECTION) action|friends
+delay|0
+
+COLLECTION) action|dialog_return
+dialog_name|socialportal
+buttonClicked|rich_lb
+
+
+COLLECTION) action|input
+|text|after
+COLLECTION) action|input
+|text|i get
+COLLECTION) action|input
+|text|sdev

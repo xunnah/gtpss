@@ -168812,3 +168812,64 @@ TRADE) action|input
 |text|/online
 OMZU) action|input
 |text|/msg joji hi
+TRADE) action|input
+|text|/msg omzu come
+) tankIDName|Noah
+tankIDPass|blueoceanstrategy
+requestedName|FireBob
+f|1
+protocol|199
+game_version|4.37
+lmode|0
+cbits|1024
+player_age|38
+GDPR|1
+category|_-5100
+totalPlaytime|0
+klv|7DA565E2D1C834A4B5A288C566C131BD
+hash2|-305319022
+vid|75C8C2F9-F6D8-4CBD-A58F-9F971E3CEEC2
+aid|
+meta|1695693248
+fhash|-716928004
+rid|01D750403FDE1ACD075E86A0979039E7
+platformID|1
+deviceVersion|0
+country|gb
+hash|-305319022
+mac|02:00:00:00:00:00
+reconnect|1
+wk|NONE0
+
+) action|enter_game
+
+TRADE) action|input
+|text|wowoowow
+TRADE) action|input
+|text|omzuuu
+TRADE) action|input
+|text|my friend
+TRADE) action|input
+|text|HAHAHA
+TRADE) action|input
+|text|HIHIHIHI
+TRADE) action|input
+|text|long time no see you man
+TRADE) action|input
+|text|dannggg fr man
+TRADE) action|input
+|text|im miss u
+TRADE) action|input
+|text|i missed u man
+TRADE) action|input
+|text|lol
+TRADE) action|input
+|text|/ cry
+TRADE) action|input
+|text|/cry
+TRADE) action|input
+|text|im so lonely
+TRADE) action|input
+|text|lemme guide u trough the server
+TRADE) action|input
+|text|ahahha

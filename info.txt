@@ -171481,3 +171481,77 @@ SET) action|info
 
 SET) action|input
 |text|rip
+SET) action|input
+|text|
+SET) action|dialog_return
+dialog_name|continue
+itemID|11758|
+
+SET) action|drop
+|itemID|11758
+
+SET) action|dialog_return
+dialog_name|drop_item
+itemID|11758|
+count|30
+
+SET) action|input
+|text|give pwing
+SET) action|input
+|text|ez
+SET) action|drop
+|itemID|1796
+
+SET) action|dialog_return
+dialog_name|drop_item
+itemID|1796|
+count|49
+
+SET) action|input
+|text|
+SET) action|input
+|text|buy
+SET) action|dialog_return
+dialog_name|vending
+tilex|44|
+tiley|29|
+expectprice|100|
+expectitem|11758|
+buycount|49
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|44|
+tiley|29|
+verify|1|
+buycount|49|
+expectprice|100|
+expectitem|11758|
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|44|
+tiley|29|
+expectprice|100|
+expectitem|11758|
+buycount|200
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|44|
+tiley|29|
+verify|1|
+buycount|200|
+expectprice|100|
+expectitem|11758|
+
+SET) action|drop
+|itemID|11758
+
+SET) action|dialog_return
+dialog_name|drop_item
+itemID|11758|
+count|80
+
+SET) action|input
+|text|bvig :

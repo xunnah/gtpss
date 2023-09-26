@@ -173230,3 +173230,46 @@ buycount|1|
 expectprice|150|
 expectitem|11050|
 
+COLLECTION) action|input
+|text|W
+COLLECTION) action|input
+|text|W
+COLLECTION) action|input
+|text|ngl
+COLLECTION) action|input
+|text|worth the 24bgl
+COLLECTION) action|input
+|text|24bgl
+COLLECTION) action|input
+|text|88dls
+COLLECTION) action|input
+|text|6pw is atleast
+COLLECTION) action|input
+|text|50bgl
+COLLECTION) action|input
+|text|total
+COLLECTION) action|input
+|text|once this server
+COLLECTION) action|input
+|text|famous
+COLLECTION) action|input
+|text|50/2
+COLLECTION) action|input
+|text|25 each
+COLLECTION) action|input
+|text|+ other items
+COLLECTION) action|friends
+delay|0
+
+COLLECTION) action|dialog_return
+dialog_name|socialportal
+buttonClicked|showguild
+
+
+COLLECTION) action|input
+|text|2 ghc 7 thigma
+COLLECTION) action|dialog_return
+dialog_name|guildmembers
+buttonClicked|Repe
+
+

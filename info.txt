@@ -169606,3 +169606,47 @@ buycount|1|
 expectprice|250|
 expectitem|13710|
 
+BFG) action|dialog_return
+dialog_name|itemsucker_block
+tilex|8|
+tiley|49|
+buttonClicked|getplantationdevice
+
+
+BFG) action|wrench
+|netid|1
+
+BFG) action|dialog_return
+dialog_name|popup
+buttonClicked|cheat_menunew
+
+
+BFG) action|dialog_return
+dialog_name|dialog_cheat_menu
+checkbox_cheat_autofarm|1
+checkbox_cheat_autocollect|1
+checkbox_cheat_antibounce|0
+checkbox_cheat_speed|0
+checkbox_cheat_jump|0
+checkbox_cheat_kick|0
+checkbox_cheat_ban|0
+checkbox_cheat_hideother|0
+checkbox_cheat_hidechat|0
+checkbox_cheat_fastpull|0
+checkbox_cheat_fastdrop|0
+checkbox_cheat_fasttrash|0
+checkbox_cheat_fastspin|0
+text_input_spam_delay|3
+text_input_spam_chat|`cBest Server
+checkbox_cheat_spam|0
+
+BFG) action|dialog_return
+dialog_name|itemsucker_block
+tilex|9|
+tiley|49|
+buttonClicked|getplantationdevice
+
+
+BFG) action|store
+location|gem
+

@@ -173745,3 +173745,118 @@ dialog_name|drop_item
 itemID|1674|
 count|5
 
+COLLECTION) action|drop
+|itemID|1970
+
+COLLECTION) action|dialog_return
+dialog_name|drop_item
+itemID|1970|
+count|1
+
+COLLECTION) action|drop
+|itemID|1970
+
+COLLECTION) action|dialog_return
+dialog_name|drop_item
+itemID|1970|
+count|1
+
+COLLECTION) action|drop
+|itemID|11318
+
+COLLECTION) action|drop
+|itemID|1460
+
+COLLECTION) action|dialog_return
+dialog_name|drop_item
+itemID|1460|
+count|2
+
+COLLECTION) action|dialog_return
+dialog_name|drop_item
+itemID|11318|
+count|3
+
+COLLECTION) action|drop
+|itemID|8944
+
+COLLECTION) action|dialog_return
+dialog_name|drop_item
+itemID|8944|
+count|3
+
+COLLECTION) action|drop
+|itemID|11884
+
+COLLECTION) action|dialog_return
+dialog_name|drop_item
+itemID|11884|
+count|3
+
+COLLECTION) action|drop
+|itemID|10388
+
+COLLECTION) action|dialog_return
+dialog_name|drop_item
+itemID|10388|
+count|1
+
+COLLECTION) action|drop
+|itemID|8944
+
+COLLECTION) action|drop
+|itemID|8944
+
+COLLECTION) action|dialog_return
+dialog_name|drop_item
+itemID|8944|
+count|3
+
+COLLECTION) action|drop
+|itemID|9758
+
+COLLECTION) action|dialog_return
+dialog_name|drop_item
+itemID|9758|
+count|1
+
+COLLECTION) action|drop
+|itemID|9758
+
+COLLECTION) action|dialog_return
+dialog_name|drop_item
+itemID|9758|
+count|1
+
+COLLECTION) action|drop
+|itemID|11118
+
+COLLECTION) action|dialog_return
+dialog_name|drop_item
+itemID|11118|
+count|2
+
+COLLECTION) action|drop
+|itemID|9344
+
+COLLECTION) action|dialog_return
+dialog_name|drop_item
+itemID|9344|
+count|1
+
+COLLECTION) action|drop
+|itemID|9446
+
+COLLECTION) action|dialog_return
+dialog_name|drop_item
+itemID|9446|
+count|5
+
+COLLECTION) action|drop
+|itemID|10748
+
+COLLECTION) action|dialog_return
+dialog_name|drop_item
+itemID|10748|
+count|2
+

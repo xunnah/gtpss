@@ -170648,3 +170648,54 @@ buttonClicked|opop_item_7188
 BFG) action|friends
 delay|0
 
+BFG) action|dialog_return
+dialog_name|socialportal
+buttonClicked|systemcoin
+
+
+BFG) action|dialog_return
+dialog_name|
+buttonClicked|opop_price_7188
+
+
+BFG) action|dialog_return
+dialog_name|
+buttonClicked|opop_item_7188
+
+
+BFG) action|friends
+delay|0
+
+BFG) action|dialog_return
+dialog_name|socialportal
+buttonClicked|systemcoin
+
+
+BFG) action|dialog_return
+dialog_name|
+buttonClicked|opop_price_7188
+
+
+BFG) action|dialog_return
+dialog_name|
+buttonClicked|opop_item_7188
+
+
+BFG) action|friends
+delay|0
+
+BFG) action|dialog_return
+dialog_name|socialportal
+buttonClicked|systemcoin
+
+
+BFG) action|dialog_return
+dialog_name|
+buttonClicked|opop_price_7188
+
+
+BFG) action|dialog_return
+dialog_name|
+buttonClicked|opop_item_7188
+
+

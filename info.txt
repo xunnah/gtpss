@@ -169044,3 +169044,23 @@ buttonClicked|back_to_gscan
 
 searchName|
 
+CAR) action|friends
+delay|0
+
+CAR) action|dialog_return
+dialog_name|socialportal
+buttonClicked|systemcoin
+
+
+SET) action|input
+|text|idk how much but its way cheaper than svps i think
+SET) action|input
+|text|cuz the server havent really realease to the public yet
+SET) action|input
+|text|okay
+SET) action|input
+|text|i hope this server succes
+SET) action|input
+|text|YES I HOPE SOO
+SET) action|input
+|text|yap

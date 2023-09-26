@@ -167986,3 +167986,6 @@ dialog_name|
 buttonClicked|chc0
 
 
+CAR) action|drop
+|itemID|1796
+

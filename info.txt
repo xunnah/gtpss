@@ -168611,3 +168611,22 @@ dialog_name|
 buttonClicked|chc0
 
 
+CAR) action|friends
+delay|0
+
+CAR) action|wrench
+|netid|1
+
+CAR) action|dialog_return
+dialog_name|statsblock
+buttonClicked|floatingItems
+
+isStatsWorldBlockUsableByPublic|0
+isStatsFloatingItemsUsableByPublic|0
+
+CAR) action|dialog_return
+dialog_name|statsblock
+buttonClicked|back_to_gscan
+
+searchName|
+

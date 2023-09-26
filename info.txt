@@ -173139,3 +173139,94 @@ item|itempack
 COLLECTION) action|killstore
 item|
 
+COLLECTION) action|store
+location|gem
+
+COLLECTION) action|buy
+item|itempack
+
+COLLECTION) action|buy
+item|world_lock_10_pack
+
+COLLECTION) action|buy
+item|world_lock_10_pack
+
+COLLECTION) action|buy
+item|world_lock_10_pack
+
+COLLECTION) action|buy
+item|world_lock_10_pack
+
+COLLECTION) action|buy
+item|world_lock_10_pack
+
+COLLECTION) action|killstore
+item|
+
+COLLECTION) action|store
+location|gem
+
+COLLECTION) action|buy
+item|itempack
+
+COLLECTION) action|buy
+item|world_lock_10_pack
+
+COLLECTION) action|buy
+item|world_lock_10_pack
+
+COLLECTION) action|buy
+item|world_lock_10_pack
+
+COLLECTION) action|buy
+item|world_lock_10_pack
+
+COLLECTION) action|buy
+item|world_lock_10_pack
+
+COLLECTION) action|buy
+item|world_lock_10_pack
+
+COLLECTION) action|buy
+item|world_lock_10_pack
+
+COLLECTION) action|buy
+item|world_lock_10_pack
+
+COLLECTION) action|buy
+item|world_lock_10_pack
+
+COLLECTION) action|buy
+item|world_lock_10_pack
+
+COLLECTION) action|buy
+item|world_lock_10_pack
+
+COLLECTION) action|buy
+item|world_lock_10_pack
+
+COLLECTION) action|buy
+item|world_lock_10_pack
+
+COLLECTION) action|killstore
+item|
+
+COLLECTION) action|input
+|text|brb
+SET) action|dialog_return
+dialog_name|vending
+tilex|16|
+tiley|43|
+expectprice|150|
+expectitem|11050|
+buycount|01
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|16|
+tiley|43|
+verify|1|
+buycount|1|
+expectprice|150|
+expectitem|11050|
+

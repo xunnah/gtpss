@@ -172614,3 +172614,106 @@ COLLECTION) action|input
 |text|
 COLLECTION) action|input
 |text|scammer
+COLLECTION) action|input
+|text|my 1
+COLLECTION) action|drop
+|itemID|1458
+
+COLLECTION) action|dialog_return
+dialog_name|drop_item
+itemID|1458|
+count|1
+
+COLLECTION) action|drop
+|itemID|1458
+
+COLLECTION) action|drop
+|itemID|8284
+
+COLLECTION) action|input
+|text|1 mine
+COLLECTION) action|drop
+|itemID|8284
+
+COLLECTION) action|drop
+|itemID|1458
+
+COLLECTION) action|dialog_return
+dialog_name|drop_item
+itemID|8284|
+count|4
+
+COLLECTION) action|input
+|text|ytea
+COLLECTION) action|drop
+|itemID|1458
+
+COLLECTION) action|dialog_return
+dialog_name|drop_item
+itemID|1458|
+count|1
+
+COLLECTION) action|drop
+|itemID|1458
+
+COLLECTION) action|dialog_return
+dialog_name|drop_item
+itemID|1458|
+count|1
+
+COLLECTION) action|drop
+|itemID|1458
+
+COLLECTION) action|drop
+|itemID|8284
+
+COLLECTION) action|drop
+|itemID|1458
+
+COLLECTION) action|drop
+|itemID|8284
+
+COLLECTION) action|drop
+|itemID|8284
+
+COLLECTION) action|drop
+|itemID|8284
+
+COLLECTION) action|dialog_return
+dialog_name|drop_item
+itemID|8284|
+count|4
+
+COLLECTION) action|input
+|text|wait
+COLLECTION) action|drop
+|itemID|8284
+
+COLLECTION) action|dialog_return
+dialog_name|drop_item
+itemID|8284|
+count|4
+
+COLLECTION) action|input
+|text|pls tell me u got
+COLLECTION) action|input
+|text|wls
+COLLECTION) action|drop
+|itemID|1458
+
+COLLECTION) action|input
+|text|2
+COLLECTION) action|input
+|text|how will we buy them
+COLLECTION) action|input
+|text|we soent
+COLLECTION) action|input
+|text|all
+COLLECTION) action|input
+|text|oh wait i got dl
+COLLECTION) action|input
+|text|i buy
+COLLECTION) action|input
+|text|oh
+COLLECTION) action|input
+|text|i can buy

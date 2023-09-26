@@ -167788,3 +167788,16 @@ SHOP) action|input
 |text|/summon Car
 SHOP) action|input
 |text|/comeall
+SHOP) action|input
+|text|/onlined
+BFG) action|input
+|text|/info car
+BFG) action|dialog_return
+dialog_name|punish_view
+buttonClicked|view_inventory
+
+reason|
+
+BFG) action|store
+location|gem
+

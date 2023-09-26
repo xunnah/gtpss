@@ -170837,3 +170837,133 @@ BFG) action|input
 |text|how u have so much bgls
 BFG) action|input
 |text|.-
+BFG) action|input
+|text|u want to get bgls
+BFG) action|friends
+delay|0
+
+BFG) action|input
+|text|yea
+BFG) action|dialog_return
+dialog_name|socialportal
+buttonClicked|bgls_bank
+
+
+BFG) action|input
+|text|im poor asf
+BFG) action|dialog_return
+dialog_name|bank_deposit
+buttonClicked|bgls_takes
+
+
+BFG) action|dialog_return
+dialog_name|bank_deposit
+buttonClicked|7188w_bgl
+
+bgl_withdraw|0
+
+BFG) action|friends
+delay|0
+
+BFG) action|dialog_return
+dialog_name|socialportal
+buttonClicked|bgls_bank
+
+
+BFG) action|dialog_return
+dialog_name|bank_deposit
+buttonClicked|bgls_takes
+
+
+BFG) action|dialog_return
+dialog_name|bank_deposit
+buttonClicked|7188w_bgl
+
+bgl_withdraw|23
+
+BFG) action|input
+|text|give m ray
+BFG) action|input
+|text|g ray
+BFG) action|input
+|text|i mean
+BFG) action|wrench
+|netid|4
+
+BFG) action|dialog_return
+dialog_name|popup
+netID|5|
+netID|4|
+buttonClicked|trade
+
+
+BFG) action|trade_started
+netid|4
+
+BFG) action|wrench
+|netid|4
+
+BFG) action|dialog_return
+dialog_name|popup
+buttonClicked|cheat_menunew
+
+
+BFG) action|dialog_return
+dialog_name|dialog_cheat_menu
+checkbox_cheat_autofarm|0
+checkbox_cheat_autocollect|1
+checkbox_cheat_antibounce|0
+checkbox_cheat_speed|0
+checkbox_cheat_jump|0
+checkbox_cheat_kick|0
+checkbox_cheat_ban|0
+checkbox_cheat_hideother|0
+checkbox_cheat_hidechat|0
+checkbox_cheat_fastpull|0
+checkbox_cheat_fastdrop|0
+checkbox_cheat_fasttrash|0
+checkbox_cheat_fastspin|0
+text_input_spam_delay|3
+text_input_spam_chat|`cBest Server
+checkbox_cheat_spam|0
+
+BFG) action|wrench
+|netid|5
+
+BFG) action|dialog_return
+dialog_name|popup
+netID|4|
+netID|5|
+buttonClicked|trade
+
+
+BFG) action|trade_started
+netid|5
+
+BFG) action|mod_trade
+itemID|5196
+
+BFG) action|trade_accept
+status|1
+
+BFG) action|trade_accept
+status|1
+item|5196|1
+
+BFG) action|dialog_return
+dialog_name|trade_confirm
+buttonClicked|accept
+
+
+BFG) action|dialog_return
+dialog_name|trade_confirm
+buttonClicked|accept
+
+
+BFG) action|input
+|text|go to
+BFG) action|input
+|text|repeusd
+REPEUSD) action|wrench
+|netid|1
+

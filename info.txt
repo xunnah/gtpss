@@ -171905,3 +171905,48 @@ dialog_name|drop_item
 itemID|11758|
 count|100
 
+SET) action|input
+|text|W
+SET) action|input
+|text|i have alrd
+SET) action|input
+|text|3 pw
+SET) action|input
+|text|:D
+SET) action|dialog_return
+dialog_name|vending
+tilex|44|
+tiley|29|
+expectprice|100|
+expectitem|11758|
+buycount|200
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|44|
+tiley|29|
+verify|1|
+buycount|200|
+expectprice|100|
+expectitem|11758|
+
+SET) action|input
+|text|so we got 4 p wings
+SET) action|input
+|text|yeaaaa
+SET) action|input
+|text|6 ????????????
+SET) action|input
+|text|i have 3
+SET) action|drop
+|itemID|11758
+
+SET) action|dialog_return
+dialog_name|drop_item
+itemID|11758|
+count|100
+
+SET) action|input
+|text|trust we get 6
+SET) action|input
+|text|ill trust

@@ -172148,3 +172148,102 @@ count|200
 7) action|drop
 |itemID|11756
 
+7) action|drop
+|itemID|11756
+
+7) action|store
+location|gem
+
+7) action|drop
+|itemID|11756
+
+7) action|drop
+|itemID|11756
+
+7) action|drop
+|itemID|11756
+
+7) action|storenavigate
+item|main
+
+7) action|buy
+item|locks
+
+7) action|buy
+item|upgrade_backpack
+
+7) action|buy
+item|upgrade_backpack
+
+7) action|dialog_return
+dialog_name|displayblock
+tilex|35|
+tiley|50|
+
+7) action|buy
+item|upgrade_backpack
+
+7) action|buy
+item|upgrade_backpack
+
+7) action|dialog_return
+dialog_name|displayblock
+tilex|36|
+tiley|49|
+
+7) action|buy
+item|upgrade_backpack
+
+7) action|dialog_return
+dialog_name|displayblock
+tilex|37|
+tiley|50|
+
+7) action|buy
+item|upgrade_backpack
+
+7) action|dialog_return
+dialog_name|displayblock
+tilex|40|
+tiley|49|
+
+7) action|buy
+item|upgrade_backpack
+
+7) action|dialog_return
+dialog_name|displayblock
+tilex|41|
+tiley|50|
+
+7) action|killstore
+item|
+
+7) action|dialog_return
+dialog_name|displayblock
+tilex|31|
+tiley|50|
+
+7) action|dialog_return
+dialog_name|displayblock
+tilex|30|
+tiley|49|
+
+7) action|dialog_return
+dialog_name|displayblock
+tilex|32|
+tiley|49|
+
+7) action|dialog_return
+dialog_name|displayblock
+tilex|30|
+tiley|51|
+
+7) action|dialog_return
+dialog_name|displayblock
+tilex|32|
+tiley|51|
+
+7) action|input
+|text|go to
+7) action|input
+|text|collection

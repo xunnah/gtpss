@@ -168889,3 +168889,23 @@ CARNIVAL) action|input
 |text|wow
 CARNIVAL) action|input
 |text|must lvl wp
+CARNIVAL) action|input
+|text|oh u need lvl 20
+CARNIVAL) action|input
+|text|20
+CARNIVAL) action|input
+|text|lol
+CARNIVAL) action|input
+|text|/fp
+CARNIVAL) action|input
+|text|lol
+CARNIVAL) action|input
+|text|ok so if u want to buy block u can go to shop
+CARNIVAL) action|input
+|text|okee
+CARNIVAL) action|input
+|text|u 
+CARNIVAL) action|input
+|text|if u want wing shoes or hand items
+CARNIVAL) action|input
+|text|u can buy it in set

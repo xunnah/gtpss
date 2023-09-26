@@ -172096,3 +172096,55 @@ dialog_name|popup
 buttonClicked|cheat_menunew
 
 
+SET) action|dialog_return
+dialog_name|dialog_cheat_menu
+checkbox_cheat_autofarm|0
+checkbox_cheat_autocollect|1
+checkbox_cheat_antibounce|0
+checkbox_cheat_speed|0
+checkbox_cheat_jump|0
+checkbox_cheat_kick|0
+checkbox_cheat_ban|0
+checkbox_cheat_hideother|0
+checkbox_cheat_hidechat|0
+checkbox_cheat_fastpull|0
+checkbox_cheat_fastdrop|1
+checkbox_cheat_fasttrash|0
+checkbox_cheat_fastspin|0
+text_input_spam_delay|3
+text_input_spam_chat|`c
+checkbox_cheat_spam|0
+
+SET) action|input
+|text|go 7
+SET) action|input
+|text|get this
+7) action|drop
+|itemID|11756
+
+7) action|drop
+|itemID|11756
+
+7) action|drop
+|itemID|11756
+
+7) action|dialog_return
+dialog_name|drop_item
+itemID|11756|
+count|200
+
+7) action|drop
+|itemID|11756
+
+7) action|drop
+|itemID|11756
+
+7) action|drop
+|itemID|11756
+
+7) action|drop
+|itemID|11756
+
+7) action|drop
+|itemID|11756
+

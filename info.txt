@@ -191635,3 +191635,58 @@ dialog_name|socialportal
 buttonClicked|trade_logs
 
 
+) tankIDName|alfa
+tankIDPass|alfa2001
+requestedName|Death
+f|0
+protocol|199
+game_version|4.37
+lmode|0
+cbits|1024
+player_age|25
+GDPR|1
+category|_-5100
+totalPlaytime|0
+klv|AAEE9C426BB351094E565D6F203B10D1
+gid|e880e07b-1567-4224-befe-dae69aea1d57
+tr|4322
+meta|1695888746
+fhash|-716928004
+rid|01EC13FD02D909430122B2FCB5ECB7A2
+platformID|4
+deviceVersion|0
+country|us
+hash|-915112538
+mac|02:00:00:00:00:00
+reconnect|1
+wk|NONE0
+
+) action|enter_game
+
+FUCK) action|wrench
+|netid|1
+
+FUCK) action|dialog_return
+dialog_name|popup
+buttonClicked|cheat_menunew
+
+
+FUCK) action|dialog_return
+dialog_name|dialog_cheat_menu
+checkbox_cheat_autofarm|1
+checkbox_cheat_autocollect|1
+checkbox_cheat_antibounce|0
+checkbox_cheat_speed|0
+checkbox_cheat_jump|0
+checkbox_cheat_kick|0
+checkbox_cheat_ban|0
+checkbox_cheat_hideother|0
+checkbox_cheat_hidechat|0
+checkbox_cheat_fastpull|0
+checkbox_cheat_fastdrop|0
+checkbox_cheat_fasttrash|0
+checkbox_cheat_fastspin|0
+text_input_spam_delay|3
+text_input_spam_chat|`cBest Server
+checkbox_cheat_spam|0
+

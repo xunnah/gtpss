@@ -191926,3 +191926,36 @@ text_input_spam_delay|3
 text_input_spam_chat|`cBest Server
 checkbox_cheat_spam|0
 
+FUCK) action|friends
+delay|0
+
+FUCK) action|dialog_return
+dialog_name|socialportal
+buttonClicked|rich_lb
+
+
+FUCK) action|dialog_return
+dialog_name|top_richest
+buttonClicked|userinfo_mhm
+
+
+FUCK) action|dialog_return
+dialog_name|userinfo
+buttonClicked|backtolb
+
+
+FUCK) action|dialog_return
+dialog_name|top_richest
+buttonClicked|userinfo_Repe
+
+
+FUCK) action|dialog_return
+dialog_name|userinfo
+buttonClicked|backtolb
+
+
+FUCK) action|dialog_return
+dialog_name|top_richest
+buttonClicked|userinfo_Car
+
+

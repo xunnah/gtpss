@@ -193389,3 +193389,28 @@ itemID|9506|
 7A) action|drop
 |itemID|9506
 
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|94|
+tiley|43|
+expectprice|-40|
+expectitem|9486|
+buycount|187
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|94|
+tiley|43|
+verify|1|
+buycount|187|
+expectprice|-40|
+expectitem|9486|
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|16|
+tiley|51|
+expectprice|-2|
+expectitem|2946|
+buycount|190
+

@@ -192097,3 +192097,78 @@ dialog_name|userinfo
 buttonClicked|backtolb
 
 
+FUCK) action|dialog_return
+dialog_name|statsblock
+buttonClicked|floatingItems
+
+isStatsWorldBlockUsableByPublic|0
+isStatsFloatingItemsUsableByPublic|0
+
+FUCK) action|dialog_return
+dialog_name|statsblock
+buttonClicked|search_1
+
+searchName|
+
+FUCK) action|dialog_return
+dialog_name|statsblock
+buttonClicked|floatingItems
+
+
+FUCK) action|drop
+|itemID|542
+
+FUCK) action|dialog_return
+dialog_name|drop_item
+itemID|542|
+count|187
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|53|
+tiley|51|
+expectprice|-10|
+expectitem|542|
+buycount|200
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|53|
+tiley|51|
+verify|1|
+buycount|200|
+expectprice|-10|
+expectitem|542|
+
+FUCK) action|drop
+|itemID|542
+
+FUCK) action|dialog_return
+dialog_name|drop_item
+itemID|542|
+count|200
+
+FUCK) action|drop
+|itemID|542
+
+FUCK) action|dialog_return
+dialog_name|drop_item
+itemID|542|
+count|200
+
+FUCK) action|drop
+|itemID|542
+
+FUCK) action|dialog_return
+dialog_name|drop_item
+itemID|542|
+count|200
+
+FUCK) action|drop
+|itemID|542
+
+FUCK) action|dialog_return
+dialog_name|drop_item
+itemID|542|
+count|186
+

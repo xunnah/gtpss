@@ -191793,3 +191793,12 @@ buycount|1|
 expectprice|20|
 expectitem|1490|
 
+VENDINK) action|dialog_return
+dialog_name|blast
+itemID|1402|
+name|ashop
+
+ASHOP) action|dialog_return
+dialog_name|world_swap
+name_box|vends
+

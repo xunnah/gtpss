@@ -193560,3 +193560,42 @@ checkbox_cheat_spam|0
 7) action|drop
 |itemID|11118
 
+7) action|drop
+|itemID|9036
+
+7) action|drop
+|itemID|10388
+
+7) action|drop
+|itemID|8944
+
+7) action|drop
+|itemID|10330
+
+7) action|drop
+|itemID|5480
+
+7) action|drop
+|itemID|4664
+
+7) action|drop
+|itemID|1068
+
+7) action|drop
+|itemID|5754
+
+7) action|drop
+|itemID|9446
+
+7) action|drop
+|itemID|10252
+
+7) action|drop
+|itemID|10026
+
+7) action|drop
+|itemID|11884
+
+7) action|drop
+|itemID|10748
+

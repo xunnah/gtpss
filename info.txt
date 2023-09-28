@@ -193164,3 +193164,48 @@ door_target|7
 door_id|
 checkbox_locked|1
 
+GIRL) action|dialog_return
+dialog_name|door_edit
+tilex|90|
+tiley|36|
+door_name|
+door_target|7
+door_id|
+checkbox_locked|1
+
+BOY) action|dialog_return
+dialog_name|door_edit
+tilex|53|
+tiley|36|
+door_name|
+door_target|7
+door_id|
+checkbox_locked|1
+
+WOMEN) action|dialog_return
+dialog_name|door_edit
+tilex|56|
+tiley|36|
+door_name|
+door_target|7
+door_id|
+checkbox_locked|1
+
+MAN) action|dialog_return
+dialog_name|door_edit
+tilex|63|
+tiley|36|
+door_name|
+door_target|7
+door_id|
+checkbox_locked|1
+
+SEX) action|dialog_return
+dialog_name|door_edit
+tilex|1|
+tiley|52|
+door_name|
+door_target|7
+door_id|
+checkbox_locked|1
+

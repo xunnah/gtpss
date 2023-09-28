@@ -193617,3 +193617,9 @@ checkbox_cheat_spam|0
 7) action|drop
 |itemID|1068
 
+7) action|dialog_return
+dialog_name|sign_edit
+tilex|45|
+tiley|48|
+sign_text|collection soon
+

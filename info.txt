@@ -194582,3 +194582,11 @@ FUCK) action|input
 |text|welp np
 FUCK) action|input
 |text|brb
+FUCK) action|input
+|text|ight
+FUCK) action|store
+location|gem
+
+FUCK) action|buy
+item|locks
+

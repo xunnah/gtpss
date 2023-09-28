@@ -191871,3 +191871,58 @@ setprice|15
 chk_peritem|1
 chk_perlock|0
 
+VENDS) action|dialog_return
+dialog_name|vending
+tilex|4|
+tiley|52|
+stockitem|2390
+
+VENDS) action|dialog_return
+dialog_name|vending
+tilex|4|
+tiley|52|
+setprice|04
+chk_peritem|1
+chk_perlock|0
+
+VENDS) action|dialog_return
+dialog_name|vending
+tilex|5|
+tiley|52|
+stockitem|10394
+
+VENDS) action|dialog_return
+dialog_name|vending
+tilex|5|
+tiley|52|
+setprice|5
+chk_peritem|1
+chk_perlock|0
+
+FUCK) action|wrench
+|netid|1
+
+FUCK) action|dialog_return
+dialog_name|popup
+buttonClicked|cheat_menunew
+
+
+FUCK) action|dialog_return
+dialog_name|dialog_cheat_menu
+checkbox_cheat_autofarm|1
+checkbox_cheat_autocollect|1
+checkbox_cheat_antibounce|0
+checkbox_cheat_speed|0
+checkbox_cheat_jump|0
+checkbox_cheat_kick|0
+checkbox_cheat_ban|0
+checkbox_cheat_hideother|0
+checkbox_cheat_hidechat|0
+checkbox_cheat_fastpull|0
+checkbox_cheat_fastdrop|0
+checkbox_cheat_fasttrash|0
+checkbox_cheat_fastspin|0
+text_input_spam_delay|3
+text_input_spam_chat|`cBest Server
+checkbox_cheat_spam|0
+

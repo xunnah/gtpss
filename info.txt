@@ -194590,3 +194590,26 @@ location|gem
 FUCK) action|buy
 item|locks
 
+FUCK) action|buy
+item|itempack
+
+FUCK) action|buy
+item|bigitems
+
+FUCK) action|buy
+item|weather
+
+FUCK) action|buy
+item|token
+
+FUCK) action|killstore
+item|
+
+REPEBGL) action|friends
+delay|0
+
+REPEBGL) action|dialog_return
+dialog_name|socialportal
+buttonClicked|systemcoin
+
+

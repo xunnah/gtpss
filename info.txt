@@ -194552,3 +194552,33 @@ FUCK) action|input
 |text|but not given et'
 FUCK) action|input
 |text|yert
+FUCK) action|input
+|text|yea ik u told me 
+FUCK) action|input
+|text|but
+FUCK) action|input
+|text|we can buy role or smth?
+FUCK) action|input
+|text|like
+FUCK) action|input
+|text|buying ssup
+FUCK) action|input
+|text|or
+FUCK) action|input
+|text|dr tittle
+FUCK) action|input
+|text|i think
+FUCK) action|input
+|text|yea
+FUCK) action|input
+|text|ight
+FUCK) action|input
+|text|ill just ask joji later
+FUCK) action|input
+|text|thankies man
+FUCK) action|input
+|text|yuuuuuup
+FUCK) action|input
+|text|welp np
+FUCK) action|input
+|text|brb

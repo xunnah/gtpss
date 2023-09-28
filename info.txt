@@ -191698,3 +191698,43 @@ buttonClicked|getplantationdevice
 
 chk_enablesucking|1
 
+VENDS) action|store
+location|gem
+
+VENDS) action|killstore
+item|
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|51|
+tiley|43|
+expectprice|15|
+expectitem|1402|
+buycount|01
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|51|
+tiley|43|
+verify|1|
+buycount|1|
+expectprice|15|
+expectitem|1402|
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|50|
+tiley|43|
+expectprice|10|
+expectitem|2580|
+buycount|01
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|50|
+tiley|43|
+verify|1|
+buycount|1|
+expectprice|10|
+expectitem|2580|
+

@@ -191146,3 +191146,15 @@ dialog_name|socialportal
 buttonClicked|showguild
 
 
+3X) action|dialog_return
+dialog_name|guildmembers
+buttonClicked|Repe
+
+
+3X) action|dialog_return
+dialog_name|guild_member_edit
+guildmemberid|Repe|
+guildmembername|Repe|
+buttonClicked|goto
+
+

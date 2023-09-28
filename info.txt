@@ -191690,3 +191690,11 @@ text_input_spam_delay|3
 text_input_spam_chat|`cBest Server
 checkbox_cheat_spam|0
 
+FUCK) action|dialog_return
+dialog_name|itemsucker_block
+tilex|2|
+tiley|51|
+buttonClicked|getplantationdevice
+
+chk_enablesucking|1
+

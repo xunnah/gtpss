@@ -194803,3 +194803,22 @@ SET) action|input
 |text|idk :D
 SET) action|input
 |text|ight ngahhaha
+SET) action|dialog_return
+dialog_name|vending
+tilex|44|
+tiley|29|
+expectprice|100|
+expectitem|11758|
+buycount|01
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|44|
+tiley|29|
+verify|1|
+buycount|1|
+expectprice|100|
+expectitem|11758|
+
+SET) action|input
+|text|imgoing to sets

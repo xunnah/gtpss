@@ -194505,3 +194505,50 @@ item|
 
 FUCK) action|input
 |text|i got 18mil
+FUCK) action|input
+|text|so hows ur pot
+FUCK) action|input
+|text|from 16k
+FUCK) action|input
+|text|danggg
+FUCK) action|input
+|text|
+FUCK) action|input
+|text|yea i saw u afk farm all day
+FUCK) action|input
+|text|xd
+FUCK) action|friends
+delay|0
+
+FUCK) action|dialog_return
+dialog_name|socialportal
+buttonClicked|rich_lb
+
+
+FUCK) action|friends
+delay|0
+
+FUCK) action|dialog_return
+dialog_name|socialportal
+buttonClicked|rich_lb
+
+
+FUCK) action|friends
+delay|0
+
+FUCK) action|dialog_return
+dialog_name|socialportal
+buttonClicked|systemcoin
+
+
+FUCK) action|trash
+|itemID|1796
+
+FUCK) action|input
+|text|so can we buy role in this server?
+FUCK) action|input
+|text|i alrd have
+FUCK) action|input
+|text|but not given et'
+FUCK) action|input
+|text|yert

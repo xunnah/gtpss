@@ -191580,3 +191580,58 @@ dialog_name|drop_item
 itemID|542|
 count|197
 
+FUCK) action|friends
+delay|0
+
+FUCK) action|dialog_return
+dialog_name|socialportal
+buttonClicked|systemcoin
+
+
+FUCK) action|dialog_return
+dialog_name|
+buttonClicked|chc0
+
+
+FUCK) action|friends
+delay|0
+
+FUCK) action|dialog_return
+dialog_name|socialportal
+buttonClicked|kitsystem
+
+
+FUCK) action|dialog_return
+dialog_name|
+buttonClicked|chc0
+
+
+FUCK) action|friends
+delay|0
+
+FUCK) action|dialog_return
+dialog_name|socialportal
+buttonClicked|bgls_bank
+
+
+FUCK) action|dialog_return
+dialog_name|bank_deposit
+buttonClicked|back
+
+
+FUCK) action|friends
+delay|0
+
+FUCK) action|dialog_return
+dialog_name|socialportal
+buttonClicked|blackgl
+
+
+FUCK) action|friends
+delay|0
+
+FUCK) action|dialog_return
+dialog_name|socialportal
+buttonClicked|trade_logs
+
+

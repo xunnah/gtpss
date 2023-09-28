@@ -194764,3 +194764,7 @@ buttonClicked|chc0
 LOCKE) action|wrench
 |netid|1
 
+SET) action|input
+|text|wsg
+SET) action|input
+|text|wsg man

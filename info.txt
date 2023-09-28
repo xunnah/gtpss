@@ -191959,3 +191959,93 @@ dialog_name|top_richest
 buttonClicked|userinfo_Car
 
 
+FUCK) action|dialog_return
+dialog_name|userinfo
+buttonClicked|backtolb
+
+
+FUCK) action|dialog_return
+dialog_name|top_richest
+buttonClicked|userinfo_Noah
+
+
+FUCK) action|dialog_return
+dialog_name|userinfo
+buttonClicked|backtolb
+
+
+FUCK) action|dialog_return
+dialog_name|top_richest
+buttonClicked|userinfo_al7mmadi
+
+
+FUCK) action|dialog_return
+dialog_name|userinfo
+buttonClicked|backtolb
+
+
+FUCK) action|dialog_return
+dialog_name|top_richest
+buttonClicked|userinfo_OMZU
+
+
+FUCK) action|dialog_return
+dialog_name|userinfo
+buttonClicked|backtolb
+
+
+FUCK) action|dialog_return
+dialog_name|top_richest
+buttonClicked|userinfo_Noah
+
+
+FUCK) action|dialog_return
+dialog_name|userinfo
+buttonClicked|backtolb
+
+
+FUCK) action|dialog_return
+dialog_name|top_richest
+buttonClicked|userinfo_Repe
+
+
+FUCK) action|dialog_return
+dialog_name|userinfo
+buttonClicked|backtolb
+
+
+FUCK) action|dialog_return
+dialog_name|top_richest
+buttonClicked|userinfo_mhm
+
+
+FUCK) action|dialog_return
+dialog_name|userinfo
+buttonClicked|backtolb
+
+
+FUCK) action|dialog_return
+dialog_name|top_richest
+buttonClicked|userinfo_alfa
+
+
+FUCK) action|dialog_return
+dialog_name|userinfo
+buttonClicked|backtolb
+
+
+FUCK) action|dialog_return
+dialog_name|top_richest
+buttonClicked|userinfo_Car
+
+
+FUCK) action|dialog_return
+dialog_name|userinfo
+buttonClicked|backtolb
+
+
+FUCK) action|dialog_return
+dialog_name|top_richest
+buttonClicked|userinfo_alfa
+
+

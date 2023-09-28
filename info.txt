@@ -193505,3 +193505,5 @@ dialog_name|drop_item
 itemID|1460|
 count|3
 
+7) action|input
+|text|(cry)(cry)(cry)(cry)(cry)(cry)(cry)(cry)(cry)(cry)(cry)

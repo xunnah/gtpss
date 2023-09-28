@@ -193128,3 +193128,39 @@ door_target|7
 door_id|
 checkbox_locked|1
 
+TROLL) action|dialog_return
+dialog_name|door_edit
+tilex|63|
+tiley|36|
+door_name|
+door_target|7
+door_id|
+checkbox_locked|1
+
+XD) action|dialog_return
+dialog_name|door_edit
+tilex|79|
+tiley|36|
+door_name|
+door_target|7
+door_id|
+checkbox_locked|1
+
+OH) action|dialog_return
+dialog_name|door_edit
+tilex|53|
+tiley|36|
+door_name|
+door_target|7
+door_id|
+checkbox_locked|1
+
+OMG) action|dialog_return
+dialog_name|door_edit
+tilex|74|
+tiley|36|
+door_name|
+door_target|7
+door_id|
+checkbox_locked|1
+

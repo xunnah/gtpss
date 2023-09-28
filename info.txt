@@ -191231,3 +191231,17 @@ dialog_name|statsblock
 buttonClicked|floatingItems
 
 
+FUCK) action|drop
+|itemID|11702
+
+FUCK) action|trash
+|itemID|2384
+
+FUCK) action|dialog_return
+dialog_name|trash_item
+itemID|2384|
+count|05
+
+FUCK) action|drop
+|itemID|3396
+

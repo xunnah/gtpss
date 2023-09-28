@@ -194465,3 +194465,43 @@ wk|NONE0
 
 ) action|enter_game
 
+FUCK) action|input
+|text|wsppp
+FUCK) action|input
+|text|wsp dude
+FUCK) action|input
+|text|wsg wsg
+FUCK) action|wrench
+|netid|1
+
+FUCK) action|dialog_return
+dialog_name|popup
+netID|2|
+netID|1|
+buttonClicked|pull
+
+
+FUCK) action|input
+|text|wsg yo
+FUCK) action|input
+|text|5m left
+FUCK) action|input
+|text|to gray
+FUCK) action|input
+|text|fr
+FUCK) action|input
+|text|xd
+FUCK) action|store
+location|gem
+
+FUCK) action|buy
+item|locks
+
+FUCK) action|buy
+item|itempack
+
+FUCK) action|killstore
+item|
+
+FUCK) action|input
+|text|i got 18mil

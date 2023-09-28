@@ -193414,3 +193414,20 @@ expectprice|-2|
 expectitem|2946|
 buycount|190
 
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|20|
+tiley|51|
+expectprice|-2|
+expectitem|10552|
+buycount|120
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|20|
+tiley|51|
+verify|1|
+buycount|120|
+expectprice|-2|
+expectitem|10552|
+

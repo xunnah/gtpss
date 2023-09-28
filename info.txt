@@ -191829,3 +191829,45 @@ wk|NONE0
 
 ) action|enter_game
 
+VENDS) action|dialog_return
+dialog_name|vending
+tilex|1|
+tiley|52|
+stockitem|10754
+
+VENDS) action|dialog_return
+dialog_name|vending
+tilex|1|
+tiley|52|
+setprice|10
+chk_peritem|1
+chk_perlock|0
+
+VENDS) action|dialog_return
+dialog_name|vending
+tilex|2|
+tiley|52|
+stockitem|2574
+
+VENDS) action|dialog_return
+dialog_name|vending
+tilex|2|
+tiley|52|
+setprice|05
+chk_peritem|1
+chk_perlock|0
+
+VENDS) action|dialog_return
+dialog_name|vending
+tilex|3|
+tiley|52|
+stockitem|10774
+
+VENDS) action|dialog_return
+dialog_name|vending
+tilex|3|
+tiley|52|
+setprice|15
+chk_peritem|1
+chk_perlock|0
+

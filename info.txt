@@ -193345,3 +193345,27 @@ checkbox_cheat_spam|0
 7A) action|drop
 |itemID|9506
 
+7A) action|drop
+|itemID|2574
+
+7A) action|drop
+|itemID|11756
+
+7A) action|drop
+|itemID|9506
+
+7A) action|drop
+|itemID|2574
+
+7A) action|drop
+|itemID|11756
+
+7A) action|drop
+|itemID|9506
+
+7A) action|drop
+|itemID|2574
+
+7A) action|drop
+|itemID|11756
+

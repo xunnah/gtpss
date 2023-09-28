@@ -194732,3 +194732,32 @@ dialog_name|friends
 buttonClicked|back
 
 
+BFG) action|dialog_return
+dialog_name|socialportal
+buttonClicked|rich_lb
+
+
+BFG) action|dialog_return
+dialog_name|top_richest
+buttonClicked|userinfo_Car
+
+
+BFG) action|friends
+delay|0
+
+BFG) action|friends
+delay|0
+
+BFG) action|friends
+delay|0
+
+BFG) action|dialog_return
+dialog_name|socialportal
+buttonClicked|kitsystem
+
+
+BFG) action|dialog_return
+dialog_name|
+buttonClicked|chc0
+
+

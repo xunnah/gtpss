@@ -193443,3 +193443,15 @@ tilex|44|
 tiley|48|
 replace1|1460
 
+7) action|dialog_return
+dialog_name|dispshelf
+tilex|44|
+tiley|48|
+replace3|1460
+
+7) action|dialog_return
+dialog_name|dispshelf
+tilex|44|
+tiley|48|
+replace4|1460
+

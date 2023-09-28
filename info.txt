@@ -191158,3 +191158,20 @@ guildmembername|Repe|
 buttonClicked|goto
 
 
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|29|
+tiley|51|
+expectprice|-5|
+expectitem|1474|
+buycount|10
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|29|
+tiley|51|
+verify|1|
+buycount|10|
+expectprice|-5|
+expectitem|1474|
+

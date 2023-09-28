@@ -193047,3 +193047,39 @@ tilex|48|
 tiley|36|
 sign_text|stuff at 7 msg me when need
 
+3) action|dialog_return
+dialog_name|door_edit
+tilex|18|
+tiley|36|
+door_name|
+door_target|7
+door_id|
+checkbox_locked|1
+
+4) action|dialog_return
+dialog_name|door_edit
+tilex|75|
+tiley|36|
+door_name|
+door_target|7
+door_id|
+checkbox_locked|1
+
+5) action|dialog_return
+dialog_name|door_edit
+tilex|3|
+tiley|36|
+door_name|7
+door_target|7
+door_id|
+checkbox_locked|1
+
+6) action|dialog_return
+dialog_name|door_edit
+tilex|51|
+tiley|36|
+door_name|7
+door_target|7
+door_id|
+checkbox_locked|1
+

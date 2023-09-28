@@ -193239,3 +193239,21 @@ dialog_name|displayblock
 tilex|26|
 tiley|51|
 
+FUCK) action|dialog_return
+dialog_name|statsblock
+buttonClicked|floatingItems
+
+isStatsWorldBlockUsableByPublic|0
+isStatsFloatingItemsUsableByPublic|0
+
+FUCK) action|dialog_return
+dialog_name|statsblock
+buttonClicked|search_1
+
+searchName|
+
+FUCK) action|dialog_return
+dialog_name|statsblock
+buttonClicked|floatingItems
+
+

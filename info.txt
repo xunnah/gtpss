@@ -193277,3 +193277,29 @@ dialog_name|displayblock
 tilex|26|
 tiley|49|
 
+7) action|dialog_return
+dialog_name|sign_edit
+tilex|43|
+tiley|48|
+sign_text|`cMore Stairs on the left (cry)
+
+7) action|dialog_return
+dialog_name|sign_edit
+tilex|49|
+tiley|52|
+sign_text|`2Up ( collection ) `bLeft ( evil twins ) `6Right ( set's & weather's ) (evil)
+
+7) action|input
+|text|(evil)
+7) action|dialog_return
+dialog_name|sign_edit
+tilex|49|
+tiley|52|
+sign_text|`2Up ( collection ) `bLeft ( evil twins ) `6Right ( set's & weather's ) (pizza)
+
+7) action|dialog_return
+dialog_name|sign_edit
+tilex|45|
+tiley|52|
+sign_text|`4< Evil Twins > (evil)
+

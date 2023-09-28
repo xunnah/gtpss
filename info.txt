@@ -191738,3 +191738,58 @@ buycount|1|
 expectprice|10|
 expectitem|2580|
 
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|34|
+tiley|51|
+expectprice|11|
+expectitem|9268|
+buycount|5
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|34|
+tiley|51|
+verify|1|
+buycount|5|
+expectprice|11|
+expectitem|9268|
+
+SHOP) action|store
+location|gem
+
+SHOP) action|buy
+item|itempack
+
+SHOP) action|buy
+item|bigitems
+
+SHOP) action|buy
+item|weather
+
+SHOP) action|buy
+item|weather
+
+SHOP) action|buy
+item|token
+
+SHOP) action|killstore
+item|
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|18|
+tiley|47|
+expectprice|20|
+expectitem|1490|
+buycount|01
+
+SHOP) action|dialog_return
+dialog_name|vending
+tilex|18|
+tiley|47|
+verify|1|
+buycount|1|
+expectprice|20|
+expectitem|1490|
+

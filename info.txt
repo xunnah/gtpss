@@ -192914,3 +192914,51 @@ wk|B8140593B40027D5A93B32D673EC6007
 zf|1642511664
 ) action|enter_game
 
+3X) action|input
+|text|/msg repe
+3X) action|input
+|text|/msg repe yo
+BFG) action|input
+|text|/msg repe where u
+BFG) action|input
+|text|/msg joji where u
+BFG) action|input
+|text|/msg noah where u
+BFG) action|friends
+delay|0
+
+BFG) action|dialog_return
+dialog_name|socialportal
+buttonClicked|showfriend
+
+
+BFG) action|dialog_return
+dialog_name|friends
+buttonClicked|back
+
+
+BFG) action|dialog_return
+dialog_name|socialportal
+buttonClicked|showguild
+
+
+BFG) action|input
+|text|/msg alfa where u
+BFG) action|friends
+delay|0
+
+BFG) action|dialog_return
+dialog_name|socialportal
+buttonClicked|rich_lb
+
+
+BFG) action|dialog_return
+dialog_name|top_richest
+buttonClicked|userinfo_Repe
+
+
+BFG) action|dialog_return
+dialog_name|userinfo
+buttonClicked|backtolb
+
+

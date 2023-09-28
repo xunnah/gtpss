@@ -192962,3 +192962,46 @@ dialog_name|userinfo
 buttonClicked|backtolb
 
 
+BFG) action|friends
+delay|0
+
+BFG) action|dialog_return
+dialog_name|socialportal
+buttonClicked|showguild
+
+
+BFG) action|dialog_return
+dialog_name|guildmembers
+buttonClicked|Repe
+
+
+BFG) action|dialog_return
+dialog_name|guild_member_edit
+guildmemberid|Repe|
+guildmembername|Repe|
+buttonClicked|goto
+
+
+BFG) action|friends
+delay|0
+
+BFG) action|dialog_return
+dialog_name|socialportal
+buttonClicked|showguild
+
+
+BFG) action|dialog_return
+dialog_name|guildmembers
+buttonClicked|alfa
+
+
+BFG) action|dialog_return
+dialog_name|guild_member_edit
+guildmemberid|alfa|
+guildmembername|alfa|
+buttonClicked|goto
+
+
+FUCK) action|wrench
+|netid|1
+

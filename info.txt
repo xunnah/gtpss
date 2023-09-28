@@ -194671,3 +194671,27 @@ dialog_name|worlds_list
 buttonClicked|farmer_reward
 
 
+FUCK) action|dialog_return
+dialog_name|statsblock
+buttonClicked|floatingItems
+
+isStatsWorldBlockUsableByPublic|0
+isStatsFloatingItemsUsableByPublic|0
+
+FUCK) action|dialog_return
+dialog_name|statsblock
+buttonClicked|search_1
+
+searchName|
+
+FUCK) action|dialog_return
+dialog_name|statsblock
+buttonClicked|floatingItems
+
+
+FUCK) action|wrench
+|netid|2
+
+FUCK) action|wrench
+|netid|2
+

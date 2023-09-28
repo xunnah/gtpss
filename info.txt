@@ -192049,3 +192049,51 @@ dialog_name|top_richest
 buttonClicked|userinfo_alfa
 
 
+FUCK) action|dialog_return
+dialog_name|userinfo
+buttonClicked|backtolb
+
+
+FUCK) action|dialog_return
+dialog_name|top_richest
+buttonClicked|userinfo_MrFrost
+
+
+FUCK) action|dialog_return
+dialog_name|userinfo
+buttonClicked|backtolb
+
+
+FUCK) action|dialog_return
+dialog_name|top_richest
+buttonClicked|userinfo_Joji
+
+
+FUCK) action|friends
+delay|0
+
+FUCK) action|dialog_return
+dialog_name|socialportal
+buttonClicked|rich_lb
+
+
+FUCK) action|dialog_return
+dialog_name|top_richest
+buttonClicked|userinfo_Arya
+
+
+FUCK) action|dialog_return
+dialog_name|userinfo
+buttonClicked|backtolb
+
+
+FUCK) action|dialog_return
+dialog_name|top_richest
+buttonClicked|userinfo_Potato
+
+
+FUCK) action|dialog_return
+dialog_name|userinfo
+buttonClicked|backtolb
+
+

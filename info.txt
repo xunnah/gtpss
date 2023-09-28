@@ -193005,3 +193005,39 @@ buttonClicked|goto
 FUCK) action|wrench
 |netid|1
 
+FUCK) action|friends
+delay|0
+
+FUCK) action|dialog_return
+dialog_name|socialportal
+buttonClicked|showfriend
+
+
+FUCK) action|dialog_return
+dialog_name|friends
+buttonClicked|back
+
+
+FUCK) action|dialog_return
+dialog_name|socialportal
+buttonClicked|showguild
+
+
+FUCK) action|dialog_return
+dialog_name|guildmembers
+buttonClicked|Repe
+
+
+FUCK) action|friends
+delay|0
+
+FUCK) action|dialog_return
+dialog_name|socialportal
+buttonClicked|rich_lb
+
+
+FUCK) action|dialog_return
+dialog_name|top_richest
+buttonClicked|userinfo_alfa
+
+

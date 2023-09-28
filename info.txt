@@ -194768,3 +194768,38 @@ SET) action|input
 |text|wsg
 SET) action|input
 |text|wsg man
+SET) action|dialog_return
+dialog_name|vending
+tilex|45|
+tiley|21|
+expectprice|400|
+expectitem|4956|
+buycount|01
+
+SET) action|dialog_return
+dialog_name|vending
+tilex|45|
+tiley|21|
+verify|1|
+buycount|1|
+expectprice|400|
+expectitem|4956|
+
+SET) action|input
+|text|lookin for sum new set
+SET) action|input
+|text|me aswell
+SET) action|input
+|text|i have good looking
+SET) action|input
+|text|set
+SET) action|input
+|text|alrd
+SET) action|input
+|text|u sure do
+SET) action|input
+|text|whered do we get gtoken dude?
+SET) action|input
+|text|idk :D
+SET) action|input
+|text|ight ngahhaha

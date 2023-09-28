@@ -193041,3 +193041,9 @@ dialog_name|top_richest
 buttonClicked|userinfo_alfa
 
 
+COLLECTION) action|dialog_return
+dialog_name|sign_edit
+tilex|48|
+tiley|36|
+sign_text|stuff at 7 msg me when need
+

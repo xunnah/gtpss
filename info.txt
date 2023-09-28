@@ -194695,3 +194695,27 @@ FUCK) action|wrench
 FUCK) action|wrench
 |netid|2
 
+FUCK) action|dialog_return
+dialog_name|popup
+buttonClicked|account_security
+
+
+FUCK) action|wrench
+|netid|2
+
+FUCK) action|wrench
+|netid|2
+
+FUCK) action|friends
+delay|0
+
+FUCK) action|dialog_return
+dialog_name|socialportal
+buttonClicked|rich_lb
+
+
+FUCK) action|dialog_return
+dialog_name|top_richest
+buttonClicked|userinfo_Repe
+
+

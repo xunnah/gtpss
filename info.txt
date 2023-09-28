@@ -193303,3 +193303,9 @@ tilex|45|
 tiley|52|
 sign_text|`4< Evil Twins > (evil)
 
+7) action|drop
+|itemID|2946
+
+7) action|wrench
+|netid|1
+

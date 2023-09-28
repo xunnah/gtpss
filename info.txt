@@ -191313,3 +191313,6 @@ dialog_name|drop_item
 itemID|542|
 count|200
 
+FUCK) action|drop
+|itemID|542
+

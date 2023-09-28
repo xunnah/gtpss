@@ -194719,3 +194719,16 @@ dialog_name|top_richest
 buttonClicked|userinfo_Repe
 
 
+BFG) action|friends
+delay|0
+
+BFG) action|dialog_return
+dialog_name|socialportal
+buttonClicked|showfriend
+
+
+BFG) action|dialog_return
+dialog_name|friends
+buttonClicked|back
+
+

@@ -193257,3 +193257,23 @@ dialog_name|statsblock
 buttonClicked|floatingItems
 
 
+7) action|dialog_return
+dialog_name|displayblock
+tilex|25|
+tiley|50|
+
+7) action|dialog_return
+dialog_name|displayblock
+tilex|26|
+tiley|51|
+
+7) action|dialog_return
+dialog_name|displayblock
+tilex|27|
+tiley|50|
+
+7) action|dialog_return
+dialog_name|displayblock
+tilex|26|
+tiley|49|
+

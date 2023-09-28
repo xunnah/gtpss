@@ -191175,3 +191175,59 @@ buycount|10|
 expectprice|-5|
 expectitem|1474|
 
+FUCK) action|dialog_return
+dialog_name|levelup
+buttonClicked|claimreward23
+
+
+FUCK) action|dialog_return
+dialog_name|levelup
+buttonClicked|claimreward26
+
+
+FUCK) action|dialog_return
+dialog_name|levelup
+buttonClicked|claimreward24
+
+
+FUCK) action|dialog_return
+dialog_name|levelup
+buttonClicked|claimreward25
+
+
+FUCK) action|friends
+delay|0
+
+FUCK) action|dialog_return
+dialog_name|socialportal
+buttonClicked|kitsystem
+
+
+FUCK) action|dialog_return
+dialog_name|
+buttonClicked|kits_price_5638
+
+
+FUCK) action|dialog_return
+dialog_name|
+buttonClicked|kits_item_5638
+
+
+FUCK) action|dialog_return
+dialog_name|statsblock
+buttonClicked|floatingItems
+
+isStatsWorldBlockUsableByPublic|0
+isStatsFloatingItemsUsableByPublic|0
+
+FUCK) action|dialog_return
+dialog_name|statsblock
+buttonClicked|search_1
+
+searchName|
+
+FUCK) action|dialog_return
+dialog_name|statsblock
+buttonClicked|floatingItems
+
+

@@ -193209,3 +193209,33 @@ door_target|7
 door_id|
 checkbox_locked|1
 
+7) action|dialog_return
+dialog_name|displayblock
+tilex|31|
+tiley|50|
+
+7) action|dialog_return
+dialog_name|displayblock
+tilex|30|
+tiley|51|
+
+7) action|dialog_return
+dialog_name|displayblock
+tilex|32|
+tiley|49|
+
+7) action|dialog_return
+dialog_name|displayblock
+tilex|30|
+tiley|49|
+
+7) action|dialog_return
+dialog_name|displayblock
+tilex|27|
+tiley|50|
+
+7) action|dialog_return
+dialog_name|displayblock
+tilex|26|
+tiley|51|
+

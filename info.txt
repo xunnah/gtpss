@@ -194410,3 +194410,31 @@ text_input_spam_delay|3
 text_input_spam_chat|`cBest Server
 checkbox_cheat_spam|0
 
+) tankIDName|Repe
+tankIDPass|Epska123.
+requestedName|kakkapaa
+f|0
+protocol|199
+game_version|4.35
+fz|54525480
+lmode|0
+cbits|0
+player_age|26
+GDPR|1
+category|wotd_world
+totalPlaytime|0
+klv|4ed02212ca8cced2b9a4dd092855d49676693328d6866aff968c132cea207d2b
+hash2|-2140071456
+meta|1695888746
+fhash|-716928004
+rid|01A62688050F0D07055E080B0D328EC8
+platformID|0,1,1
+deviceVersion|0
+country|fi
+hash|-486111811
+mac|d4:5b:45:2b:4a:eb
+reconnect|1
+wk|E9ECE18CA04EC396D842BCE7786CAC73
+zf|-297173788
+) action|enter_game
+

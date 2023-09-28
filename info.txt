@@ -194643,3 +194643,31 @@ checkbox_cheat_spam|0
 FUCK) action|wrench
 |netid|2
 
+FUCK) action|dialog_return
+dialog_name|popup
+buttonClicked|goals
+
+
+FUCK) action|dialog_return
+dialog_name|worlds_list
+buttonClicked|builder_reward
+
+
+FUCK) action|dialog_return
+dialog_name|worlds_list
+buttonClicked|b_claimreward1
+
+
+FUCK) action|dialog_return
+dialog_name|worlds_list
+
+FUCK) action|dialog_return
+dialog_name|popup
+buttonClicked|goals
+
+
+FUCK) action|dialog_return
+dialog_name|worlds_list
+buttonClicked|farmer_reward
+
+
